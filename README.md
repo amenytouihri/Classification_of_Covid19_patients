@@ -1,5 +1,7 @@
 # Classification-of-Covid-patients-based-on-their-health-situations
 
-Built with Python
+Dataset: http://ictcf.biocuckoo.cn/Resource.php
+
+Built with Jupyter Notebook
 
 This project is for CS434 Data Analytics course
