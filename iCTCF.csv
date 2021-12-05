@@ -1,0 +1,1521 @@
+HUST-Union Hospital,Patient 1,81,Male,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Thyroidectomy"
+HUST-Union Hospital,Patient 2,50,Male,Positive,Positive,Regular,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 3,65,Female,Positive,Positive,Regular,Cured,38.5°C,Postoperative cervical cancer
+HUST-Union Hospital,Patient 4,73,Male,Positive,Positive,Severe,Cured,38.5°C,Aorta calcification
+HUST-Union Hospital,Patient 5,64,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 6,61,Female,Positive,Positive,Severe,Cured,37.6°C,"Asthma, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 7,23,Female,Positive,N/A,Regular,Unknown,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 8,41,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 9,25,Female,Positive,Positive,Regular,Cured,39.1°C,No underlying disease
+HUST-Union Hospital,Patient 10,53,Female,Positive,Positive,Severe,Cured,36.2°C,Cholecystectomy
+HUST-Union Hospital,Patient 11,39,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 12,32,Male,Positive,Positive,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 13,67,Female,Positive,Positive,Severe,Cured,38.4°C,"Hysterectomy, Hypertension"
+HUST-Union Hospital,Patient 14,79,Female,Positive,N/A,Critically ill,Deceased,38.5°C,Hypertension
+HUST-Union Hospital,Patient 15,53,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 16,51,Female,Positive,Positive,Regular,Cured,36.4°C,Acute severe pancreatitis
+HUST-Union Hospital,Patient 17,41,Female,Positive,Positive,Regular,Cured,38.8°C,Pituitary adenoma
+HUST-Union Hospital,Patient 18,72,Male,Positive,Positive,Regular,Cured,39.0°C,"Tonsillectomy, Diabetes"
+HUST-Union Hospital,Patient 19,65,Female,Positive,N/A,Severe,Deceased,37.5°C,Diabetes
+HUST-Union Hospital,Patient 20,31,Female,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 21,72,Male,Positive,N/A,Severe,Deceased,37.0°C,"Hypoxemia, Hyperplasia of prostate"
+HUST-Union Hospital,Patient 22,67,Female,Positive,Positive,Severe,Cured,38.5°C,Diabetes
+HUST-Union Hospital,Patient 23,61,Female,Positive,Positive,Severe,Cured,38.9°C,"Hepatic insufficiency, Hypopotassaemia"
+HUST-Union Hospital,Patient 24,34,Male,Negative,Positive,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 25,14,Male,Positive,Positive,Regular,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 26,38,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 27,53,Female,Positive,Positive,Regular,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 28,62,Male,Positive,Positive,Regular,Cured,39.4°C,Resection of bladder cancer
+HUST-Union Hospital,Patient 29,64,Male,Positive,N/A,Severe,Cured,38.4°C,"Hypertension, Hepatitis B, Coronary disease"
+HUST-Union Hospital,Patient 30,74,Female,Positive,Positive,Regular,Cured,37.8°C,Old pulmonary tuberculosis
+HUST-Union Hospital,Patient 31,69,Female,Positive,N/A,Critically ill,Unknown,38.0°C,"Diabetes, Hypertension, Hypothyroidism, Cholecystectomy"
+HUST-Union Hospital,Patient 32,73,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 33,80,Male,Positive,Positive,Severe,Unknown,39.1°C,"Hypertension, Diabetes, Diabetes, Nephrosis"
+HUST-Union Hospital,Patient 34,29,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 35,35,Female,Positive,Positive,Severe,Cured,38.0°C,"Chronic pharyngitis, Atherosclerosis"
+HUST-Union Hospital,Patient 36,64,Female,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Resection of gastric stromal tumor"
+HUST-Union Hospital,Patient 37,52,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 38,62,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 39,46,Female,Positive,Positive,Regular,Cured,37.8°C,Uterine fibroid
+HUST-Union Hospital,Patient 40,55,Female,Positive,Positive,Regular,Unknown,38.6°C,Chemotherapy for right breast lump
+HUST-Union Hospital,Patient 41,35,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 42,31,Female,Positive,Negative,Mild,Cured,36.6°C,Thyroid nodule
+HUST-Union Hospital,Patient 43,56,Male,Positive,N/A,Severe,Deceased,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 44,78,Male,Positive,Positive,Severe,Deceased,36.6°C,"Gangrenous cholecystitis, Liver abscess"
+HUST-Union Hospital,Patient 45,26,Male,Positive,Positive,Regular,Unknown,36.0°C,Chemotherapy for primary mediastinal large B-cell lymphoma
+HUST-Union Hospital,Patient 46,50,Male,Positive,Positive,Regular,Unknown,39.0°C,Pancreatic cancer with metastasis
+HUST-Union Hospital,Patient 47,32,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 48,57,Male,Positive,Positive,Regular,Cured,40.3°C,No underlying disease
+HUST-Union Hospital,Patient 49,48,Female,Positive,Positive,Regular,Unknown,36.5°C,"Hypertensiondiabetes, Postoperative ovarian cancer"
+HUST-Union Hospital,Patient 50,34,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 51,37,Female,Positive,Positive,Regular,Cured,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 52,64,Female,Positive,Positive,Severe,Unknown,38.3°C,Hypertension
+HUST-Union Hospital,Patient 53,63,Male,Positive,Positive,Regular,Cured,36.9°C,No underlying disease
+HUST-Union Hospital,Patient 54,59,Male,Positive,Positive,Regular,Cured,38.1°C,No underlying disease
+HUST-Union Hospital,Patient 55,43,Female,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 56,36,Male,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 57,51,Male,Positive,Positive,Severe,Cured,38.6°C,Gout
+HUST-Union Hospital,Patient 58,86,Male,Positive,Positive,Critically ill,Deceased,38.5°C,"Diabetes, Coronary disease, Myocardial infarction, Prostatectomy"
+HUST-Union Hospital,Patient 59,52,Male,Positive,N/A,Severe,Deceased,38.8°C,Asthma
+HUST-Union Hospital,Patient 60,65,Male,Positive,N/A,Regular,Cured,36.0°C,"Resection of hepatic carcinoma, Targeted combined immunotherapy"
+HUST-Union Hospital,Patient 61,37,Male,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 62,34,Female,Positive,Positive,Regular,Cured,39.3°C,No underlying disease
+HUST-Union Hospital,Patient 63,30,Female,Positive,Positive,Regular,Cured,39.4°C,No underlying disease
+HUST-Union Hospital,Patient 64,36,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 65,91,Male,Positive,Positive,Severe,Cured,38.3°C,"Hypertension, Coronary disease"
+HUST-Union Hospital,Patient 66,71,Female,Positive,N/A,Severe,Cured,38.5°C,"Diabetes, Coronary disease, Thyroid nodule"
+HUST-Union Hospital,Patient 67,63,Female,Positive,Positive,Regular,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 68,61,Male,Positive,Positive,Severe,Cured,38.5°C,Hypertension
+HUST-Union Hospital,Patient 69,30,Female,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 70,82,Female,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 71,46,Male,Positive,Positive,Regular,Cured,37.5°C,Pancreatoduodenectomy
+HUST-Union Hospital,Patient 72,56,Female,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 73,55,Male,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 74,33,Female,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 75,68,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 76,81,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 77,64,Female,Positive,Positive,Severe,Cured,38.3°C,Hypertension
+HUST-Union Hospital,Patient 78,35,Female,Positive,Positive,Regular,Cured,38.7°C,Diabetes
+HUST-Union Hospital,Patient 79,51,Male,Positive,Positive,Regular,Cured,38.5°C,Gout
+HUST-Union Hospital,Patient 80,41,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 81,68,Female,Positive,Positive,Severe,Cured,38.1°C,No underlying disease
+HUST-Union Hospital,Patient 82,28,Female,Positive,N/A,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 83,35,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 84,37,Male,Positive,N/A,Regular,Unknown,40.2°C,No underlying disease
+HUST-Union Hospital,Patient 85,62,Female,Positive,Positive,Regular,Cured,36.7°C,Chronic gastritis
+HUST-Union Hospital,Patient 86,40,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 87,70,Female,Positive,Positive,Regular,Cured,38.1°C,Diabetes
+HUST-Union Hospital,Patient 88,30,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 89,43,Female,Positive,Positive,Regular,Cured,38.5°C,"Thyroid nodule, Uterine fibroid"
+HUST-Union Hospital,Patient 90,51,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 91,44,Male,Positive,Positive,Regular,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 92,47,Female,Positive,Positive,Regular,Cured,37.6°C,No underlying disease
+HUST-Union Hospital,Patient 93,69,Male,Positive,Positive,Severe,Cured,37.2°C,Hypertension
+HUST-Union Hospital,Patient 94,30,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 95,64,Male,Positive,Positive,Severe,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 96,32,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 97,46,Male,Positive,Positive,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 98,35,Female,Positive,Positive,Regular,Unknown,36.2°C,Acute lymphoblastic leukemia
+HUST-Union Hospital,Patient 99,58,Male,Positive,N/A,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 100,53,Female,Positive,N/A,Mild,Unknown,36.6°C,Multiple myeloma
+HUST-Union Hospital,Patient 101,66,Female,Positive,Positive,Severe,Unknown,38.5°C,Thyroid gland resection
+HUST-Union Hospital,Patient 102,27,Female,Positive,Positive,Regular,Cured,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 103,23,Female,Positive,Positive,Regular,Cured,36.9°C,Gynecologic tumor
+HUST-Union Hospital,Patient 104,48,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 105,30,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 106,60,Male,Positive,Positive,Severe,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 107,27,Male,Positive,Positive,Regular,Cured,39.0°C,Asthma
+HUST-Union Hospital,Patient 108,42,Female,Positive,Positive,Regular,Cured,38.5°C,Hyperthyroidism
+HUST-Union Hospital,Patient 109,35,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 110,65,Female,Positive,Positive,Severe,Cured,36.8°C,Diabetes
+HUST-Union Hospital,Patient 111,44,Female,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 112,51,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 113,29,Male,Positive,Negative,Mild,Cured,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 114,36,Male,Positive,Positive,Regular,Cured,37.6°C,"Hyperlipemia, Gout"
+HUST-Union Hospital,Patient 115,67,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Chronic bronchitis, Hypertension, Coronary disease"
+HUST-Union Hospital,Patient 116,70,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 117,24,Female,Negative,Positive,Suspected,Unknown,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 118,37,Female,Negative,Positive,Suspected,Unknown,38.8°C,"Thyroid nodule, Hashimoto thyroiditis, Uterine myomectomy"
+HUST-Union Hospital,Patient 119,38,Male,Negative,Positive,Suspected,Unknown,38.1°C,No underlying disease
+HUST-Union Hospital,Patient 120,36,Female,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 121,67,Male,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Myocardial infarction, Cholecystolithiasis surgery"
+HUST-Union Hospital,Patient 122,71,Female,Positive,Positive,Regular,Cured,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 123,65,Male,Negative,N/A,Control,Unknown,39.0°C,"Gout, Hypertension, Renal failure"
+HUST-Union Hospital,Patient 124,28,Female,Negative,Positive,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 125,63,Female,Negative,N/A,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 126,50,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 127,70,Male,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 128,71,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 129,40,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 130,64,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 131,37,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 132,55,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 133,32,Male,Positive,Positive,Regular,Cured,38.4°C,Hepatic hemangioma
+HUST-Union Hospital,Patient 134,71,Female,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 135,35,Female,Negative,N/A,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 136,28,Male,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 137,67,Male,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 138,53,Female,Positive,Positive,Regular,Cured,36.6°C,Chronic bronchitis
+HUST-Union Hospital,Patient 139,55,Female,Negative,Positive,Suspected,Unknown,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 140,48,Male,Negative,Positive,Suspected,Unknown,38.8°C,"Hypertension, Chronic renal failure"
+HUST-Union Hospital,Patient 141,92,Male,Negative,Positive,Suspected,Unknown,39.5°C,"Cerebral infarction, Senile dementia"
+HUST-Union Hospital,Patient 142,64,Male,Negative,Positive,Suspected,Unknown,38.0°C,Diabetes
+HUST-Union Hospital,Patient 143,31,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 144,33,Female,Negative,Negative,Control,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 145,38,Female,Negative,Negative,Control,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 146,34,Male,Positive,Positive,Regular,Cured,39.2°C,Tonsillectomy
+HUST-Union Hospital,Patient 147,56,Male,Negative,Positive,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 148,24,Male,Negative,Negative,Control,Unknown,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 149,74,Male,Negative,N/A,Suspected,Unknown,36.3°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 150,40,Female,Negative,Positive,Suspected,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 151,50,Male,Negative,Positive,Suspected,Unknown,36.1°C,No underlying disease
+HUST-Union Hospital,Patient 152,47,Female,Positive,Positive,Regular,Cured,39.0°C,Hypothyroidism
+HUST-Union Hospital,Patient 153,65,Female,Negative,Positive,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 154,35,Female,Negative,Positive,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 155,62,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 156,32,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 157,49,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 158,79,Female,Negative,Positive,Suspected,Unknown,37.6°C,Hypertension
+HUST-Union Hospital,Patient 159,36,Female,Negative,Positive,Suspected,Unknown,39.2°C,No underlying disease
+HUST-Union Hospital,Patient 160,36,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 161,32,Female,Positive,Positive,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 162,30,Male,Negative,Positive,Suspected,Unknown,38.8°C,"Diabetes, Rhinitis"
+HUST-Union Hospital,Patient 163,35,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 164,42,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 165,62,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 166,57,Female,Negative,Positive,Suspected,Unknown,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 167,70,Male,Negative,Positive,Suspected,Unknown,38.7°C,"Diabetes, Hypertension, Heart disease"
+HUST-Union Hospital,Patient 168,44,Male,Negative,Negative,Control,Unknown,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 169,38,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 170,54,Female,Negative,Positive,Suspected,Unknown,39.0°C,"Hypertension, Diabetes, Hyperlipemia"
+HUST-Union Hospital,Patient 171,63,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 172,69,Female,Negative,N/A,Suspected,Unknown,39.0°C,Cholecystectomy
+HUST-Union Hospital,Patient 173,35,Male,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 174,29,Male,Positive,Positive,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 175,48,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 176,58,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 177,38,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 178,66,Male,Positive,Positive,Regular,Cured,38.7°C,"Hypertension, Thyroidectomy"
+HUST-Union Hospital,Patient 179,47,Female,Negative,Positive,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 180,54,Female,Negative,Positive,Suspected,Unknown,36.6°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 181,35,Female,Negative,N/A,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 182,49,Male,Negative,N/A,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 183,50,Male,Negative,N/A,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 184,61,Male,Negative,Positive,Suspected,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 185,52,Female,Positive,Positive,Regular,Cured,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 186,6,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 187,37,Female,Negative,Positive,Suspected,Unknown,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 188,67,Male,Negative,N/A,Suspected,Unknown,39.0°C,"Hypertension, Emphysema"
+HUST-Union Hospital,Patient 189,33,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 190,70,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 191,30,Female,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 192,75,Female,Negative,Positive,Suspected,Unknown,39.0°C,"Repair of atrial defect, Resection of left upper lobe nodule"
+HUST-Union Hospital,Patient 193,1,Male,Negative,N/A,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 194,29,Male,Positive,N/A,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 195,57,Female,Negative,N/A,Suspected,Unknown,38.8°C,Hypertension
+HUST-Union Hospital,Patient 196,35,Female,Positive,N/A,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 197,46,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 198,65,Female,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 199,33,Female,Positive,N/A,Regular,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 200,53,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 201,47,Female,Positive,Positive,Severe,Cured,38.5°C,Radiofrequency ablation
+HUST-Union Hospital,Patient 202,72,Male,Positive,N/A,Severe,Deceased,38.0°C,Hypertension
+HUST-Union Hospital,Patient 203,44,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 204,56,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 205,63,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 206,62,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 207,32,Male,Positive,Positive,Severe,Cured,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 208,60,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 209,78,Female,Positive,N/A,Critically ill,Cured,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 210,66,Female,Positive,N/A,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 211,55,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 212,53,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 213,54,Male,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 214,69,Female,Positive,Positive,Severe,Cured,37.4°C,"Hypertension, Diabetes, Coronary disease"
+HUST-Union Hospital,Patient 215,51,Male,Positive,Positive,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 216,39,Male,Positive,Positive,Regular,Cured,39.7°C,Diabetes
+HUST-Union Hospital,Patient 217,50,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 218,53,Male,Positive,Positive,Regular,Cured,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 219,65,Male,Positive,N/A,Severe,Deceased,38.8°C,Hypertensioncoronary disease
+HUST-Union Hospital,Patient 220,47,Male,Positive,Positive,Regular,Cured,39.3°C,Partial thyroidectomy
+HUST-Union Hospital,Patient 221,33,Female,Positive,Positive,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 222,74,Male,Positive,Positive,Severe,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 223,57,Female,Positive,Positive,Severe,Cured,38.5°C,Hypertension
+HUST-Union Hospital,Patient 224,93,Male,Positive,N/A,Severe,Cured,37.0°C,"Heart disease, Hypertension"
+HUST-Union Hospital,Patient 225,37,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 226,52,Female,Positive,Positive,Severe,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 227,61,Female,Positive,Positive,Severe,Cured,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 228,63,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 229,80,Male,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 230,36,Male,Positive,Positive,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 231,47,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 232,50,Male,Positive,Positive,Severe,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 233,70,Male,Positive,N/A,Severe,Deceased,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 234,56,Male,Positive,Positive,Severe,Cured,39.6°C,No underlying disease
+HUST-Union Hospital,Patient 235,44,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 236,85,Male,Positive,Positive,Regular,Cured,36.1°C,No underlying disease
+HUST-Union Hospital,Patient 237,67,Male,Positive,N/A,Critically ill,Deceased,39.0°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 238,56,Male,Positive,N/A,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 239,85,Female,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 240,55,Female,Positive,Positive,Severe,Cured,39.0°C,Resection of lung cancer
+HUST-Union Hospital,Patient 241,30,Female,Positive,N/A,Severe,Cured,39.5°C,Fatty liver
+HUST-Union Hospital,Patient 242,39,Male,Positive,Positive,Severe,Cured,39.9°C,No underlying disease
+HUST-Union Hospital,Patient 243,63,Male,Positive,Positive,Regular,Cured,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 244,70,Female,Positive,Positive,Severe,Deceased,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 245,52,Female,Positive,Positive,Severe,Cured,38.3°C,Duodenal ulcer
+HUST-Union Hospital,Patient 246,64,Female,Positive,Positive,Severe,Cured,38.0°C,Lung cancer
+HUST-Union Hospital,Patient 247,61,Male,Positive,N/A,Critically ill,Deceased,39.2°C,No underlying disease
+HUST-Union Hospital,Patient 248,47,Male,Positive,N/A,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 249,63,Male,Positive,Positive,Severe,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 250,81,Male,Positive,N/A,Severe,Deceased,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 251,41,Male,Positive,Positive,Severe,Cured,39.0°C,Diabetes
+HUST-Union Hospital,Patient 252,60,Male,Positive,Positive,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 253,59,Female,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 254,60,Male,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 255,23,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 256,54,Male,Positive,Positive,Severe,Cured,39.7°C,No underlying disease
+HUST-Union Hospital,Patient 257,65,Male,Positive,Positive,Severe,Cured,39.0°C,Bronchitis
+HUST-Union Hospital,Patient 258,66,Female,Positive,Positive,Severe,Cured,38.8°C,Resection of ovarian cancer
+HUST-Union Hospital,Patient 259,84,Female,Positive,Positive,Severe,Deceased,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 260,85,Male,Positive,Positive,Critically ill,Deceased,38.9°C,"Hypertension, Diabetes, Hypertensionheart disease, Interstitial lung disease, Hyperplasia of prostate, Chronic renal insufficiency"
+HUST-Union Hospital,Patient 261,63,Female,Positive,Positive,Critically ill,Deceased,38.9°C,"Arrhythmia, Hashimoto thyroiditis"
+HUST-Union Hospital,Patient 262,48,Female,Positive,Positive,Regular,Cured,37.9°C,No underlying disease
+HUST-Union Hospital,Patient 263,47,Female,Positive,Positive,Regular,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 264,70,Male,Positive,N/A,Critically ill,Deceased,39.5°C,Hypertension
+HUST-Union Hospital,Patient 265,61,Male,Positive,Positive,Severe,Cured,37.9°C,No underlying disease
+HUST-Union Hospital,Patient 266,29,Male,Positive,Positive,Severe,Cured,37.9°C,No underlying disease
+HUST-Union Hospital,Patient 267,79,Female,Positive,Positive,Regular,Cured,38.0°C,Coronary disease
+HUST-Union Hospital,Patient 268,56,Male,Positive,Positive,Regular,Cured,38.7°C,Hypertension
+HUST-Union Hospital,Patient 269,74,Male,Positive,Positive,Regular,Unknown,39.2°C,Percutaneous coronary intervention
+HUST-Union Hospital,Patient 270,81,Female,Positive,N/A,Critically ill,Deceased,36.4°C,Chronic renal insufficiency
+HUST-Union Hospital,Patient 271,34,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 272,28,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 273,35,Female,Positive,Positive,Regular,Cured,36.5°C,Aortic valve replacement
+HUST-Union Hospital,Patient 274,49,Female,Positive,Positive,Regular,Cured,36.3°C,Hypertension
+HUST-Union Hospital,Patient 275,32,Female,Positive,Positive,Regular,Cured,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 276,66,Male,Positive,Positive,Regular,Cured,37.8°C,Chronic obstructive pulmonary disease
+HUST-Union Hospital,Patient 277,71,Male,Positive,Positive,Regular,Cured,38.5°C,Right nephrectomy
+HUST-Union Hospital,Patient 278,51,Female,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 279,49,Male,Positive,Positive,Regular,Cured,39.6°C,"Hypertension, Cholecystitis"
+HUST-Union Hospital,Patient 280,82,Female,Positive,Positive,Critically ill,Cured,37.8°C,"Hypertension, Chronic pharyngitis"
+HUST-Union Hospital,Patient 281,67,Female,Positive,Positive,Regular,Cured,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 282,86,Male,Positive,Positive,Severe,Deceased,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 283,77,Female,Positive,N/A,Critically ill,Deceased,37.4°C,"Hypertension, Postoperative gastric cancer"
+HUST-Union Hospital,Patient 284,57,Male,Positive,N/A,Severe,Cured,38.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 285,61,Female,Positive,Positive,Regular,Cured,36.5°C,"Heart disease, Hypertension, Lacunar infarction"
+HUST-Union Hospital,Patient 286,31,Male,Positive,Positive,Regular,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 287,51,Male,Positive,N/A,Critically ill,Deceased,38.7°C,"Gastric ulcer, Surgery after pancreatic cancer with metastasis of lung and liver"
+HUST-Union Hospital,Patient 288,30,Male,Positive,Positive,Regular,Cured,39.0°C,"Hypertension, Hyperuricemia"
+HUST-Union Hospital,Patient 289,39,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 290,79,Male,Positive,N/A,Critically ill,Deceased,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 291,70,Female,Positive,Positive,Regular,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 292,72,Female,Positive,N/A,Critically ill,Cured,40.0°C,Diabetes
+HUST-Union Hospital,Patient 293,61,Female,Positive,Positive,Severe,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 294,31,Male,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 295,38,Male,Positive,Positive,Severe,Cured,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 296,17,Female,Positive,Positive,Regular,Cured,38.6°C,"Hematopoietic stem cell transplantation, Acute myeloid leukemia, Severe immunodeficiency, Obstructive jaundice"
+HUST-Union Hospital,Patient 297,61,Male,Positive,N/A,Critically ill,Deceased,39.6°C,No underlying disease
+HUST-Union Hospital,Patient 298,63,Female,Positive,Positive,Severe,Cured,39.0°C,Hyperthyroidism
+HUST-Union Hospital,Patient 299,75,Male,Positive,Positive,Regular,Cured,36.5°C,Old pulmonary tuberculosis
+HUST-Union Hospital,Patient 300,48,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 301,64,Female,Positive,N/A,Critically ill,Deceased,36.6°C,Postoperative cervical cancer
+HUST-Union Hospital,Patient 302,83,Male,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 303,65,Female,Positive,N/A,Critically ill,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 304,35,Male,Positive,Positive,Regular,Cured,39.7°C,No underlying disease
+HUST-Union Hospital,Patient 305,72,Male,Positive,N/A,Severe,Deceased,37.5°C,Hypertension
+HUST-Union Hospital,Patient 306,58,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 307,72,Female,Positive,Positive,Severe,Cured,38.8°C,"Coronary disease, Hypertension"
+HUST-Union Hospital,Patient 308,33,Male,Positive,Positive,Regular,Cured,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 309,33,Male,Negative,N/A,Suspected,Unknown,36.6°C,"Diabetes, Diabetes"
+HUST-Union Hospital,Patient 310,65,Female,Positive,N/A,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 311,24,Female,Positive,Positive,Regular,Cured,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 312,32,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 313,80,Female,Negative,N/A,Control,Unknown,36.7°C,"Targeted therapy after lung cancer surgery, Extensive atherosclerosis of arteries in both lower extremities, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 314,32,Female,Positive,N/A,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 315,68,Male,Positive,N/A,Critically ill,Deceased,38.5°C,"Pulmonary encephalopathy, Hypertension"
+HUST-Union Hospital,Patient 316,65,Female,Positive,N/A,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 317,68,Female,Positive,N/A,Regular,Cured,38.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 318,57,Female,Positive,N/A,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 319,77,Male,Positive,N/A,Critically ill,Deceased,38.7°C,"Hypertension, Pacemaker implantation"
+HUST-Union Hospital,Patient 320,69,Male,Negative,N/A,Suspected,Unknown,39.6°C,"Copd, Chronic bronchitis"
+HUST-Union Hospital,Patient 321,71,Male,Positive,N/A,Critically ill,Deceased,37.0°C,Coronary disease
+HUST-Union Hospital,Patient 322,33,Male,Positive,N/A,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 323,97,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 324,34,Female,Negative,Positive,Suspected,Unknown,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 325,29,Female,Positive,N/A,Regular,Cured,38.3°C,Polycystic ovary syndrome
+HUST-Union Hospital,Patient 326,28,Female,Positive,Negative,Mild,Unknown,38.8°C,Depression
+HUST-Union Hospital,Patient 327,62,Female,Positive,Negative,Mild,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 328,34,Female,Positive,N/A,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 329,30,Female,Positive,Positive,Regular,Cured,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 330,65,Female,Negative,N/A,Suspected,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 331,67,Male,Positive,N/A,Critically ill,Deceased,37.0°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 332,36,Male,Positive,N/A,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 333,32,Female,Positive,N/A,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 334,31,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 335,38,Male,Positive,N/A,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 336,30,Female,Positive,N/A,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 337,43,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 338,30,Male,Positive,N/A,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 339,41,Female,Positive,N/A,Severe,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 340,40,Male,Positive,N/A,Regular,Cured,38.4°C,"Fatty liver, Renal calculi"
+HUST-Union Hospital,Patient 341,44,Male,Positive,N/A,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 342,29,Female,Positive,Positive,Severe,Cured,38.4°C,Mastectomy for fibroma
+HUST-Union Hospital,Patient 343,90,Male,Negative,N/A,Control,Unknown,37.9°C,"Asthma, Coronary disease, Hypertension"
+HUST-Union Hospital,Patient 344,60,Male,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 345,69,Female,Positive,Positive,Regular,Cured,36.0°C,Hypertension
+HUST-Union Hospital,Patient 346,29,Female,Positive,N/A,Regular,Cured,38.3°C,Thyroid gland resection
+HUST-Union Hospital,Patient 347,68,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 348,32,Male,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 349,71,Male,Positive,N/A,Critically ill,Deceased,37.3°C,"Cerebral infarction, Diabetes, Hypertension, Arrhythmia"
+HUST-Union Hospital,Patient 350,62,Female,Positive,Positive,Severe,Unknown,39.0°C,"Hypertension, Sick sinus syndrome"
+HUST-Union Hospital,Patient 351,40,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 352,62,Female,Positive,N/A,Regular,Cured,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 353,67,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 354,37,Female,Positive,N/A,Regular,Cured,38.4°C,No underlying disease
+HUST-Union Hospital,Patient 355,46,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 356,71,Female,Positive,Positive,Regular,Unknown,38.8°C,Erosive gastritis
+HUST-Union Hospital,Patient 357,80,Female,Positive,Positive,Regular,Cured,38.0°C,"Diabetes, Hypertension"
+HUST-Union Hospital,Patient 358,71,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 359,32,Female,Negative,N/A,Suspected,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 360,46,Female,Positive,N/A,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 361,33,Male,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 362,63,Male,Positive,N/A,Regular,Unknown,39.0°C,"Coronary disease, Hypothyroidism"
+HUST-Union Hospital,Patient 363,38,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 364,63,Female,Negative,N/A,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 365,63,Female,Positive,N/A,Regular,Cured,39.4°C,Coronary disease
+HUST-Union Hospital,Patient 366,63,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 367,27,Female,Positive,Negative,Mild,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 368,78,Female,Positive,Positive,Regular,Cured,37.4°C,"Diabetes, Hypertension, Hepatitis B, Thyroidectomy, Hyponatremia"
+HUST-Union Hospital,Patient 369,71,Male,Positive,N/A,Critically ill,Deceased,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 370,57,Male,Positive,N/A,Critically ill,Cured,39.1°C,No underlying disease
+HUST-Union Hospital,Patient 371,76,Male,Negative,N/A,Suspected,Unknown,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 372,70,Male,Positive,N/A,Critically ill,Deceased,39.1°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 373,53,Female,Positive,Positive,Severe,Cured,37.8°C,Hypertension
+HUST-Union Hospital,Patient 374,36,Female,Positive,N/A,Regular,Cured,38.2°C,Cervical conization
+HUST-Union Hospital,Patient 375,46,Female,Negative,Negative,Control,Unknown,36.7°C,Hypertension
+HUST-Union Hospital,Patient 376,36,Female,Positive,N/A,Regular,Cured,37.3°C,Postoperative ectopic pregnancy
+HUST-Union Hospital,Patient 377,39,Male,Negative,N/A,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 378,27,Male,Positive,Positive,Regular,Cured,38.1°C,No underlying disease
+HUST-Union Hospital,Patient 379,65,Female,Positive,N/A,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 380,39,Female,Negative,Positive,Suspected,Unknown,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 381,70,Female,Positive,N/A,Regular,Cured,38.6°C,"Hypertension, Diabetes, Postoperative breast cancer"
+HUST-Union Hospital,Patient 382,55,Male,Positive,N/A,Regular,Cured,37.8°C,Chronic bronchitis
+HUST-Union Hospital,Patient 383,2,Male,Negative,N/A,Control,Unknown,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 384,48,Female,Negative,Positive,Suspected,Unknown,36.6°C,Lung tumor
+HUST-Union Hospital,Patient 385,66,Female,Positive,N/A,Regular,Cured,38.8°C,"Thyroid gland resection, Hypothyroidism"
+HUST-Union Hospital,Patient 386,66,Female,Positive,N/A,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 387,57,Male,Positive,Positive,Critically ill,Deceased,37.0°C,"Dilated cardiomyopathy, Severe heart failure, Diabetes, Chronic obstructive pulmonary disease"
+HUST-Union Hospital,Patient 388,69,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 389,71,Female,Positive,N/A,Critically ill,Deceased,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 390,56,Female,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 391,71,Female,Positive,Positive,Severe,Cured,37.2°C,"Hypertension, Coronary disease"
+HUST-Union Hospital,Patient 392,59,Female,Positive,Positive,Regular,Cured,37.6°C,Breast cancer surgery
+HUST-Union Hospital,Patient 393,79,Male,Positive,Positive,Severe,Cured,38.0°C,"Hypertension, Hyperplasia of prostate"
+HUST-Union Hospital,Patient 394,71,Male,Positive,N/A,Critically ill,Deceased,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 395,33,Male,Positive,Positive,Regular,Cured,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 396,39,Male,Positive,Positive,Critically ill,Deceased,38.7°C,Gastrectomy
+HUST-Union Hospital,Patient 397,70,Male,Positive,Positive,Regular,Cured,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 398,57,Female,Positive,Positive,Severe,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 399,71,Female,Positive,Positive,Severe,Cured,38.0°C,"Hypertension, Renal failure"
+HUST-Union Hospital,Patient 400,65,Male,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 401,88,Female,Positive,N/A,Severe,Cured,38.5°C,Hypertension
+HUST-Union Hospital,Patient 402,58,Female,Positive,Positive,Regular,Cured,39.8°C,No underlying disease
+HUST-Union Hospital,Patient 403,88,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 404,50,Male,Positive,N/A,Severe,Cured,39.0°C,Hypertension
+HUST-Union Hospital,Patient 405,9,Male,Positive,Positive,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 406,55,Male,Positive,Positive,Severe,Cured,38.0°C,Chronic renal insufficiency
+HUST-Union Hospital,Patient 407,58,Male,Positive,Positive,Regular,Cured,38.2°C,"Coronary disease, Hyperlipidemia, Diabetes, Hyperuricemia"
+HUST-Union Hospital,Patient 408,75,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 409,61,Male,Positive,N/A,Critically ill,Deceased,38.0°C,"Chronic bronchitis, Emphysema"
+HUST-Union Hospital,Patient 410,79,Male,Positive,N/A,Critically ill,Deceased,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 411,34,Female,Positive,Positive,Regular,Cured,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 412,29,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 413,55,Male,Positive,Positive,Regular,Cured,39.1°C,No underlying disease
+HUST-Union Hospital,Patient 414,60,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 415,54,Female,Positive,Positive,Severe,Cured,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 416,28,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 417,67,Male,Positive,Positive,Severe,Cured,37.8°C,"Coronary disease, Hypertension"
+HUST-Union Hospital,Patient 418,33,Female,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 419,66,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 420,42,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 421,58,Female,Positive,Positive,Severe,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 422,63,Male,Positive,N/A,Critically ill,Deceased,39.0°C,Hypothyroidism
+HUST-Union Hospital,Patient 423,52,Female,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 424,63,Male,Positive,Positive,Regular,Cured,39.2°C,"Hypertension, Uremia"
+HUST-Union Hospital,Patient 425,27,Male,Positive,Positive,Regular,Cured,39.3°C,No underlying disease
+HUST-Union Hospital,Patient 426,20,Male,Positive,Positive,Critically ill,Deceased,40.5°C,"Type B lymphocytic leukemia, Hematopoietic stem cell transplantation"
+HUST-Union Hospital,Patient 427,59,Male,Positive,Positive,Regular,Cured,39.2°C,No underlying disease
+HUST-Union Hospital,Patient 428,62,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 429,51,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 430,69,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 431,63,Female,Positive,N/A,Regular,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 432,75,Female,Positive,Positive,Critically ill,Cured,36.5°C,Hypertension
+HUST-Union Hospital,Patient 433,77,Male,Positive,N/A,Severe,Cured,41.8°C,No underlying disease
+HUST-Union Hospital,Patient 434,78,Male,Positive,N/A,Severe,Cured,38.9°C,"Coronary disease, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 435,62,Female,Positive,Positive,Regular,Cured,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 436,34,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 437,48,Male,Positive,Positive,Severe,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 438,67,Male,Positive,N/A,Severe,Cured,37.9°C,No underlying disease
+HUST-Union Hospital,Patient 439,73,Male,Positive,Positive,Regular,Cured,39.4°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 440,54,Male,Positive,Positive,Regular,Cured,38.3°C,"Fatty liver, Hyperlipoidemia, Renal calculi"
+HUST-Union Hospital,Patient 441,71,Male,Positive,Positive,Regular,Cured,38.0°C,"Bronchial asthma, Chronic bronchitis"
+HUST-Union Hospital,Patient 442,66,Male,Positive,Positive,Regular,Cured,37.1°C,No underlying disease
+HUST-Union Hospital,Patient 443,66,Male,Positive,Positive,Severe,Cured,38.3°C,"Hypertension, Heart disease, Diabetes"
+HUST-Union Hospital,Patient 444,50,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 445,59,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 446,71,Male,Positive,Positive,Regular,Cured,39.7°C,"Hypertension, Hyperglycemia"
+HUST-Union Hospital,Patient 447,87,Male,Positive,Positive,Critically ill,Deceased,36.6°C,"Myocardial infarction, Heart failure, Prostate cancer, Lacunar cerebral infarction, Parkinson disease"
+HUST-Union Hospital,Patient 448,60,Male,Positive,N/A,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 449,67,Male,Positive,N/A,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 450,66,Male,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 451,36,Female,Positive,Positive,Severe,Cured,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 452,43,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 453,49,Female,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 454,82,Male,Positive,N/A,Severe,Cured,39.0°C,"Chronic obstructive pulmonary disease, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 455,64,Female,Positive,N/A,Severe,Cured,38.2°C,"Hypertension, Coronary disease"
+HUST-Union Hospital,Patient 456,56,Male,Positive,Positive,Regular,Cured,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 457,69,Male,Positive,Positive,Severe,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 458,40,Female,Positive,Positive,Severe,Cured,39.5°C,"Hypertension, Diabetes, Coronary disease"
+HUST-Union Hospital,Patient 459,67,Male,Positive,Positive,Critically ill,Deceased,36.6°C,"Valvular heart disease, Lactic acidosis, Hypertension"
+HUST-Union Hospital,Patient 460,36,Male,Positive,Positive,Severe,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 461,57,Female,Positive,Positive,Severe,Cured,38.6°C,"Thyroid cyst, Fatty liver"
+HUST-Union Hospital,Patient 462,57,Male,Positive,N/A,Critically ill,Deceased,39.5°C,Hypertension
+HUST-Union Hospital,Patient 463,27,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 464,24,Female,Positive,Positive,Regular,Cured,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 465,61,Male,Positive,Positive,Regular,Cured,38.5°C,"Gastric cancer surgery, Hypertension"
+HUST-Union Hospital,Patient 466,65,Male,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Hyperplasia of prostate"
+HUST-Union Hospital,Patient 467,40,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 468,69,Male,Positive,Positive,Regular,Cured,37.1°C,"Hypertension, Diabetes, Hyperlipemia, Renal calculus"
+HUST-Union Hospital,Patient 469,52,Female,Positive,Positive,Regular,Cured,39.4°C,Gastritis
+HUST-Union Hospital,Patient 470,69,Male,Positive,Positive,Regular,Cured,39.0°C,"Diabetes, Hypertension"
+HUST-Union Hospital,Patient 471,46,Male,Positive,Positive,Critically ill,Cured,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 472,29,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 473,73,Male,Positive,Positive,Regular,Cured,36.2°C,Hypertension
+HUST-Union Hospital,Patient 474,78,Female,Positive,Positive,Regular,Cured,37.4°C,Heart disease
+HUST-Union Hospital,Patient 475,57,Female,Positive,Negative,Mild,Cured,38.6°C,Hypertension
+HUST-Union Hospital,Patient 476,84,Female,Positive,Positive,Regular,Cured,37.5°C,"Rheumatic heart disease, Mechanical mitral valve replacement"
+HUST-Union Hospital,Patient 477,35,Female,Positive,N/A,Mild,Cured,36.5°C,Thyroid gland resection
+HUST-Union Hospital,Patient 478,71,Female,Positive,Negative,Mild,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 479,65,Female,Positive,Positive,Regular,Cured,38.4°C,"Hyperlipemia, Myocardial ischemia, Chronic bronchitis"
+HUST-Union Hospital,Patient 480,57,Male,Positive,Positive,Regular,Cured,38.5°C,Gallstone
+HUST-Union Hospital,Patient 481,33,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 482,72,Male,Positive,Positive,Regular,Cured,37.5°C,Vascular sclerosis
+HUST-Union Hospital,Patient 483,83,Male,Positive,Positive,Regular,Cured,36.7°C,Prostate cancer with bone metastasis
+HUST-Union Hospital,Patient 484,63,Female,Positive,Positive,Regular,Cured,38.0°C,"Diabetes, Hypertension"
+HUST-Union Hospital,Patient 485,49,Male,Positive,Positive,Severe,Cured,37.8°C,"Hypertension, Hyperlipemia, Hyperuricemia"
+HUST-Union Hospital,Patient 486,29,Male,Positive,Negative,Mild,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 487,61,Male,Positive,Positive,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 488,76,Male,Positive,Positive,Regular,Cured,37.8°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 489,49,Female,Positive,Negative,Mild,Cured,36.6°C,Mastectomy for fibroma
+HUST-Union Hospital,Patient 490,73,Female,Positive,Negative,Mild,Cured,36.6°C,Hypertension
+HUST-Union Hospital,Patient 491,53,Female,Positive,Positive,Regular,Cured,37.4°C,No underlying disease
+HUST-Union Hospital,Patient 492,29,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 493,66,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 494,56,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 495,56,Male,Positive,N/A,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 496,75,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 497,54,Male,Positive,Positive,Regular,Unknown,37.2°C,Hypertension
+HUST-Union Hospital,Patient 498,61,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 499,29,Female,Positive,Negative,Mild,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 500,69,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 501,61,Male,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 502,39,Male,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 503,69,Male,Positive,Positive,Regular,Cured,37.8°C,Hypertension
+HUST-Union Hospital,Patient 504,69,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 505,27,Female,Positive,Negative,Mild,Cured,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 506,76,Male,Positive,Positive,Regular,Cured,39.0°C,Hyperplasia of prostate
+HUST-Union Hospital,Patient 507,37,Female,Positive,Positive,Regular,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 508,65,Female,Positive,Positive,Regular,Cured,38.8°C,Diabetes
+HUST-Union Hospital,Patient 509,71,Male,Positive,Positive,Severe,Unknown,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 510,72,Female,Positive,N/A,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 511,56,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 512,67,Male,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 513,27,Female,Positive,N/A,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 514,66,Male,Positive,N/A,Regular,Cured,39.0°C,Diabetes
+HUST-Union Hospital,Patient 515,68,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 516,93,Female,Positive,Positive,Critically ill,Cured,38.5°C,Consciousness disorder
+HUST-Union Hospital,Patient 517,92,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 518,80,Female,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 519,68,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 520,64,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 521,61,Male,Positive,N/A,Regular,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 522,27,Male,Positive,Positive,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 523,34,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 524,72,Male,Positive,Positive,Regular,Cured,38.7°C,"Coronary disease, Percutaneous coronary intervention, Renal insufficiency, Hypertension, Gout, Intracranial aneurysm, Old cerebral infarction"
+HUST-Union Hospital,Patient 525,45,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 526,51,Female,Positive,Positive,Regular,Cured,39.3°C,No underlying disease
+HUST-Union Hospital,Patient 527,62,Female,Positive,Positive,Regular,Cured,38.7°C,Hypertension
+HUST-Union Hospital,Patient 528,61,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 529,58,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 530,66,Female,Positive,N/A,Critically ill,Deceased,39.0°C,"Renal insufficiency, Hypertension"
+HUST-Union Hospital,Patient 531,59,Female,Positive,Positive,Regular,Cured,38.5°C,"Diabetes, Coronary disease"
+HUST-Union Hospital,Patient 532,64,Female,Positive,Positive,Regular,Cured,38.0°C,"Asthma, Hypothyroidism"
+HUST-Union Hospital,Patient 533,56,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 534,69,Female,Negative,Negative,Control,Unknown,36.6°C,"Coronary disease, Diabetes"
+HUST-Union Hospital,Patient 535,67,Male,Negative,Negative,Control,Unknown,36.6°C,Diabetes
+HUST-Union Hospital,Patient 536,76,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 537,70,Male,Negative,Negative,Control,Unknown,36.2°C,"Hypertension, Cerebral infarction"
+HUST-Union Hospital,Patient 538,65,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 539,67,Male,Negative,Negative,Control,Unknown,37.9°C,"Chronic lymphocytic leukemia, Cholecystitis, Erosive gastritis, Duodenal bulbar ulcer, Chronic hepatitis B, Cirrhosis of liver"
+HUST-Union Hospital,Patient 540,49,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 541,63,Male,Negative,Negative,Control,Unknown,36.6°C,Hepatitis B
+HUST-Union Hospital,Patient 542,72,Female,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 543,53,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 544,37,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 545,62,Male,Negative,Negative,Control,Unknown,37.6°C,No underlying disease
+HUST-Union Hospital,Patient 546,53,Female,Negative,Negative,Control,Unknown,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 547,53,Male,Negative,Negative,Control,Unknown,39.2°C,Hypertension
+HUST-Union Hospital,Patient 548,55,Female,Negative,Negative,Control,Unknown,36.5°C,Cured tuberculosis
+HUST-Union Hospital,Patient 549,56,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 550,44,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 551,78,Male,Negative,Negative,Control,Unknown,36.3°C,"Senile degenerative valvular disease, Severe aortic regurgitation, Atherosclerosis"
+HUST-Union Hospital,Patient 552,65,Male,Negative,Negative,Control,Unknown,36.3°C,"Coronary disease, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 553,67,Male,Negative,Negative,Control,Unknown,36.6°C,"Chronic bronchitis, Obsolete tuberculosis, Percutaneous coronary intervention, Hypertension"
+HUST-Union Hospital,Patient 554,38,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 555,69,Male,Negative,Negative,Control,Unknown,36.3°C,"Coronary disease, Coronary stent implantation"
+HUST-Union Hospital,Patient 556,63,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 557,57,Male,Negative,Negative,Control,Unknown,36.6°C,Diabetes
+HUST-Union Hospital,Patient 558,32,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 559,30,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 560,36,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 561,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 562,28,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 563,51,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 564,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 565,54,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 566,48,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 567,29,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 568,48,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 569,31,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 570,26,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 571,48,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 572,57,Male,Negative,Negative,Control,Unknown,36.6°C,After nasopharyngeal carcinoma surgery
+HUST-Union Hospital,Patient 573,37,Female,Negative,Negative,Control,Unknown,36.5°C,After breast cancer surgery
+HUST-Union Hospital,Patient 574,52,Female,Positive,N/A,Severe,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 575,72,Female,Positive,Positive,Severe,Cured,38.1°C,No underlying disease
+HUST-Union Hospital,Patient 576,39,Male,Positive,N/A,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 577,64,Male,Positive,Positive,Regular,Cured,37.5°C,Diabetes
+HUST-Union Hospital,Patient 578,68,Male,Positive,N/A,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 579,71,Female,Positive,Positive,Regular,Cured,37.4°C,Hypertension
+HUST-Union Hospital,Patient 580,86,Female,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 581,44,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 582,67,Female,Positive,Positive,Regular,Cured,37.0°C,"Diabetes, Hypertension"
+HUST-Union Hospital,Patient 583,62,Female,Positive,Positive,Regular,Cured,36.5°C,Hypertension
+HUST-Union Hospital,Patient 584,32,Female,Positive,Positive,Regular,Cured,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 585,26,Male,Positive,Positive,Severe,Cured,38.7°C,"Pulmonary nodule, Postoperative testicular cancer"
+HUST-Union Hospital,Patient 586,58,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 587,55,Male,Positive,Positive,Critically ill,Deceased,38.5°C,"Cerebral infarction, Uremia"
+HUST-Union Hospital,Patient 588,48,Female,Negative,Positive,Suspected,Unknown,37.6°C,No underlying disease
+HUST-Union Hospital,Patient 589,42,Female,Negative,Positive,Suspected,Unknown,38.0°C,Hyperthyroidism
+HUST-Union Hospital,Patient 590,33,Male,Negative,Positive,Suspected,Unknown,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 591,82,Male,Negative,Positive,Suspected,Unknown,39.0°C,Cirrhosis of liver
+HUST-Union Hospital,Patient 592,43,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 593,69,Female,Negative,Positive,Suspected,Unknown,38.0°C,"Heart disease, Parkinsonism"
+HUST-Union Hospital,Patient 594,64,Male,Negative,N/A,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 595,67,Male,Negative,Negative,Control,Unknown,36.2°C,"Hypertension, Hepatic cyst, Renal cyst, Renal calculus"
+HUST-Union Hospital,Patient 596,66,Male,Negative,Positive,Suspected,Unknown,38.8°C,Chemotherapy after radical operation of colon cancer
+HUST-Union Hospital,Patient 597,66,Male,Negative,Positive,Suspected,Unknown,39.0°C,Diabetes
+HUST-Union Hospital,Patient 598,75,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 599,30,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 600,82,Female,Negative,Positive,Suspected,Unknown,38.8°C,"Right inguinal incarcerated hernia, Intestinal obstruction, Interstitial lesions of both lungs"
+HUST-Union Hospital,Patient 601,48,Male,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 602,68,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 603,76,Female,Negative,Positive,Suspected,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 604,36,Male,Negative,N/A,Suspected,Unknown,41.0°C,No underlying disease
+HUST-Union Hospital,Patient 605,31,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 606,62,Male,Negative,N/A,Suspected,Unknown,39.0°C,"Hypertension, Postoperative chemotherapy for rectal cancer"
+HUST-Union Hospital,Patient 607,81,Female,Negative,Positive,Suspected,Unknown,38.0°C,"Cerebral infarction, Coronary disease, Hypertension"
+HUST-Union Hospital,Patient 608,58,Male,Negative,N/A,Suspected,Unknown,37.3°C,"Chronic hepatitis B, Cirrhosis, Hepatic insufficiency, Hypertension"
+HUST-Union Hospital,Patient 609,65,Female,Negative,Positive,Suspected,Unknown,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 610,73,Male,Negative,Positive,Suspected,Unknown,38.4°C,Hypertension
+HUST-Union Hospital,Patient 611,51,Male,Negative,Positive,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 612,12,Female,Negative,Positive,Suspected,Unknown,39.0°C,"Chemotherapy for malignant tumor, Acute lymphoblastic leukemia"
+HUST-Union Hospital,Patient 613,37,Female,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 614,83,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 615,70,Female,Negative,Positive,Suspected,Unknown,37.8°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 616,63,Male,Negative,Positive,Suspected,Unknown,37.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 617,32,Male,Negative,Positive,Suspected,Unknown,39.8°C,No underlying disease
+HUST-Union Hospital,Patient 618,32,Female,Negative,Positive,Suspected,Unknown,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 619,64,Female,Negative,Positive,Suspected,Unknown,37.9°C,No underlying disease
+HUST-Union Hospital,Patient 620,80,Female,Negative,N/A,Suspected,Unknown,39.0°C,"Hypertension, Atherosclerosis, Fatty liver"
+HUST-Union Hospital,Patient 621,77,Male,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 622,58,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 623,26,Male,Negative,N/A,Control,Unknown,38.0°C,Severe aplastic anemia
+HUST-Union Hospital,Patient 624,63,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 625,59,Female,Negative,Positive,Suspected,Unknown,36.3°C,"Hypertension, Heart disease"
+HUST-Union Hospital,Patient 626,56,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Valvular heart disease, Sinus rhythm"
+HUST-Union Hospital,Patient 627,58,Female,Negative,Positive,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 628,79,Female,Negative,Positive,Suspected,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 629,31,Female,Negative,Positive,Suspected,Unknown,37.6°C,No underlying disease
+HUST-Union Hospital,Patient 630,44,Male,Negative,N/A,Suspected,Unknown,36.6°C,Heart disease
+HUST-Union Hospital,Patient 631,33,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 632,45,Male,Negative,Positive,Suspected,Unknown,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 633,33,Male,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 634,55,Male,Negative,Negative,Control,Unknown,39.0°C,"Anaemia, Cerebral infarction, Chronic bronchitis"
+HUST-Union Hospital,Patient 635,73,Male,Negative,Positive,Suspected,Unknown,36.2°C,Coronary disease
+HUST-Union Hospital,Patient 636,27,Female,Negative,Positive,Suspected,Unknown,37.0°C,Severe pre-eclampsia
+HUST-Union Hospital,Patient 637,56,Female,Negative,Positive,Suspected,Unknown,38.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 638,50,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 639,70,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 640,32,Male,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 641,59,Male,Negative,Positive,Suspected,Unknown,37.0°C,"Acute pancreatitis, Fatty liver, Multiple gallstones, Cholecystitis"
+HUST-Union Hospital,Patient 642,74,Male,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 643,47,Male,Positive,Positive,Regular,Cured,39.2°C,Hypertension
+HUST-Union Hospital,Patient 644,25,Female,Negative,Positive,Suspected,Unknown,39.3°C,No underlying disease
+HUST-Union Hospital,Patient 645,60,Male,Negative,Negative,Control,Unknown,36.0°C,"Chronic renal insufficiency, Hypertension, Diabetes, Renal cyst"
+HUST-Union Hospital,Patient 646,30,Female,Negative,N/A,Suspected,Unknown,36.5°C,Hypothyroidism
+HUST-Union Hospital,Patient 647,68,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 648,32,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 649,57,Male,Negative,Positive,Suspected,Unknown,36.1°C,Hypertension
+HUST-Union Hospital,Patient 650,58,Female,Negative,Positive,Suspected,Unknown,38.0°C,Hypertension
+HUST-Union Hospital,Patient 651,74,Female,Negative,Positive,Suspected,Unknown,36.0°C,"Diabetes, Hypertension"
+HUST-Union Hospital,Patient 652,36,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 653,57,Male,Negative,N/A,Control,Unknown,36.8°C,"Severe anaemia, Chronic bronchitis, Emphysema, Renal cyst"
+HUST-Union Hospital,Patient 654,41,Female,Negative,Positive,Suspected,Unknown,39.6°C,No underlying disease
+HUST-Union Hospital,Patient 655,68,Male,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 656,67,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 657,47,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Acute pancreatitis, Acute renal insufficiency"
+HUST-Union Hospital,Patient 658,65,Female,Negative,Positive,Suspected,Unknown,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 659,40,Female,Negative,Positive,Suspected,Unknown,36.1°C,"Space occupying lesion of pancreas, Hepatitis B"
+HUST-Union Hospital,Patient 660,72,Male,Negative,Positive,Suspected,Unknown,38.5°C,Lower left pneumonectomy
+HUST-Union Hospital,Patient 661,82,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Gout, Gastrectomy"
+HUST-Union Hospital,Patient 662,74,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 663,67,Female,Negative,N/A,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 664,59,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 665,75,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 666,56,Male,Negative,N/A,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 667,31,Female,Negative,Negative,Control,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 668,82,Male,Negative,Positive,Suspected,Unknown,36.8°C,"Malignant tumor of gastric angle, Emphysema, Hepatic cyst, Cholecystolithiasis, Renal cyst, Hypertension, Postoperative thyroid nodule"
+HUST-Union Hospital,Patient 669,30,Female,Negative,Positive,Suspected,Unknown,39.1°C,No underlying disease
+HUST-Union Hospital,Patient 670,48,Male,Negative,Positive,Suspected,Unknown,38.8°C,"Hypertension, Gout"
+HUST-Union Hospital,Patient 671,54,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Targeted therapy after lung cancer surgery, Coronary disease, Atrial fibrillation"
+HUST-Union Hospital,Patient 672,40,Male,Negative,N/A,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 673,85,Female,Negative,Positive,Suspected,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 674,65,Female,Negative,Positive,Suspected,Unknown,36.1°C,"Coronary disease, Diabetes"
+HUST-Union Hospital,Patient 675,65,Male,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 676,61,Male,Negative,N/A,Suspected,Unknown,38.9°C,"Chronic renal insufficiency, Uremia, Polycystic kidney, Hypertension, Atherosclerosis"
+HUST-Union Hospital,Patient 677,27,Male,Negative,Positive,Suspected,Unknown,37.0°C,"Hypertension, Hyperkalemia, Anaemia"
+HUST-Union Hospital,Patient 678,73,Male,Negative,N/A,Suspected,Unknown,36.4°C,"Erosive gastritis, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 679,72,Male,Negative,N/A,Suspected,Unknown,36.3°C,"Hypertension, Gout, Hepatic cyst, Cholecystolithiasis, Renal cyst"
+HUST-Union Hospital,Patient 680,48,Male,Negative,N/A,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 681,73,Female,Negative,N/A,Suspected,Unknown,36.3°C,"Right lung space occupying lesion, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 682,58,Male,Negative,N/A,Suspected,Unknown,36.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 683,58,Male,Negative,N/A,Suspected,Unknown,36.8°C,"Coronary disease, Acute myocardial infarction, Dilated cardiomyopathy, Aortic valve stenosis, Mitral valve insufficiency, Tricuspidincompetence, Sscending aortic valve widening, Pulmonary artery widening with severe pulmonary hypertension, Hypertension, Chronic gastritis, Duodenal bulbar ulcer , Chronic hepatitis B"
+HUST-Union Hospital,Patient 684,26,Male,Negative,N/A,Suspected,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 685,45,Male,Negative,N/A,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 686,64,Male,Negative,N/A,Suspected,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 687,66,Male,Negative,N/A,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 688,57,Female,Negative,N/A,Suspected,Unknown,36.6°C,"Coronary atherosclerotic heart disease, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 689,34,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 690,57,Female,Negative,Negative,Control,Unknown,36.6°C,Hypothyroidism
+HUST-Union Hospital,Patient 691,68,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 692,49,Female,Negative,Negative,Control,Unknown,36.5°C,Atrophic gastritis
+HUST-Union Hospital,Patient 693,63,Female,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Chronic stomach disease"
+HUST-Union Hospital,Patient 694,66,Male,Negative,Negative,Control,Unknown,36.5°C,Coronary disease
+HUST-Union Hospital,Patient 695,57,Male,Negative,Negative,Control,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 696,55,Male,Negative,Negative,Control,Unknown,36.4°C,"Hypertension, Coronary disease, Gout, Adrenal adenoma, Diabetes"
+HUST-Union Hospital,Patient 697,53,Male,Negative,Negative,Control,Unknown,36.6°C,Hyperthyroidism
+HUST-Union Hospital,Patient 698,65,Female,Negative,Negative,Control,Unknown,36.6°C,"Atrophic gastritis, Gastroesophageal reflux, Gallstone"
+HUST-Union Hospital,Patient 699,58,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 700,54,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 701,57,Male,Negative,Negative,Control,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 702,60,Female,Negative,Negative,Control,Unknown,36.6°C,"Coronary disease, Gastritis"
+HUST-Union Hospital,Patient 703,55,Male,Negative,Negative,Control,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 704,60,Male,Negative,Negative,Control,Unknown,36.8°C,"Hypertension, Hypothyroidism, Hyperuricemia"
+HUST-Union Hospital,Patient 705,69,Male,Negative,Negative,Control,Unknown,36.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 706,49,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 707,55,Male,Negative,Negative,Control,Unknown,36.6°C,Pancreatitis
+HUST-Union Hospital,Patient 708,59,Female,Negative,Negative,Control,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 709,54,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 710,58,Female,Negative,Negative,Control,Unknown,36.6°C,Rheumatism
+HUST-Union Hospital,Patient 711,46,Male,Negative,Negative,Control,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 712,55,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 713,48,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 714,60,Female,Negative,Negative,Control,Unknown,36.5°C,Radical operation of colon cancer
+HUST-Union Hospital,Patient 715,27,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 716,51,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 717,54,Female,Negative,Negative,Control,Unknown,36.6°C,Asthma
+HUST-Union Hospital,Patient 718,65,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 719,53,Male,Negative,Negative,Control,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 720,50,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 721,66,Female,Negative,Negative,Control,Unknown,36.3°C,Hysterectomy
+HUST-Union Hospital,Patient 722,63,Female,Negative,Negative,Control,Unknown,38.0°C,"Hypertension, Colon cancer surgery"
+HUST-Union Hospital,Patient 723,72,Female,Negative,Negative,Control,Unknown,36.9°C,No underlying disease
+HUST-Union Hospital,Patient 724,60,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 725,50,Male,Negative,Negative,Control,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 726,57,Male,Negative,Negative,Control,Unknown,36.2°C,Hypertension
+HUST-Union Hospital,Patient 727,69,Male,Negative,Negative,Control,Unknown,37.1°C,Bronchiectasia
+HUST-Union Hospital,Patient 728,35,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 729,37,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 730,61,Female,Negative,Negative,Control,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 731,28,Female,Negative,Negative,Control,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 732,84,Male,Negative,Negative,Control,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 733,65,Female,Negative,Negative,Control,Unknown,36.5°C,Coronary disease
+HUST-Union Hospital,Patient 734,60,Female,Negative,Negative,Control,Unknown,36.6°C,"Bronchiectasia, Hyperlipidemia"
+HUST-Union Hospital,Patient 735,42,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 736,61,Male,Negative,Negative,Control,Unknown,36.6°C,"Chronic obstructive pulmonary disease, Hypertension"
+HUST-Union Hospital,Patient 737,63,Male,Negative,Negative,Control,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 738,61,Female,Negative,Negative,Control,Unknown,37.5°C,Hypertension
+HUST-Union Hospital,Patient 739,57,Male,Negative,Negative,Control,Unknown,36.5°C,"Chronic gastritis, Diabetes"
+HUST-Union Hospital,Patient 740,84,Male,Negative,Negative,Control,Unknown,36.5°C,"Hypertension, Gout"
+HUST-Union Hospital,Patient 741,54,Male,Negative,Negative,Control,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 742,50,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 743,35,Female,Negative,Negative,Control,Unknown,36.6°C,Hepatitis B
+HUST-Union Hospital,Patient 744,56,Male,Negative,Negative,Control,Unknown,36.8°C,Hepatitis B
+HUST-Union Hospital,Patient 745,55,Male,Negative,Negative,Control,Unknown,36.6°C,"Hepatitis B, Pulmonary tuberculosis"
+HUST-Union Hospital,Patient 746,72,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 747,60,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 748,48,Male,Negative,Negative,Control,Unknown,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 749,69,Male,Negative,Negative,Control,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 750,49,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 751,49,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 752,56,Male,Negative,Negative,Control,Unknown,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 753,86,Male,Negative,Negative,Control,Unknown,36.6°C,"Coronary atherosclerotic heart disease, Hypertension, Senile degenerative valvular heart disease, Lacunar infarction, Cerebral atherosclerosis, Diabetes"
+HUST-Union Hospital,Patient 754,34,Male,Negative,Negative,Control,Unknown,38.2°C,Right renal transplant
+HUST-Union Hospital,Patient 755,49,Female,Negative,Negative,Control,Unknown,36.5°C,"Anaemia, Thyroid nodule"
+HUST-Union Hospital,Patient 756,44,Male,Negative,Negative,Control,Unknown,36.8°C,Hepatitis B
+HUST-Union Hospital,Patient 757,50,Male,Negative,Negative,Control,Unknown,36.4°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 758,52,Male,Negative,Negative,Control,Unknown,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 759,70,Female,Negative,Negative,Control,Unknown,36.7°C,Percutaneous coronary intervention
+HUST-Union Hospital,Patient 760,42,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 761,86,Male,Negative,Negative,Control,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 762,64,Female,Negative,Negative,Control,Unknown,36.7°C,"Chronic bronchitis, Coronary disease, Diabetes"
+HUST-Union Hospital,Patient 763,62,Female,Negative,Negative,Control,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 764,44,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Union Hospital,Patient 765,60,Male,Negative,Negative,Control,Unknown,37.8°C,Hypertension
+HUST-Union Hospital,Patient 766,58,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 767,34,Female,Negative,Negative,Control,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 768,48,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 769,53,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 770,62,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 771,48,Male,Negative,Negative,Control,Unknown,36.6°C,Pulmonary nodule
+HUST-Union Hospital,Patient 772,29,Female,Negative,Negative,Control,Unknown,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 773,52,Female,Negative,Negative,Control,Unknown,36.6°C,Polycystic kidney
+HUST-Union Hospital,Patient 774,57,Female,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 775,68,Female,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 776,66,Female,Positive,Positive,Critically ill,Deceased,40.7°C,"Hypertension, Basic lung disease"
+HUST-Liyuan Hospital,Patient 777,61,Female,Positive,Positive,Severe,Unknown,37.5°C,Stroke
+HUST-Liyuan Hospital,Patient 778,58,Female,Positive,Positive,Regular,Cured,,No underlying disease
+HUST-Liyuan Hospital,Patient 779,72,Male,Positive,Positive,Severe,Unknown,37.8°C,"Basic lung disease, Stroke, Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 780,63,Male,Positive,Positive,Regular,Cured,38.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 781,47,Female,Positive,Positive,Regular,Unknown,38.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 782,46,Male,Positive,Positive,Regular,Cured,39.0°C,"Hypertension, Basic lung disease"
+HUST-Liyuan Hospital,Patient 783,92,Male,Positive,Positive,Critically ill,Unknown,38.2°C,"Coronary atherosclerotic heart disease, Basic lung disease, Diabetes"
+HUST-Liyuan Hospital,Patient 784,47,Male,Positive,Positive,Severe,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 785,57,Male,Positive,Positive,Regular,Unknown,38.8°C,"Hypertension, Diabetes, Malignant tumor"
+HUST-Liyuan Hospital,Patient 786,52,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 787,84,Male,Positive,N/A,Critically ill,Unknown,38.7°C,"Coronary atherosclerotic heart disease, Hypertension"
+HUST-Liyuan Hospital,Patient 788,89,Female,Positive,Positive,Critically ill,Deceased,38.8°C,"Alzheimer's disease, Hypertension, Stroke"
+HUST-Liyuan Hospital,Patient 789,61,Female,Positive,Positive,Critically ill,Unknown,39.5°C,Myasthenia gravis
+HUST-Liyuan Hospital,Patient 790,60,Female,Positive,Positive,Severe,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 791,70,Female,Positive,Positive,Severe,Unknown,39.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 792,51,Male,Positive,Positive,Severe,Unknown,38.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 793,63,Female,Positive,Positive,Regular,Unknown,38.8°C,Hypertension
+HUST-Liyuan Hospital,Patient 794,70,Male,Positive,Positive,Critically ill,Unknown,38.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 795,46,Male,Positive,Positive,Regular,Unknown,39.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 796,54,Male,Positive,Positive,Critically ill,Unknown,42.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 797,53,Male,Positive,N/A,Regular,Unknown,37.5°C,"Chronic prostatitis, Chronic bronchitis, Chronic pharyngitis, Chronic superficial gastritis"
+HUST-Liyuan Hospital,Patient 798,68,Male,Positive,N/A,Critically ill,Unknown,39.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 799,52,Male,Positive,Positive,Severe,Unknown,38.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 800,38,Male,Positive,Positive,Regular,Cured,38.2°C,Hypertension
+HUST-Liyuan Hospital,Patient 801,56,Male,Positive,Positive,Regular,Unknown,39.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 802,70,Male,Positive,Positive,Critically ill,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 803,67,Male,Positive,Positive,Critically ill,Unknown,40.0°C,Nephrotic syndrome
+HUST-Liyuan Hospital,Patient 804,58,Female,Positive,Positive,Critically ill,Deceased,39.6°C,Hypertension
+HUST-Liyuan Hospital,Patient 805,34,Female,Positive,Positive,Regular,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 806,62,Female,Positive,Positive,Severe,Unknown,38.4°C,Hypertension
+HUST-Liyuan Hospital,Patient 807,72,Female,Positive,N/A,Critically ill,Unknown,38.1°C,Hypertension
+HUST-Liyuan Hospital,Patient 808,24,Male,Positive,N/A,Regular,Unknown,38.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 809,92,Male,Positive,Positive,Critically ill,Unknown,38.8°C,"Hypertension, Diabetes, Stroke, Basic lung disease"
+HUST-Liyuan Hospital,Patient 810,51,Male,Positive,Positive,Severe,Unknown,38.6°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 811,39,Male,Positive,Positive,Regular,Cured,37.1°C,Hypertension
+HUST-Liyuan Hospital,Patient 812,30,Male,Positive,Positive,Critically ill,Unknown,38.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 813,57,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 814,74,Female,Positive,Positive,Critically ill,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 815,63,Male,Positive,Positive,Regular,Unknown,38.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 816,52,Female,Positive,Positive,Regular,Cured,38.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 817,59,Male,Positive,Positive,Regular,Unknown,37.4°C,Hypertension
+HUST-Liyuan Hospital,Patient 818,51,Male,Positive,Positive,Regular,Unknown,36.6°C,"Coronary atherosclerotic heart disease, Myocardial infarction, Diabetes"
+HUST-Liyuan Hospital,Patient 819,27,Female,Positive,N/A,Regular,Cured,36.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 820,64,Female,Positive,Positive,Regular,Cured,36.7°C,Bronchiectasis
+HUST-Liyuan Hospital,Patient 821,84,Female,Positive,N/A,Severe,Unknown,38.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 822,65,Male,Positive,Positive,Severe,Unknown,38.3°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes, Stroke"
+HUST-Liyuan Hospital,Patient 823,31,Female,Positive,Negative,Mild,Cured,36.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 824,52,Female,Positive,Positive,Regular,Cured,36.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 825,36,Male,Positive,Positive,Severe,Cured,38.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 826,52,Male,Positive,Positive,Regular,Unknown,38.0°C,"Coronary atherosclerotic heart disease, Hypertension"
+HUST-Liyuan Hospital,Patient 827,26,Female,Positive,Negative,Mild,Unknown,38.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 828,32,Male,Positive,Positive,Regular,Cured,38.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 829,60,Female,Positive,N/A,Regular,Cured,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 830,68,Male,Positive,Positive,Severe,Unknown,39.3°C,"Hypertension, Malignant tumor"
+HUST-Liyuan Hospital,Patient 831,59,Male,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 832,62,Female,Positive,Positive,Regular,Cured,36.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 833,49,Male,Positive,Positive,Regular,Unknown,38.5°C,"After kidney transplant, Hypertension"
+HUST-Liyuan Hospital,Patient 834,43,Male,Positive,Positive,Regular,Unknown,38.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 835,30,Female,Positive,Positive,Regular,Cured,36.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 836,78,Male,Positive,Positive,Regular,Cured,39.0°C,Malignant tumor
+HUST-Liyuan Hospital,Patient 837,70,Female,Positive,N/A,Regular,Cured,37.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 838,69,Female,Positive,Positive,Regular,Unknown,39.0°C,"Chronic gastritis, Malnutrition, Respiratory infections"
+HUST-Liyuan Hospital,Patient 839,77,Female,Positive,Positive,Critically ill,Unknown,38.9°C,"Hypertension, Diabetes, Basic lung disease"
+HUST-Liyuan Hospital,Patient 840,59,Male,Positive,Positive,Regular,Cured,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 841,30,Male,Positive,Positive,Regular,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 842,38,Male,Positive,Positive,Severe,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 843,60,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 844,78,Female,Positive,Positive,Severe,Unknown,37.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 845,37,Female,Positive,Positive,Regular,Cured,38.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 846,76,Male,Positive,Positive,Critically ill,Unknown,37.0°C,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+HUST-Liyuan Hospital,Patient 847,66,Female,Positive,Positive,Regular,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 848,56,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 849,57,Female,Positive,Positive,Regular,Cured,36.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 850,24,Female,Positive,Positive,Regular,Unknown,37.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 851,32,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 852,37,Female,Positive,N/A,Regular,Unknown,40.0°C,Diabetes
+HUST-Liyuan Hospital,Patient 853,37,Female,Positive,Negative,Mild,Cured,37.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 854,40,Male,Positive,Positive,Regular,Cured,40.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 855,71,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 856,33,Female,Positive,Negative,Mild,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 857,20,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 858,61,Male,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 859,76,Female,Positive,Positive,Regular,Cured,36.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 860,81,Female,Positive,Positive,Severe,Cured,38.4°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 861,85,Female,Positive,N/A,Regular,Unknown,38.3°C,Hypertension
+HUST-Liyuan Hospital,Patient 862,40,Male,Positive,Positive,Regular,Cured,37.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 863,50,Male,Positive,Positive,Critically ill,Unknown,39.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 864,40,Male,Positive,Positive,Regular,Unknown,38.0°C,"Abnormal liver function, Hypertension, Diabetes, Hyperlipidemia"
+HUST-Liyuan Hospital,Patient 865,76,Female,Positive,Positive,Regular,Unknown,37.5°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 866,60,Male,Positive,Positive,Regular,Unknown,39.5°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 867,53,Female,Positive,Positive,Regular,Cured,39.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 868,33,Male,Positive,Negative,Mild,Cured,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 869,89,Male,Positive,Positive,Severe,Cured,37.5°C,"Lung cancer, Coronary atherosclerotic heart disease, Myocardial infarction, Apical ventricular aneurysm, Chronic renal insufficiency, Lower limb atherosclerosis, Hypertension, Autoimmune hemolytic anemia, Prostatic hyperplasia, Hyperuricemia, Double kidney stones, Gout"
+HUST-Liyuan Hospital,Patient 870,48,Male,Positive,Positive,Critically ill,Cured,39.0°C,"Chronic hepatitis B, Cirrhosis of liver"
+HUST-Liyuan Hospital,Patient 871,60,Male,Positive,Positive,Regular,Cured,36.5°C,"Hypertension, Cerebral infarction, Diabetes"
+HUST-Liyuan Hospital,Patient 872,69,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 873,87,Male,Positive,Positive,Critically ill,Deceased,39.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 874,89,Male,Positive,Positive,Regular,Unknown,36.5°C,"Cerebral infarction, Chronic bronchitis, Hypertension, Hypertension heart disease, Diabetes"
+HUST-Liyuan Hospital,Patient 875,71,Female,Positive,N/A,Critically ill,Deceased,39.6°C,Hypertension
+HUST-Liyuan Hospital,Patient 876,71,Female,Positive,Positive,Severe,Deceased,36.5°C,"Diabetes, Lung metastases, Lung infections, Fungal pneumonia, Organic mental disorders, Hypokalemia, Thrombocytopenia, Leukopenia"
+HUST-Liyuan Hospital,Patient 877,78,Female,Positive,Positive,Critically ill,Deceased,39.0°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 878,54,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 879,29,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 880,78,Female,Positive,Positive,Severe,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 881,75,Female,Positive,Positive,Regular,Cured,37.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 882,51,Female,Positive,Positive,Regular,Unknown,37.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 883,65,Female,Positive,Positive,Severe,Unknown,37.7°C,Diabetes
+HUST-Liyuan Hospital,Patient 884,75,Male,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 885,55,Male,Positive,Positive,Regular,Unknown,38.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 886,35,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 887,61,Male,Positive,Positive,Severe,Unknown,40.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 888,56,Female,Positive,Positive,Severe,Unknown,37.1°C,No underlying disease
+HUST-Liyuan Hospital,Patient 889,85,Female,Positive,N/A,Severe,Unknown,38.4°C,"Hypertension, Stroke"
+HUST-Liyuan Hospital,Patient 890,75,Female,Positive,Positive,Regular,Unknown,36.8°C,"Hypertension, Hyperlipidemia"
+HUST-Liyuan Hospital,Patient 891,66,Female,Positive,Positive,Regular,Unknown,38.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 892,27,Female,Positive,Negative,Mild,Cured,36.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 893,52,Female,Positive,Positive,Regular,Unknown,38.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 894,88,Male,Positive,Positive,Critically ill,Unknown,38.7°C,"Malignant tumor, Hypertension"
+HUST-Liyuan Hospital,Patient 895,48,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 896,45,Male,Positive,Positive,Regular,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 897,67,Female,Positive,Positive,Severe,Unknown,37.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 898,68,Male,Positive,Positive,Regular,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 899,65,Female,Positive,Positive,Regular,Cured,38.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 900,30,Male,Positive,Negative,Mild,Cured,36.0°C,Pulmonary nodule
+HUST-Liyuan Hospital,Patient 901,58,Female,Negative,Positive,Suspected,Unknown,36.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 902,49,Male,Negative,Positive,Suspected,Unknown,37.6°C,Diabetes
+HUST-Liyuan Hospital,Patient 903,58,Female,Negative,Positive,Suspected,Unknown,36.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 904,48,Female,Negative,Negative,Control,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 905,32,Male,Negative,N/A,Control,Unknown,37.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 906,66,Male,Negative,Positive,Suspected,Unknown,36.4°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 907,87,Female,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Cerebral infarction, Osteoporosis, Chronic cholecystitis, Abnormal liver function, Agranulocytosis, Alzheimer's disease"
+HUST-Liyuan Hospital,Patient 908,84,Male,Negative,N/A,Suspected,Unknown,36.7°C,"Cerebral infarction, Mixed aphasia, Organic mental disorder, Hypertension, Diabetes, Thyroid nodules, Chronic bronchitis, Emphysema, Pleural effusion"
+HUST-Liyuan Hospital,Patient 909,73,Female,Negative,Positive,Suspected,Unknown,36.4°C,"Hypertension, Cerebral infarction"
+HUST-Liyuan Hospital,Patient 910,52,Male,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 911,33,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 912,47,Female,Negative,Positive,Suspected,Unknown,37.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 913,59,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 914,63,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 915,92,Female,Negative,Positive,Suspected,Unknown,36.1°C,"Cerebral infarction, Coronary atherosclerotic heart disease, Angina pectoris, Atrial fibrillation, Renal artery stenosis, Chronic renal failure, Hyperlipidemia, Fatty liver"
+HUST-Liyuan Hospital,Patient 916,68,Female,Negative,Positive,Suspected,Unknown,38.0°C,Alzheimer's disease
+HUST-Liyuan Hospital,Patient 917,52,Female,Negative,Positive,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 918,34,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 919,86,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Cerebral hemorrhage"
+HUST-Liyuan Hospital,Patient 920,61,Female,Negative,Positive,Suspected,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 921,56,Male,Negative,Positive,Suspected,Unknown,37.4°C,"Cerebral infarction, Cerebral hemorrhage, Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 922,51,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 923,34,Male,Negative,Positive,Suspected,Unknown,37.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 924,27,Female,Negative,Positive,Suspected,Unknown,36.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 925,58,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 926,31,Male,Negative,Positive,Suspected,Unknown,38.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 927,82,Male,Negative,Positive,Suspected,Unknown,39.0°C,"Chronic obstructive pulmonary disease, Hypertension, Coronary atherosclerotic heart disease, Dementia, Diabetes, Subdural hemorrhage"
+HUST-Liyuan Hospital,Patient 928,52,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 929,91,Female,Negative,Positive,Suspected,Unknown,38.4°C,"Coronary atherosclerotic heart disease, Stroke, Malignant tumor, Basic lung disease"
+HUST-Liyuan Hospital,Patient 930,55,Male,Negative,Positive,Suspected,Unknown,38.3°C,"Brain stem hemorrhage, Brain stem hematoma removal"
+HUST-Liyuan Hospital,Patient 931,56,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 932,59,Male,Negative,Positive,Suspected,Unknown,37.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 933,20,Female,Negative,N/A,Control,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 934,77,Female,Negative,Positive,Suspected,Unknown,38.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 935,74,Female,Negative,Positive,Suspected,Unknown,38.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 936,76,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Hypertension, Cerebral infarction, Lower limb atherosclerosis, Subdural effusion, Cardiac insufficiency, Pericardial effusion, Pleural effusion"
+HUST-Liyuan Hospital,Patient 937,76,Male,Negative,Positive,Suspected,Unknown,39.1°C,"Hypertension, Diabetes, Stroke, Basic lung disease"
+HUST-Liyuan Hospital,Patient 938,80,Male,Negative,Positive,Suspected,Unknown,36.5°C,Cerebral infarction
+HUST-Liyuan Hospital,Patient 939,87,Male,Negative,Positive,Suspected,Unknown,36.3°C,"Hypertension, Hyperlipidemia, Cerebral infarction, Diabetes, Chronic obstructive pulmonary disease, Benign prostatic hyperplasia, Atrial flutter, Hypothyroidism"
+HUST-Liyuan Hospital,Patient 940,68,Female,Negative,Positive,Suspected,Unknown,37.7°C,Alzheimer's disease
+HUST-Liyuan Hospital,Patient 941,66,Female,Negative,Positive,Suspected,Unknown,37.2°C,Hypertension
+HUST-Liyuan Hospital,Patient 942,90,Male,Negative,Positive,Suspected,Unknown,36.1°C,"Chronic bronchitis, Emphysema, Benign prostatic hyperplasia"
+HUST-Liyuan Hospital,Patient 943,47,Male,Negative,Positive,Suspected,Unknown,38.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 944,73,Female,Negative,Positive,Suspected,Unknown,36.2°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 945,69,Male,Negative,Positive,Suspected,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 946,55,Female,Negative,Positive,Suspected,Unknown,37.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 947,85,Male,Negative,Positive,Suspected,Unknown,36.4°C,"Cerebral infarction, Hypertension, Alzheimer's disease, Parkinson's syndrome, Acute coronary syndrome, Chronic bronchitis, Emphysema, Lung infection, Hypoalbuminemia, Abnormal liver function, Small cell hypochromic anemia, Leukopenia, Pressure ulcers"
+HUST-Liyuan Hospital,Patient 948,19,Female,Negative,N/A,Control,Unknown,36.6°C,Vasovagal syncope
+HUST-Liyuan Hospital,Patient 949,26,Male,Negative,Positive,Suspected,Unknown,38.7°C,"Hypertriglyceridemia, Hyperuricemia"
+HUST-Liyuan Hospital,Patient 950,55,Female,Negative,Positive,Suspected,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 951,55,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 952,93,Female,Negative,N/A,Control,Unknown,36.2°C,"Hypertension, Coronary atherosclerotic heart disease, Heart failure, Cerebral infarction, Hyperlipidemia, Chronic gastritis"
+HUST-Liyuan Hospital,Patient 953,66,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 954,84,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 955,48,Male,Negative,Positive,Suspected,Unknown,38.0°C,"Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+HUST-Liyuan Hospital,Patient 956,69,Male,Negative,Positive,Suspected,Unknown,37.5°C,"Hypertension, Diabetes, Uremia"
+HUST-Liyuan Hospital,Patient 957,37,Male,Negative,Positive,Suspected,Unknown,36.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 958,40,Female,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 959,70,Female,Negative,N/A,Control,Unknown,36.7°C,"Hypertension, Cerebral infarction, Fatty liver, Respiratory infections, Pleural effusion"
+HUST-Liyuan Hospital,Patient 960,61,Female,Negative,Positive,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 961,74,Male,Negative,N/A,Control,Unknown,37.8°C,"Hypertension, Atrial fibrillation, Interstitial pneumonia, Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+HUST-Liyuan Hospital,Patient 962,46,Male,Negative,Positive,Suspected,Unknown,37.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 963,78,Male,Negative,Positive,Suspected,Unknown,36.2°C,"Parkinson, Urinary tract infection, Bladder stones, Chronic bronchitis, Emphysema, Right femoral neck fracture, Coronary atherosclerotic heart disease, Cerebral infarction, Lower extremity arteriosclerotic occlusive disease, Gallstone"
+HUST-Liyuan Hospital,Patient 964,50,Male,Negative,Negative,Control,Unknown,38.0°C,"Diabetes, Renal failure, Hypertension, Coronary atherosclerotic heart disease"
+HUST-Liyuan Hospital,Patient 965,61,Female,Negative,Positive,Suspected,Unknown,36.8°C,"Coronary atherosclerotic heart disease, Hypertension"
+HUST-Liyuan Hospital,Patient 966,45,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Coronary atherosclerotic heart disease, Uremia, Hypertension"
+HUST-Liyuan Hospital,Patient 967,64,Male,Negative,Positive,Suspected,Unknown,38.3°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 968,73,Male,Negative,Negative,Control,Unknown,37.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 969,47,Male,Negative,Positive,Suspected,Unknown,36.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 970,93,Male,Negative,Positive,Suspected,Unknown,37.8°C,"Hypertension, Cerebral hemorrhage, Cerebral infarction, Gastric ulcer, Gastrointestinal bleeding, Senile degenerative heart valve disease, Chronic bronchitis, Emphysema, Pleural effusion, Gallbladder stones, Kidney stones, Thyroid nodules, Prostate hyperplasia"
+HUST-Liyuan Hospital,Patient 971,35,Male,Negative,Positive,Suspected,Unknown,39.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 972,28,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 973,70,Female,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 974,78,Female,Negative,Positive,Suspected,Unknown,37.3°C,"Hypertension, Thyroid nodules, Cerebral infarction, Hyperthyroidism, Lung infections"
+HUST-Liyuan Hospital,Patient 975,60,Male,Negative,Positive,Suspected,Unknown,36.8°C,Hypertension
+HUST-Liyuan Hospital,Patient 976,40,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 977,56,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Hyperlipidemia, Fatty liver, Cerebral infarction"
+HUST-Liyuan Hospital,Patient 978,44,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 979,41,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 980,57,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 981,16,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 982,38,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 983,22,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 984,5,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 985,44,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 986,35,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 987,17,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 988,31,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 989,26,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 990,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 991,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 992,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 993,32,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 994,33,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 995,26,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 996,26,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 997,27,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 998,39,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 999,17,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1000,27,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1001,26,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1002,33,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1003,46,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1004,37,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1005,41,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1006,63,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1007,12,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1008,8,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1009,25,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1010,16,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1011,21,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1012,51,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1013,30,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1014,48,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1015,25,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1016,41,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1017,40,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1018,35,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1019,63,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1020,64,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1021,29,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1022,55,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1023,64,Female,Positive,Positive,Regular,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 1024,36,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1025,36,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1026,43,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1027,38,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1028,45,Female,Positive,Positive,Regular,Cured,,No underlying disease
+HUST-Liyuan Hospital,Patient 1029,9,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1030,51,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1031,45,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1032,27,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1033,41,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1034,56,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1035,58,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1036,38,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1037,32,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1038,50,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1039,47,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1040,50,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1041,46,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1042,47,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1043,67,Female,Positive,Positive,Regular,Cured,37.1°C,Diabetes
+HUST-Liyuan Hospital,Patient 1044,32,Male,Positive,Negative,Mild,Cured,37.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1045,57,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1046,52,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1047,51,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1048,51,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1049,46,Male,Positive,Negative,Mild,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1050,63,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1051,40,Male,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1052,48,Male,Positive,Positive,Regular,Cured,,No underlying disease
+HUST-Liyuan Hospital,Patient 1053,34,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1054,41,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1055,56,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1056,27,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1057,45,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1058,51,Male,Positive,Positive,Regular,Cured,36.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1059,55,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1060,45,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1061,27,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1062,55,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1063,37,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1064,42,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1065,56,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1066,51,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1067,37,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1068,35,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1069,61,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1070,24,Male,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1071,44,Male,Positive,Positive,Regular,Cured,36.5°C,"Hypertension, Arrhythmia"
+HUST-Liyuan Hospital,Patient 1072,59,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1073,35,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1074,30,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1075,48,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1076,49,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1077,38,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1078,58,Female,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1079,44,Male,Positive,Positive,Regular,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1080,53,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1081,65,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1082,48,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1083,21,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1084,24,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1085,28,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1086,25,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1087,60,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1088,55,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1089,60,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1090,62,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1091,61,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1092,68,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1093,54,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1094,33,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1095,56,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1096,57,Female,Negative,Positive,Suspected,Unknown,38.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 1097,60,Male,Negative,Positive,Suspected,Unknown,39.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 1098,77,Female,Negative,Positive,Suspected,Unknown,37.3°C,"Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+HUST-Liyuan Hospital,Patient 1099,29,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1100,72,Male,Negative,N/A,Control,Unknown,37.3°C,"Hypertension, Arrhythmia"
+HUST-Liyuan Hospital,Patient 1101,69,Female,Negative,Positive,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1102,52,Male,Negative,Positive,Suspected,Unknown,38.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1103,63,Male,Negative,Positive,Suspected,Unknown,38.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1104,89,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Benign prostatic hyperplasia"
+HUST-Liyuan Hospital,Patient 1105,82,Male,Negative,Positive,Suspected,Unknown,36.6°C,"Trial fibrillation, Hypertension, Permanent pacemaker implantation, Type 2 diabetes, Cerebral infarction, Duodenal ulcer, Prostatic hyperplasia, Chronic bronchitis"
+HUST-Liyuan Hospital,Patient 1106,20,Male,Negative,Positive,Suspected,Unknown,36.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1107,44,Female,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1108,38,Female,Negative,Positive,Suspected,Unknown,36.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1109,43,Male,Negative,Positive,Suspected,Unknown,38.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 1110,90,Female,Negative,Positive,Suspected,Unknown,38.5°C,"Hypertension, Hypertensive heart disease, Left femoral head necrosis, Right femoral neck fracture, Cerebral infarction"
+HUST-Liyuan Hospital,Patient 1111,54,Female,Negative,Positive,Suspected,Unknown,39.4°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 1112,48,Female,Negative,Positive,Suspected,Unknown,38.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 1113,63,Male,Negative,Positive,Suspected,Unknown,36.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1114,93,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Cerebral infarction, Hypertension, Diabetes, Chronic urinary tract infection, Coronary atherosclerotic heart disease"
+HUST-Liyuan Hospital,Patient 1115,64,Male,Negative,Negative,Control,Unknown,36.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1116,67,Male,Negative,Positive,Suspected,Unknown,36.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1117,88,Male,Negative,Positive,Suspected,Unknown,37.7°C,"Cervical spondylosis, Diabetes, Postoperative gastric cancer, Left femoral head replacement, Inguinal hernia, Left rib fracture, Arrhythmia, Fatty liver, Intrahepatic bile duct stones"
+HUST-Liyuan Hospital,Patient 1118,42,Female,Negative,Positive,Suspected,Unknown,36.9°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1119,57,Female,Negative,Positive,Suspected,Unknown,39.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1120,25,Male,Negative,Negative,Control,Unknown,36.5°C,Diabetes
+HUST-Liyuan Hospital,Patient 1121,49,Female,Negative,Positive,Suspected,Unknown,38.4°C,"Hypertension, Kidney stones, Fatty liver, Hyperlipidemia"
+HUST-Liyuan Hospital,Patient 1122,40,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1123,65,Female,Negative,Positive,Suspected,Unknown,39.6°C,"Diabetes, Coronary atherosclerotic heart disease"
+HUST-Liyuan Hospital,Patient 1124,24,Male,Negative,Positive,Suspected,Unknown,37.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1125,52,Female,Negative,Positive,Suspected,Unknown,39.0°C,Diabetes
+HUST-Liyuan Hospital,Patient 1126,82,Female,Negative,Positive,Suspected,Unknown,38.0°C,Hypertension
+HUST-Liyuan Hospital,Patient 1127,88,Male,Negative,Positive,Suspected,Unknown,36.2°C,"Coronary atherosclerotic heart disease, Diabetes, Inguinal hernia repair, Gastric cancer, Major gastrectomy, Hypertension, Premature ventricular contraction, Gallbladder stones"
+HUST-Liyuan Hospital,Patient 1128,46,Female,Negative,Positive,Suspected,Unknown,38.8°C,Diabetes
+HUST-Liyuan Hospital,Patient 1129,70,Male,Negative,Positive,Suspected,Unknown,38.3°C,"Hypertension, Hyperlipidemia, Arrhythmia"
+HUST-Liyuan Hospital,Patient 1130,63,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1131,47,Female,Negative,Negative,Control,Unknown,37.5°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1132,60,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1133,56,Male,Negative,Positive,Suspected,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 1134,31,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1135,40,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1136,67,Female,Negative,Positive,Suspected,Unknown,36.5°C,Hypertension
+HUST-Liyuan Hospital,Patient 1137,59,Male,Negative,N/A,Control,Unknown,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1138,44,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1139,51,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1140,69,Male,Negative,Positive,Suspected,Unknown,38.5°C,"Hypertension, Diabetes"
+HUST-Liyuan Hospital,Patient 1141,72,Female,Negative,Positive,Suspected,Unknown,39.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1142,64,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1143,87,Female,Negative,Positive,Suspected,Unknown,36.1°C,"Coronary atherosclerotic heart disease, Angina pectoris, Hypertension, Hypertension heart disease, Hyperlipidemia, Chronic obstructive pulmonary disease, Cerebral infarction, Atrial fibrillation"
+HUST-Liyuan Hospital,Patient 1144,50,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1145,71,Female,Negative,Positive,Suspected,Unknown,38.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1146,36,Female,Negative,Negative,Control,Unknown,37.3°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1147,23,Female,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1148,48,Male,Negative,Positive,Suspected,Unknown,37.8°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1149,81,Male,Negative,Positive,Suspected,Unknown,36.8°C,"Coronary atherosclerotic heart disease, Angina pectoris, Percutaneous coronary intervention, Diabetes, Intestinal obstruction, Cerebral infarction, Cervical spondylosis, Chronic erosive gastritis, Gastrointestinal bleeding, Arrhythmia"
+HUST-Liyuan Hospital,Patient 1150,38,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1151,71,Female,Negative,Positive,Suspected,Unknown,38.4°C,"Psoriasis, Rheumatoid arthritis, Hypoglycemia, Acute pancreatitis, Cholecystectomy, Caesarean section"
+HUST-Liyuan Hospital,Patient 1152,87,Female,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Coronary atherosclerotic heart disease, Hyperlipidemia, Atrial fibrillation, Cerebral infarction"
+HUST-Liyuan Hospital,Patient 1153,52,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1154,28,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1155,50,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1156,64,Female,Negative,Positive,Suspected,Unknown,37.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1157,62,Male,Negative,Positive,Suspected,Unknown,38.0°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1158,65,Female,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1159,47,Male,Negative,Positive,Suspected,Unknown,39.2°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1160,50,Female,Negative,Positive,Suspected,Unknown,39.4°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1161,80,Male,Negative,Positive,Suspected,Unknown,36.5°C,"Hypertension, Lung cancer"
+HUST-Liyuan Hospital,Patient 1162,45,Male,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1163,68,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1164,72,Female,Negative,Positive,Suspected,Unknown,36.6°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1165,36,Male,Negative,Positive,Suspected,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1166,32,Male,Negative,Negative,Control,Unknown,37.7°C,No underlying disease
+HUST-Liyuan Hospital,Patient 1167,68,Male,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1168,34,Female,Negative,Negative,Control,Unknown,,No underlying disease
+HUST-Liyuan Hospital,Patient 1169,57,Female,Negative,Positive,Suspected,Unknown,38.0°C,Diabetes
+HUST-Liyuan Hospital,Patient 1170,66,Female,Negative,Positive,Suspected,Unknown,38.5°C,Hypertension
+HUST-Union Hospital,Patient 1171,66,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1172,68,Female,Positive,Positive,Regular,Cured,36.6°C,"Asthma, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1173,81,Female,Positive,Positive,Regular,Cured,40.0°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1174,71,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1175,86,Female,Positive,Positive,Regular,Unknown,36.6°C,Cerebral infarction
+HUST-Union Hospital,Patient 1176,36,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1177,72,Female,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1178,81,Female,Positive,Positive,Regular,Cured,36.1°C,No underlying disease
+HUST-Union Hospital,Patient 1179,67,Female,Positive,Positive,Regular,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 1180,68,Female,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 1181,69,Male,Positive,Positive,Severe,Cured,39.0°C,Chronic obstructive pulmonary disease
+HUST-Union Hospital,Patient 1182,66,Female,Positive,Positive,Regular,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1183,83,Female,Positive,N/A,Severe,Unknown,39.0°C,"Hypertension, Heart disease"
+HUST-Union Hospital,Patient 1184,71,Male,Positive,Positive,Regular,Unknown,36.6°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1185,73,Male,Positive,Positive,Severe,Cured,38.1°C,Hypertension
+HUST-Union Hospital,Patient 1186,66,Male,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1187,67,Male,Positive,Positive,Regular,Cured,36.5°C,"Diabetes, Hyperlipidemia"
+HUST-Union Hospital,Patient 1188,51,Female,Positive,Positive,Regular,Unknown,36.6°C,Systemic lupus erythematosus
+HUST-Union Hospital,Patient 1189,54,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1190,59,Female,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 1191,65,Female,Positive,Positive,Regular,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 1192,68,Female,Positive,Positive,Regular,Cured,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1193,69,Female,Positive,Positive,Regular,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 1194,28,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1195,66,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1196,48,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1197,62,Female,Positive,Positive,Regular,Cured,39.0°C,Hypertension
+HUST-Union Hospital,Patient 1198,43,Female,Positive,Positive,Regular,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1199,61,Male,Positive,Positive,Regular,Cured,39.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1200,42,Female,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1201,65,Female,Positive,Positive,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 1202,64,Female,Positive,Positive,Regular,Cured,37.2°C,No underlying disease
+HUST-Union Hospital,Patient 1203,91,Male,Positive,Positive,Regular,Unknown,37.6°C,Hypertension
+HUST-Union Hospital,Patient 1204,69,Female,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Diabetes, Heartdisease"
+HUST-Union Hospital,Patient 1205,67,Female,Positive,Positive,Regular,Cured,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1206,67,Female,Positive,Positive,Regular,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 1207,68,Female,Positive,Positive,Regular,Cured,36.6°C,Gout
+HUST-Union Hospital,Patient 1208,76,Male,Positive,Positive,Regular,Cured,37.9°C,Postoperative prostate cancer
+HUST-Union Hospital,Patient 1209,63,Female,Positive,Positive,Regular,Cured,37.8°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1210,55,Male,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1211,51,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1212,65,Female,Positive,Positive,Regular,Cured,38.9°C,Hypertension
+HUST-Union Hospital,Patient 1213,43,Male,Positive,Positive,Regular,Cured,36.3°C,Bronchitis
+HUST-Union Hospital,Patient 1214,70,Male,Positive,Positive,Severe,Cured,38.7°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1215,49,Female,Positive,Positive,Regular,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1216,77,Male,Positive,Positive,Regular,Cured,38.3°C,"Hypertension, Lacunar cerebral infarction"
+HUST-Union Hospital,Patient 1217,91,Female,Positive,Positive,Critically ill,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1218,63,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1219,43,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1220,57,Male,Positive,Positive,Regular,Cured,37.4°C,"Hypertension, Diabetes, Hyperlipidemia"
+HUST-Union Hospital,Patient 1221,73,Female,Positive,Positive,Regular,Cured,36.2°C,Hypertension
+HUST-Union Hospital,Patient 1222,68,Male,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 1223,56,Female,Positive,Positive,Regular,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1224,56,Female,Positive,Positive,Regular,Cured,38.5°C,Hypertension
+HUST-Union Hospital,Patient 1225,73,Male,Positive,Positive,Regular,Cured,38.2°C,Hypertension
+HUST-Union Hospital,Patient 1226,36,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1227,41,Female,Positive,Positive,Regular,Cured,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 1228,60,Male,Positive,Positive,Regular,Cured,36.6°C,Heart disease
+HUST-Union Hospital,Patient 1229,65,Male,Positive,Positive,Regular,Cured,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1230,67,Male,Positive,Positive,Regular,Cured,36.2°C,Hypertension
+HUST-Union Hospital,Patient 1231,68,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1232,69,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1233,65,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1234,52,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1235,77,Female,Positive,Positive,Regular,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1236,51,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1237,62,Female,Positive,Positive,Regular,Cured,38.5°C,Hypertension
+HUST-Union Hospital,Patient 1238,32,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1239,70,Male,Positive,Positive,Regular,Cured,36.6°C,Diabetes
+HUST-Union Hospital,Patient 1240,49,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1241,74,Male,Positive,Positive,Regular,Unknown,37.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1242,20,Male,Positive,Positive,Regular,Cured,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 1243,63,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1244,67,Female,Positive,Positive,Regular,Unknown,36.5°C,Hypertension
+HUST-Union Hospital,Patient 1245,66,Female,Positive,Positive,Regular,Unknown,38.7°C,Diabetes
+HUST-Union Hospital,Patient 1246,72,Male,Positive,Positive,Severe,Unknown,39.4°C,"Chronic obstructive emphysema, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1247,52,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1248,36,Male,Positive,Positive,Regular,Cured,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 1249,56,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1250,73,Male,Positive,Positive,Regular,Cured,38.0°C,Hyperuricemia
+HUST-Union Hospital,Patient 1251,57,Male,Positive,Positive,Regular,Unknown,38.3°C,No underlying disease
+HUST-Union Hospital,Patient 1252,37,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1253,57,Female,Positive,Positive,Regular,Cured,37.5°C,Diabetes
+HUST-Union Hospital,Patient 1254,61,Male,Positive,Positive,Regular,Cured,37.8°C,Hypertension
+HUST-Union Hospital,Patient 1255,73,Male,Positive,Positive,Severe,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1256,52,Female,Positive,Positive,Regular,Cured,39.2°C,Hypertension
+HUST-Union Hospital,Patient 1257,35,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1258,64,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1259,66,Male,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1260,69,Female,Positive,Positive,Regular,Cured,38.5°C,Diabetes
+HUST-Union Hospital,Patient 1261,61,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1262,71,Male,Positive,Positive,Regular,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 1263,65,Female,Positive,Positive,Regular,Cured,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 1264,67,Male,Positive,Positive,Severe,Unknown,38.5°C,Hepatitis B
+HUST-Union Hospital,Patient 1265,83,Male,Positive,Positive,Severe,Cured,38.0°C,Atrial fibrillation
+HUST-Union Hospital,Patient 1266,53,Male,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1267,37,Female,Positive,Positive,Regular,Cured,37.4°C,Myocardial bridge
+HUST-Union Hospital,Patient 1268,61,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1269,60,Male,Positive,Positive,Regular,Unknown,36.6°C,Diabetes
+HUST-Union Hospital,Patient 1270,45,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1271,46,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1272,62,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1273,59,Female,Positive,Positive,Regular,Cured,37.5°C,Diabetes
+HUST-Union Hospital,Patient 1274,57,Male,Positive,Positive,Severe,Cured,36.3°C,"Diabetes, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1275,78,Female,Positive,Positive,Severe,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1276,68,Female,Positive,Positive,Regular,Cured,37.6°C,No underlying disease
+HUST-Union Hospital,Patient 1277,68,Female,Positive,Positive,Regular,Cured,37.7°C,Diabetes
+HUST-Union Hospital,Patient 1278,69,Male,Positive,Positive,Regular,Cured,39.0°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1279,70,Male,Positive,Positive,Regular,Cured,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1280,68,Male,Positive,Positive,Regular,Unknown,36.6°C,"Chronic lymphocytic leukemia, Prostate tumor, Diabetes"
+HUST-Union Hospital,Patient 1281,50,Female,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1282,79,Male,Positive,Positive,Regular,Unknown,37.3°C,Left renal cyst
+HUST-Union Hospital,Patient 1283,67,Male,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1284,72,Female,Positive,Positive,Regular,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 1285,63,Male,Positive,Positive,Regular,Cured,39.0°C,"Hypertension, Gastrectomy"
+HUST-Union Hospital,Patient 1286,65,Female,Positive,Positive,Regular,Unknown,36.0°C,No underlying disease
+HUST-Union Hospital,Patient 1287,58,Female,Positive,Positive,Regular,Cured,39.0°C,After radical mastectomy
+HUST-Union Hospital,Patient 1288,50,Female,Positive,Positive,Regular,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1289,66,Male,Positive,Positive,Severe,Cured,36.6°C,Atrial fibrillation
+HUST-Union Hospital,Patient 1290,68,Female,Positive,Positive,Regular,Cured,37.3°C,Diabetes
+HUST-Union Hospital,Patient 1291,65,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1292,78,Female,Positive,Positive,Severe,Unknown,36.4°C,Hypertension
+HUST-Union Hospital,Patient 1293,93,Female,Positive,Positive,Regular,Unknown,36.4°C,No underlying disease
+HUST-Union Hospital,Patient 1294,53,Female,Positive,Positive,Regular,Cured,37.5°C,Systemic lupus erythematosus
+HUST-Union Hospital,Patient 1295,73,Female,Positive,Positive,Severe,Cured,36.6°C,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1296,62,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1297,67,Female,Positive,Positive,Regular,Cured,37.0°C,Hypertension
+HUST-Union Hospital,Patient 1298,37,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1299,40,Male,Positive,Positive,Regular,Unknown,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1300,57,Female,Positive,Positive,Severe,Unknown,39.8°C,"Hypertension, Systemic lupus erythematosus"
+HUST-Union Hospital,Patient 1301,65,Female,Positive,Positive,Regular,Cured,36.6°C,Diabetes
+HUST-Union Hospital,Patient 1302,12,Male,Positive,N/A,Regular,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1303,33,Female,Positive,Positive,Severe,Cured,39.4°C,No underlying disease
+HUST-Union Hospital,Patient 1304,89,Female,Positive,N/A,Critically ill,Deceased,36.3°C,"Hypertension, Cerebral infarction"
+HUST-Union Hospital,Patient 1305,48,Male,Positive,Positive,Regular,Cured,39.6°C,No underlying disease
+HUST-Union Hospital,Patient 1306,86,Female,Positive,N/A,Critically ill,Deceased,38.8°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1307,74,Female,Positive,Positive,Severe,Cured,38.5°C,Hypertension、Diabetes
+HUST-Union Hospital,Patient 1308,72,Male,Positive,Positive,Regular,Cured,38.8°C,Hypertension
+HUST-Union Hospital,Patient 1309,73,Male,Positive,Positive,Regular,Cured,38.0°C,Diabetes
+HUST-Union Hospital,Patient 1310,46,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1311,38,Male,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 1312,66,Female,Positive,Positive,Severe,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 1313,55,Female,Positive,Positive,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 1314,55,Male,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1315,41,Male,Positive,Positive,Severe,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1316,66,Female,Positive,Positive,Regular,Cured,38.5°C,Diabetes
+HUST-Union Hospital,Patient 1317,63,Male,Positive,Positive,Regular,Cured,38.0°C,"Hypertension, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1318,34,Female,Positive,Positive,Regular,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1319,76,Female,Positive,N/A,Regular,Cured,36.9°C,No underlying disease
+HUST-Union Hospital,Patient 1320,53,Female,Positive,Positive,Regular,Cured,37.5°C,Diabetes
+HUST-Union Hospital,Patient 1321,32,Male,Positive,Positive,Regular,Cured,39.9°C,After polypectomy
+HUST-Union Hospital,Patient 1322,70,Female,Positive,Positive,Regular,Cured,39.0°C,Diabetes
+HUST-Union Hospital,Patient 1323,20,Male,Positive,Positive,Regular,Cured,38.2°C,No underlying disease
+HUST-Union Hospital,Patient 1324,71,Female,Positive,Positive,Regular,Cured,36.8°C,Diabetes
+HUST-Union Hospital,Patient 1325,51,Female,Positive,Positive,Severe,Cured,37.8°C,After thyroidectomy
+HUST-Union Hospital,Patient 1326,72,Female,Positive,Positive,Severe,Cured,38.0°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1327,82,Female,Positive,Positive,Severe,Cured,37.1°C,Schistosome cirrhosis after splenectomy
+HUST-Union Hospital,Patient 1328,58,Female,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 1329,53,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1330,55,Male,Positive,Positive,Severe,Cured,39.0°C,"Diabetes, Hypertension, Heart disease"
+HUST-Union Hospital,Patient 1331,64,Male,Positive,Positive,Severe,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1332,56,Male,Positive,Positive,Regular,Cured,39.0°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1333,63,Female,Positive,Positive,Regular,Cured,38.0°C,Chronic gastritis
+HUST-Union Hospital,Patient 1334,49,Female,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1335,27,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1336,66,Male,Positive,Positive,Regular,Cured,39.0°C,Diabetes
+HUST-Union Hospital,Patient 1337,68,Female,Positive,Positive,Severe,Cured,39.1°C,"Hypertension, Lacunar cerebral infarction"
+HUST-Union Hospital,Patient 1338,68,Male,Positive,Positive,Regular,Cured,36.5°C,"Hypertension, Coronary atherosclerotic heart disease, Hyperlipidemia"
+HUST-Union Hospital,Patient 1339,69,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1340,61,Male,Positive,Positive,Regular,Cured,39.4°C,No underlying disease
+HUST-Union Hospital,Patient 1341,66,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1342,48,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1343,57,Female,Positive,Positive,Severe,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1344,32,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1345,37,Female,Positive,Positive,Severe,Cured,38.7°C,Thyroid nodule
+HUST-Union Hospital,Patient 1346,73,Male,Positive,Positive,Severe,Cured,38.5°C,Hyperplasia of prostate
+HUST-Union Hospital,Patient 1347,71,Male,Positive,Positive,Regular,Cured,38.0°C,Cholecystectomy
+HUST-Union Hospital,Patient 1348,56,Male,Positive,Positive,Regular,Cured,39.0°C,Hypertension
+HUST-Union Hospital,Patient 1349,67,Female,Positive,Positive,Severe,Cured,38.0°C,Hypertension
+HUST-Union Hospital,Patient 1350,68,Male,Positive,Positive,Regular,Cured,38.5°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1351,61,Male,Positive,Positive,Regular,Cured,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 1352,72,Male,Positive,Positive,Severe,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1353,70,Male,Positive,Negative,Mild,Cured,37.0°C,No underlying disease
+HUST-Union Hospital,Patient 1354,44,Female,Positive,Positive,Regular,Cured,38.0°C,Hepatitis B
+HUST-Union Hospital,Patient 1355,70,Female,Positive,Positive,Severe,Cured,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 1356,46,Female,Positive,Positive,Regular,Cured,37.0°C,Hypertension
+HUST-Union Hospital,Patient 1357,58,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1358,64,Male,Positive,Positive,Regular,Cured,36.4°C,"Chronic obstructive pulmonary disease, Bronchial asthma, After radical resection of lung cancer"
+HUST-Union Hospital,Patient 1359,46,Male,Positive,Positive,Severe,Cured,39.0°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1360,72,Female,Positive,N/A,Critically ill,Cured,36.7°C,"Diabetes, Fatty liver, hepatic cyst"
+HUST-Union Hospital,Patient 1361,55,Male,Positive,Positive,Critically ill,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 1362,59,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1363,56,Male,Positive,Positive,Severe,Cured,37.8°C,Diabetes
+HUST-Union Hospital,Patient 1364,64,Female,Positive,Positive,Regular,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 1365,71,Female,Positive,Positive,Severe,Cured,36.6°C,Erosive gastritis
+HUST-Union Hospital,Patient 1366,64,Female,Positive,Positive,Regular,Cured,36.5°C,"Hypertension, Postoperative colon cancer"
+HUST-Union Hospital,Patient 1367,33,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1368,70,Male,Positive,Positive,Severe,Cured,36.0°C,"Diabetes, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1369,37,Female,Positive,Positive,Regular,Cured,37.8°C,No underlying disease
+HUST-Union Hospital,Patient 1370,55,Female,Positive,Positive,Severe,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1371,63,Female,Positive,Positive,Severe,Cured,37.8°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1372,42,Female,Positive,Positive,Regular,Cured,38.7°C,No underlying disease
+HUST-Union Hospital,Patient 1373,54,Female,Positive,Positive,Critically ill,Cured,38.2°C,Diabetes
+HUST-Union Hospital,Patient 1374,65,Female,Positive,Positive,Regular,Cured,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 1375,67,Female,Positive,Positive,Regular,Cured,36.5°C,Diabetes
+HUST-Union Hospital,Patient 1376,44,Female,Positive,Positive,Severe,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1377,43,Male,Positive,Positive,Regular,Cured,37.7°C,No underlying disease
+HUST-Union Hospital,Patient 1378,76,Male,Positive,Positive,Severe,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1379,64,Male,Positive,Positive,Regular,Cured,38.3°C,"Coronary atherosclerotic heart disease, Diabetes, Chronic obstructive pulmonary disease"
+HUST-Union Hospital,Patient 1380,56,Female,Positive,Positive,Regular,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1381,58,Female,Positive,Positive,Severe,Cured,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1382,61,Male,Positive,Positive,Regular,Cured,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 1383,51,Female,Positive,Positive,Regular,Cured,36.2°C,No underlying disease
+HUST-Union Hospital,Patient 1384,60,Female,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1385,64,Female,Positive,Positive,Severe,Cured,40.0°C,Hypertension
+HUST-Union Hospital,Patient 1386,53,Male,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1387,57,Male,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1388,52,Female,Positive,Positive,Severe,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1389,23,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1390,50,Female,Positive,Positive,Regular,Cured,39.1°C,No underlying disease
+HUST-Union Hospital,Patient 1391,58,Female,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1392,83,Female,Positive,N/A,Severe,Deceased,36.5°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1393,47,Male,Positive,Positive,Regular,Cured,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 1394,51,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1395,38,Male,Positive,Positive,Regular,Cured,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1396,49,Male,Positive,Positive,Regular,Cured,39.3°C,No underlying disease
+HUST-Union Hospital,Patient 1397,52,Male,Positive,Positive,Regular,Cured,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1398,45,Female,Positive,Positive,Regular,Cured,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1399,61,Male,Positive,Positive,Severe,Cured,37.5°C,"Diabetes, Hypertension, Chronic renal insufficiency"
+HUST-Union Hospital,Patient 1400,79,Male,Positive,N/A,Critically ill,Deceased,37.5°C,"Hypertension, Diabetes, Renal insufficiency, Lacunar cerebral infarction"
+HUST-Union Hospital,Patient 1401,88,Female,Positive,N/A,Severe,Cured,37.3°C,"Alzheimer's disease, Hypertension, Rheumatoid arthritis"
+HUST-Union Hospital,Patient 1402,84,Male,Positive,Positive,Severe,Cured,37.2°C,Coronary atherosclerotic heart disease
+HUST-Union Hospital,Patient 1403,48,Male,Positive,Positive,Regular,Cured,38.5°C,No underlying disease
+HUST-Union Hospital,Patient 1404,57,Female,Positive,Positive,Regular,Cured,28.8°C,No underlying disease
+HUST-Union Hospital,Patient 1405,64,Male,Positive,Positive,Regular,Cured,39.2°C,Hypertension
+HUST-Union Hospital,Patient 1406,61,Female,Positive,Positive,Severe,Cured,38.0°C,"Hypertension, Postoperative ovarian cancer"
+HUST-Union Hospital,Patient 1407,31,Female,Positive,Positive,Regular,Cured,37.3°C,No underlying disease
+HUST-Union Hospital,Patient 1408,70,Female,Positive,Positive,Severe,Cured,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1409,69,Male,Positive,Positive,Severe,Cured,37.5°C,Hypertension
+HUST-Union Hospital,Patient 1410,54,Male,Negative,Negative,Control,Unknown,36.5°C,Rheumatic heart disease
+HUST-Union Hospital,Patient 1411,72,Male,Negative,Negative,Control,Unknown,38.0°C,"Bronchiectasia, Hypertension"
+HUST-Union Hospital,Patient 1412,66,Male,Negative,Negative,Control,Unknown,36.5°C,"Erosive gastritis, Chronic bronchitis of both lungs"
+HUST-Union Hospital,Patient 1413,43,Male,Negative,Negative,Control,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1414,49,Male,Negative,Negative,Control,Unknown,37.0°C,"Rheumatic heart disease, Atrial fibrillation"
+HUST-Union Hospital,Patient 1415,6,Female,Negative,Negative,Control,Unknown,39.5°C,No underlying disease
+HUST-Union Hospital,Patient 1416,72,Male,Negative,Negative,Control,Unknown,38.3°C,"Diabetes, Heart disease"
+HUST-Union Hospital,Patient 1417,71,Male,Negative,Negative,Control,Unknown,36.6°C,Hypertension
+HUST-Union Hospital,Patient 1418,57,Male,Negative,Negative,Control,Unknown,36.6°C,"Non Hodgkin's lymphoma, Coronary atherosclerotic heart disease, Diabetes"
+HUST-Union Hospital,Patient 1419,69,Male,Negative,Negative,Control,Unknown,39.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1420,55,Male,Negative,Negative,Control,Unknown,36.7°C,"Lacunar cerebral infarction, Renal cyst, Atherosclerosis of aorta"
+HUST-Union Hospital,Patient 1421,21,Female,Negative,Negative,Control,Unknown,36.7°C,"Chemotherapy of malignant tumor, Acute lymphoblastic leukemia"
+HUST-Union Hospital,Patient 1422,52,Female,Negative,Negative,Control,Unknown,37.5°C,"Hyperthyroid heart disease, Hyperthyroidism"
+HUST-Union Hospital,Patient 1423,32,Female,Negative,Negative,Control,Unknown,38.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1424,57,Male,Negative,Negative,Control,Unknown,38.0°C,"Hypertension、Diabetes, Cerebral infarction"
+HUST-Union Hospital,Patient 1425,53,Male,Negative,Negative,Control,Unknown,36.5°C,"After thyroidectomy, Diabetes, Hypertension"
+HUST-Union Hospital,Patient 1426,66,Female,Negative,Negative,Control,Unknown,36.9°C,Hypertension
+HUST-Union Hospital,Patient 1427,69,Male,Negative,Negative,Control,Unknown,36.6°C,"Squamous cell carcinoma of the lower lobe of the right lung, Hypertension, Chronic hepatitis B, Emphysema"
+HUST-Union Hospital,Patient 1428,2,Male,Negative,Negative,Control,Unknown,39.2°C,No underlying disease
+HUST-Union Hospital,Patient 1429,68,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1430,24,Male,Negative,Negative,Control,Unknown,40.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1431,50,Male,Negative,Negative,Control,Unknown,36.6°C,Multiple myeloma
+HUST-Union Hospital,Patient 1432,76,Female,Negative,Negative,Control,Unknown,38.8°C,Parkinson disease
+HUST-Union Hospital,Patient 1433,39,Male,Negative,Negative,Control,Unknown,37.8°C,Hypertension
+HUST-Union Hospital,Patient 1434,49,Female,Negative,Negative,Control,Unknown,36.5°C,Hypertension
+HUST-Union Hospital,Patient 1435,81,Male,Negative,Negative,Control,Unknown,37.5°C,"Heart disease, Hypertension, Chronic bronchitis"
+HUST-Union Hospital,Patient 1436,26,Male,Negative,Negative,Control,Unknown,36.8°C,ANCA-associated vasculitis
+HUST-Union Hospital,Patient 1437,68,Female,Negative,Negative,Control,Unknown,39.3°C,Hypertension
+HUST-Union Hospital,Patient 1438,85,Male,Negative,Negative,Control,Unknown,36.6°C,After colectomy
+HUST-Union Hospital,Patient 1439,20,Male,Negative,Negative,Control,Unknown,37.5°C,Bronchiectasia
+HUST-Union Hospital,Patient 1440,37,Male,Negative,Negative,Control,Unknown,38.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1441,52,Male,Negative,Negative,Control,Unknown,37.5°C,"Bronchitis, Erosive atrophic gastritis"
+HUST-Union Hospital,Patient 1442,54,Male,Negative,Negative,Control,Unknown,36.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1443,56,Female,Negative,Negative,Control,Unknown,36.5°C,Hepatitis BPulmonary embolism
+HUST-Union Hospital,Patient 1444,73,Male,Negative,Negative,Control,Unknown,36.5°C,Radical resection of rectal cancer
+HUST-Union Hospital,Patient 1445,79,Male,Negative,Negative,Control,Unknown,39.0°C,Aortic dissection
+HUST-Union Hospital,Patient 1446,82,Male,Negative,Negative,Control,Unknown,37.2°C,"Cerebral infarction, Chronic renal insufficiency, Hypertension, Hyperlipidemia"
+HUST-Union Hospital,Patient 1447,32,Female,Negative,Negative,Control,Unknown,40.0°C,No underlying disease
+HUST-Union Hospital,Patient 1448,62,Female,Negative,Negative,Control,Unknown,36.7°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1449,79,Male,Negative,Negative,Control,Unknown,36.2°C,"Infiltrative cardiomyopathy, Multiple myeloma, Chronic renal insufficiency, Hepatitis B cirrhosis"
+HUST-Union Hospital,Patient 1450,51,Female,Negative,Negative,Control,Unknown,36.1°C,Cirrhosis
+HUST-Union Hospital,Patient 1451,1,Female,Negative,Negative,Control,Unknown,37.5°C,No underlying disease
+HUST-Union Hospital,Patient 1452,29,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1453,2,Female,Negative,Negative,Control,Unknown,39.9°C,No underlying disease
+HUST-Union Hospital,Patient 1454,62,Female,Negative,Negative,Control,Unknown,36.8°C,Hypertension
+HUST-Union Hospital,Patient 1455,91,Female,Negative,Negative,Control,Unknown,36.5°C,"Hypertension, Cerebral infarction, Heart disease, Hyperthyroidism"
+HUST-Union Hospital,Patient 1456,2,Female,Negative,Negative,Control,Unknown,41.0°C,No underlying disease
+HUST-Union Hospital,Patient 1457,2,Female,Negative,Negative,Control,Unknown,38.6°C,No underlying disease
+HUST-Union Hospital,Patient 1458,53,Female,Negative,Negative,Control,Unknown,38.9°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1459,62,Male,Negative,Negative,Control,Unknown,36.6°C,"Hepatic hemangioma, Hepatic cyst"
+HUST-Union Hospital,Patient 1460,62,Male,Negative,Negative,Control,Unknown,39.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1461,69,Male,Negative,Negative,Control,Unknown,39.6°C,Thrombocytopenia
+HUST-Union Hospital,Patient 1462,46,Male,Negative,Negative,Control,Unknown,36.5°C,Diabetes
+HUST-Union Hospital,Patient 1463,61,Male,Negative,Negative,Control,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1464,75,Female,Negative,Negative,Control,Unknown,37.5°C,Chronic renal failure
+HUST-Union Hospital,Patient 1465,31,Female,Negative,Negative,Control,Unknown,39.6°C,No underlying disease
+HUST-Union Hospital,Patient 1466,59,Male,Negative,Negative,Control,Unknown,36.5°C,No underlying disease
+HUST-Union Hospital,Patient 1467,64,Male,Negative,Negative,Control,Unknown,36.6°C,"Chronic hepatitis B, Chronic bronchitis, Emphysema, Hypertension, Diabetes, Multiple lacunar cerebral infarction"
+HUST-Union Hospital,Patient 1468,31,Female,Negative,Negative,Control,Unknown,37.1°C,No underlying disease
+HUST-Union Hospital,Patient 1469,54,Male,Negative,Negative,Control,Unknown,36.8°C,No underlying disease
+HUST-Union Hospital,Patient 1470,65,Male,Negative,Negative,Control,Unknown,36.5°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1471,53,Female,Negative,Negative,Control,Unknown,39.6°C,Hysteria
+HUST-Union Hospital,Patient 1472,70,Male,Negative,Negative,Control,Unknown,38.6°C,"Chronic obstructive pulmonary disease, Renal insufficiency, Hyperuricemia, Gout"
+HUST-Union Hospital,Patient 1473,57,Female,Negative,Negative,Control,Unknown,37.6°C,Heart disease
+HUST-Union Hospital,Patient 1474,69,Female,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Diabetes, Hyperthyroidism"
+HUST-Union Hospital,Patient 1475,69,Male,Negative,Negative,Control,Unknown,36.7°C,No underlying disease
+HUST-Union Hospital,Patient 1476,84,Male,Negative,Negative,Control,Unknown,36.5°C,"Cerebral infarction, Chronic obstructive pulmonary disease, Hypertensio, Chronic heart failure"
+HUST-Union Hospital,Patient 1477,59,Male,Negative,Negative,Control,Unknown,39.0°C,"Hypertension, Diabetes"
+HUST-Union Hospital,Patient 1478,63,Male,Negative,Negative,Control,Unknown,36.2°C,Heart disease
+HUST-Union Hospital,Patient 1479,37,Male,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Renal insufficiency"
+HUST-Union Hospital,Patient 1480,52,Male,Negative,Negative,Control,Unknown,36.7°C,Idiopathic thrombocytopenic purpura
+HUST-Union Hospital,Patient 1481,54,Male,Negative,Negative,Control,Unknown,36.3°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1482,57,Female,Negative,Negative,Control,Unknown,36.6°C,Postoperative thyroid cancer
+HUST-Union Hospital,Patient 1483,59,Male,Negative,Negative,Control,Unknown,36.4°C,"Rheumatic heart disease, Hypertension, Bilateral bronchitis, Cholecystitis"
+HUST-Union Hospital,Patient 1484,64,Female,Negative,Negative,Control,Unknown,38.0°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1485,70,Male,Negative,Negative,Control,Unknown,36.6°C,"Hepatitis C cirrhosis, Diabetes"
+HUST-Union Hospital,Patient 1486,7,Male,Negative,Negative,Control,Unknown,38.8°C,No underlying disease
+HUST-Union Hospital,Patient 1487,86,Female,Negative,Negative,Control,Unknown,36.6°C,"Hypertension, Cerebral infarction"
+HUST-Union Hospital,Patient 1488,18,Male,Negative,Negative,Control,Unknown,36.6°C,"Chronic renal failure, Hypertension"
+HUST-Union Hospital,Patient 1489,60,Female,Negative,Negative,Control,Unknown,37.1°C,"Chronic renal failure, Hypertension, Pulmonary edema"
+HUST-Union Hospital,Patient 1490,83,Male,Negative,Negative,Control,Unknown,36.6°C,Pulmonary nodule
+HUST-Union Hospital,Patient 1491,71,Male,Negative,Negative,Control,Unknown,36.3°C,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1492,83,Female,Negative,Negative,Control,Unknown,37.8°C,"Diabetes, Hypertension, Coronary atherosclerotic heart disease"
+HUST-Union Hospital,Patient 1493,25,Male,Negative,Negative,Control,Unknown,37.5°C,"Anaemia, Fatty liver"
+HUST-Union Hospital,Patient 1494,45,Male,Negative,Negative,Control,Unknown,37.5°C,"Heart failure, Coronary atherosclerotic heart disease, Diabetes"
+HUST-Union Hospital,Patient 1495,57,Male,Negative,Negative,Control,Unknown,39.5°C,"Bipulmonary bronchitis, Emphysema, Hypertension, Diabetes, Chronic renal insufficiency"
+HUST-Union Hospital,Patient 1496,74,Male,Negative,Negative,Control,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 1497,91,Female,Negative,Negative,Control,Unknown,39.0°C,No underlying disease
+HUST-Union Hospital,Patient 1498,55,Male,Negative,Negative,Control,Unknown,36.9°C,"Bronchiectasia, Pulmonary heart disease, After radiotherapy and chemotherapy for rectal adenocarcinoma"
+HUST-Union Hospital,Patient 1499,65,Female,Negative,Negative,Control,Unknown,36.8°C,"Hypertension, Coronary atherosclerotic heart disease, Chronic renal failure, Diabetes"
+HUST-Union Hospital,Patient 1500,67,Male,Negative,Negative,Control,Unknown,36.3°C,Parkinson disease
+HUST-Union Hospital,Patient 1501,58,Male,Negative,Negative,Control,Unknown,39.5°C,Hypertension
+HUST-Union Hospital,Patient 1502,55,Male,Negative,Negative,Control,Unknown,37.5°C,"Pulmonary nodule, Hypertension"
+HUST-Union Hospital,Patient 1503,60,Female,Negative,Negative,Control,Unknown,36.4°C,"Hypertension, Cerebral infarction"
+HUST-Union Hospital,Patient 1504,65,Male,Negative,Negative,Control,Unknown,37.5°C,"Cirrhosis, Cholecystitis, Hypertension"
+HUST-Union Hospital,Patient 1505,70,Male,Negative,Negative,Control,Unknown,36.6°C,"Chronic obstructive pulmonary disease, Hepatitis B"
+HUST-Union Hospital,Patient 1506,54,Male,Negative,Negative,Control,Unknown,37.0°C,"Bronchitis, Emphysema"
+HUST-Union Hospital,Patient 1507,62,Male,Negative,Negative,Control,Unknown,36.6°C,"Coronary atherosclerotic heart disease, Hypertension, Diabetes, Chronic renal insufficiency"
+HUST-Union Hospital,Patient 1508,65,Male,Negative,Negative,Control,Unknown,36.3°C,No underlying disease
+HUST-Union Hospital,Patient 1509,56,Male,Negative,Negative,Control,Unknown,36.5°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1510,67,Female,Negative,Negative,Control,Unknown,37.0°C,"Hypertension, Diabetes, Chronic gastritis"
+HUST-Union Hospital,Patient 1511,20,Male,Negative,Negative,Control,Unknown,36.6°C,Acute myeloid leukemia
+HUST-Union Hospital,Patient 1512,47,Male,Negative,Negative,Control,Unknown,38.0°C,No underlying disease
+HUST-Union Hospital,Patient 1513,60,Male,Negative,Negative,Control,Unknown,36.6°C,"Diabetes, Diabetic nephropathy, Post-cerebral infarction"
+HUST-Union Hospital,Patient 1514,60,Male,Negative,Negative,Control,Unknown,36.5°C,Postoperative cerebral aneurysm
+HUST-Union Hospital,Patient 1515,53,Female,Negative,Negative,Control,Unknown,38.0°C,"Chronic renal failure, ANCA-associated glomerulonephritis, Hypoparathyroidism, Hypertension, Erosive gastritis"
+HUST-Union Hospital,Patient 1516,52,Male,Positive,Positive,Severe,Cured,38.9°C,No underlying disease
+HUST-Union Hospital,Patient 1517,45,Female,Positive,Positive,Regular,Unknown,38.9°C,"Fatty liver, Hepatitis B"
+HUST-Union Hospital,Patient 1518,66,Female,Positive,Positive,Regular,Unknown,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1519,71,Female,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Atrial fibrillation"
+HUST-Union Hospital,Patient 1520,66,Female,Positive,Positive,Regular,Cured,36.6°C,No underlying disease
+HUST-Union Hospital,Patient 1521,64,Female,Positive,Positive,Regular,Cured,36.6°C,"Hypertension, Coronary atherosclerotic heart disease, Diabetes"

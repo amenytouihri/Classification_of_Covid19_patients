@@ -1,0 +1,1521 @@
+864,40,Male,Positive,Positive,38.00,"Abnormal liver function, Hypertension, Diabetes, Hyperlipidemia"
+98,35,Female,Positive,Positive,36.20,Acute lymphoblastic leukemia
+1419,69,Male,Negative,Negative,39.00,Acute myeloid leukemia
+1423,32,Female,Negative,Negative,38.00,Acute myeloid leukemia
+1430,24,Male,Negative,Negative,40.00,Acute myeloid leukemia
+1440,37,Male,Negative,Negative,38.00,Acute myeloid leukemia
+1448,62,Female,Negative,Negative,36.70,Acute myeloid leukemia
+1458,53,Female,Negative,Negative,38.90,Acute myeloid leukemia
+1460,62,Male,Negative,Negative,39.00,Acute myeloid leukemia
+1481,54,Male,Negative,Negative,36.30,Acute myeloid leukemia
+1484,64,Female,Negative,Negative,38.00,Acute myeloid leukemia
+1509,56,Male,Negative,Negative,36.50,Acute myeloid leukemia
+1511,20,Male,Negative,Negative,36.60,Acute myeloid leukemia
+657,47,Male,Negative,Positive,36.60,"Acute pancreatitis, Acute renal insufficiency"
+641,59,Male,Negative,Positive,37.00,"Acute pancreatitis, Fatty liver, Multiple gallstones, Cholecystitis"
+16,51,Female,Positive,Positive,36.40,Acute severe pancreatitis
+573,37,Female,Negative,Negative,36.50,After breast cancer surgery
+1438,85,Male,Negative,Negative,36.60,After colectomy
+833,49,Male,Positive,Positive,38.50,"After kidney transplant, Hypertension"
+572,57,Male,Negative,Negative,36.60,After nasopharyngeal carcinoma surgery
+1321,32,Male,Positive,Positive,39.90,After polypectomy
+1287,58,Female,Positive,Positive,39.00,After radical mastectomy
+1325,51,Female,Positive,Positive,37.80,After thyroidectomy
+1425,53,Male,Negative,Negative,36.50,"After thyroidectomy, Diabetes, Hypertension"
+916,68,Female,Negative,Positive,38.00,Alzheimer's disease
+940,68,Female,Negative,Positive,37.70,Alzheimer's disease
+1401,88,Female,Positive,N/A,37.30,"Alzheimer's disease, Hypertension, Rheumatoid arthritis"
+788,89,Female,Positive,Positive,38.80,"Alzheimer's disease, Hypertension, Stroke"
+634,55,Male,Negative,Negative,39.00,"Anaemia, Cerebral infarction, Chronic bronchitis"
+1493,25,Male,Negative,Negative,37.50,"Anaemia, Fatty liver"
+755,49,Female,Negative,Negative,36.50,"Anaemia, Thyroid nodule"
+1436,26,Male,Negative,Negative,36.80,ANCA-associated vasculitis
+4,73,Male,Positive,Positive,38.50,Aorta calcification
+1445,79,Male,Negative,Negative,39.00,Aortic dissection
+273,35,Female,Positive,Positive,36.50,Aortic valve replacement
+261,63,Female,Positive,Positive,38.90,"Arrhythmia, Hashimoto thyroiditis"
+59,52,Male,Positive,N/A,38.80,Asthma
+107,27,Male,Positive,Positive,39.00,Asthma
+717,54,Female,Negative,Negative,36.60,Asthma
+343,90,Male,Negative,N/A,37.90,"Asthma, Coronary disease, Hypertension"
+6,61,Female,Positive,Positive,37.60,"Asthma, Hypertension, Diabetes"
+1172,68,Female,Positive,Positive,36.60,"Asthma, Hypertension, Diabetes"
+532,64,Female,Positive,Positive,38.00,"Asthma, Hypothyroidism"
+1265,83,Male,Positive,Positive,38.00,Atrial fibrillation
+1289,66,Male,Positive,Positive,36.60,Atrial fibrillation
+692,49,Female,Negative,Negative,36.50,Atrophic gastritis
+698,65,Female,Negative,Negative,36.60,"Atrophic gastritis, Gastroesophageal reflux, Gallstone"
+779,72,Male,Positive,Positive,37.80,"Basic lung disease, Stroke, Hypertension, Diabetes"
+1495,57,Male,Negative,Negative,39.50,"Bipulmonary bronchitis, Emphysema, Hypertension, Diabetes, Chronic renal insufficiency"
+930,55,Male,Negative,Positive,38.30,"Brain stem hemorrhage, Brain stem hematoma removal"
+392,59,Female,Positive,Positive,37.60,Breast cancer surgery
+441,71,Male,Positive,Positive,38.00,"Bronchial asthma, Chronic bronchitis"
+727,69,Male,Negative,Negative,37.10,Bronchiectasia
+1439,20,Male,Negative,Negative,37.50,Bronchiectasia
+734,60,Female,Negative,Negative,36.60,"Bronchiectasia, Hyperlipidemia"
+1411,72,Male,Negative,Negative,38.00,"Bronchiectasia, Hypertension"
+1498,55,Male,Negative,Negative,36.90,"Bronchiectasia, Pulmonary heart disease, After radiotherapy and chemotherapy for rectal adenocarcinoma"
+820,64,Female,Positive,Positive,36.70,Bronchiectasis
+257,65,Male,Positive,Positive,39.00,Bronchitis
+1213,43,Male,Positive,Positive,36.30,Bronchitis
+1506,54,Male,Negative,Negative,37.00,"Bronchitis, Emphysema"
+1441,52,Male,Negative,Negative,37.50,"Bronchitis, Erosive atrophic gastritis"
+938,80,Male,Negative,Positive,36.50,Cerebral infarction
+1175,86,Female,Positive,Positive,36.60,Cerebral infarction
+921,56,Male,Negative,Positive,37.40,"Cerebral infarction, Cerebral hemorrhage, Hypertension, Diabetes"
+874,89,Male,Positive,Positive,36.50,"Cerebral infarction, Chronic bronchitis, Hypertension, Hypertension heart disease, Diabetes"
+1476,84,Male,Negative,Negative,36.50,"Cerebral infarction, Chronic obstructive pulmonary disease, Hypertensio, Chronic heart failure"
+1446,82,Male,Negative,Negative,37.20,"Cerebral infarction, Chronic renal insufficiency, Hypertension, Hyperlipidemia"
+915,92,Female,Negative,Positive,36.10,"Cerebral infarction, Coronary atherosclerotic heart disease, Angina pectoris, Atrial fibrillation, Renal artery stenosis, Chronic renal failure, Hyperlipidemia, Fatty liver"
+607,81,Female,Negative,Positive,38.00,"Cerebral infarction, Coronary disease, Hypertension"
+349,71,Male,Positive,N/A,37.30,"Cerebral infarction, Diabetes, Hypertension, Arrhythmia"
+947,85,Male,Negative,Positive,36.40,"Cerebral infarction, Hypertension, Alzheimer's disease, Parkinson's syndrome, Acute coronary syndrome, Chronic bronchitis, Emphysema, Lung infection, Hypoalbuminemia, Abnormal liver function, Small cell hypochromic anemia, Leukopenia, Pressure ulcers"
+1114,93,Male,Negative,Positive,36.50,"Cerebral infarction, Hypertension, Diabetes, Chronic urinary tract infection, Coronary atherosclerotic heart disease"
+908,84,Male,Negative,N/A,36.70,"Cerebral infarction, Mixed aphasia, Organic mental disorder, Hypertension, Diabetes, Thyroid nodules, Chronic bronchitis, Emphysema, Pleural effusion"
+141,92,Male,Negative,Positive,39.50,"Cerebral infarction, Senile dementia"
+587,55,Male,Positive,Positive,38.50,"Cerebral infarction, Uremia"
+374,36,Female,Positive,N/A,38.20,Cervical conization
+1117,88,Male,Negative,Positive,37.70,"Cervical spondylosis, Diabetes, Postoperative gastric cancer, Left femoral head replacement, Inguinal hernia, Left rib fracture, Arrhythmia, Fatty liver, Intrahepatic bile duct stones"
+596,66,Male,Negative,Positive,38.80,Chemotherapy after radical operation of colon cancer
+612,12,Female,Negative,Positive,39.00,"Chemotherapy for malignant tumor, Acute lymphoblastic leukemia"
+45,26,Male,Positive,Positive,36.00,Chemotherapy for primary mediastinal large B-cell lymphoma
+40,55,Female,Positive,Positive,38.60,Chemotherapy for right breast lump
+1421,21,Female,Negative,Negative,36.70,"Chemotherapy of malignant tumor, Acute lymphoblastic leukemia"
+10,53,Female,Positive,Positive,36.20,Cholecystectomy
+172,69,Female,Negative,N/A,39.00,Cholecystectomy
+1347,71,Male,Positive,Positive,38.00,Cholecystectomy
+138,53,Female,Positive,Positive,36.60,Chronic bronchitis
+382,55,Male,Positive,N/A,37.80,Chronic bronchitis
+762,64,Female,Negative,Negative,36.70,"Chronic bronchitis, Coronary disease, Diabetes"
+409,61,Male,Positive,N/A,38.00,"Chronic bronchitis, Emphysema"
+942,90,Male,Negative,Positive,36.10,"Chronic bronchitis, Emphysema, Benign prostatic hyperplasia"
+115,67,Male,Negative,Positive,36.60,"Chronic bronchitis, Hypertension, Coronary disease"
+553,67,Male,Negative,Negative,36.60,"Chronic bronchitis, Obsolete tuberculosis, Percutaneous coronary intervention, Hypertension"
+85,62,Female,Positive,Positive,36.70,Chronic gastritis
+1333,63,Female,Positive,Positive,38.00,Chronic gastritis
+739,57,Male,Negative,Negative,36.50,"Chronic gastritis, Diabetes"
+838,69,Female,Positive,Positive,39.00,"Chronic gastritis, Malnutrition, Respiratory infections"
+1467,64,Male,Negative,Negative,36.60,"Chronic hepatitis B, Chronic bronchitis, Emphysema, Hypertension, Diabetes, Multiple lacunar cerebral infarction"
+870,48,Male,Positive,Positive,39.00,"Chronic hepatitis B, Cirrhosis of liver"
+608,58,Male,Negative,N/A,37.30,"Chronic hepatitis B, Cirrhosis, Hepatic insufficiency, Hypertension"
+539,67,Male,Negative,Negative,37.90,"Chronic lymphocytic leukemia, Cholecystitis, Erosive gastritis, Duodenal bulbar ulcer, Chronic hepatitis B, Cirrhosis of liver"
+1280,68,Male,Positive,Positive,36.60,"Chronic lymphocytic leukemia, Prostate tumor, Diabetes"
+1246,72,Male,Positive,Positive,39.40,"Chronic obstructive emphysema, Coronary atherosclerotic heart disease"
+276,66,Male,Positive,Positive,37.80,Chronic obstructive pulmonary disease
+1181,69,Male,Positive,Positive,39.00,Chronic obstructive pulmonary disease
+1358,64,Male,Positive,Positive,36.40,"Chronic obstructive pulmonary disease, Bronchial asthma, After radical resection of lung cancer"
+454,82,Male,Positive,N/A,39.00,"Chronic obstructive pulmonary disease, Diabetes, Hypertension"
+1505,70,Male,Negative,Negative,36.60,"Chronic obstructive pulmonary disease, Hepatitis B"
+736,61,Male,Negative,Negative,36.60,"Chronic obstructive pulmonary disease, Hypertension"
+927,82,Male,Negative,Positive,39.00,"Chronic obstructive pulmonary disease, Hypertension, Coronary atherosclerotic heart disease, Dementia, Diabetes, Subdural hemorrhage"
+1472,70,Male,Negative,Negative,38.60,"Chronic obstructive pulmonary disease, Renal insufficiency, Hyperuricemia, Gout"
+35,35,Female,Positive,Positive,38.00,"Chronic pharyngitis, Atherosclerosis"
+797,53,Male,Positive,N/A,37.50,"Chronic prostatitis, Chronic bronchitis, Chronic pharyngitis, Chronic superficial gastritis"
+1464,75,Female,Negative,Negative,37.50,Chronic renal failure
+1515,53,Female,Negative,Negative,38.00,"Chronic renal failure, ANCA-associated glomerulonephritis, Hypoparathyroidism, Hypertension, Erosive gastritis"
+1488,18,Male,Negative,Negative,36.60,"Chronic renal failure, Hypertension"
+1489,60,Female,Negative,Negative,37.10,"Chronic renal failure, Hypertension, Pulmonary edema"
+270,81,Female,Positive,N/A,36.40,Chronic renal insufficiency
+406,55,Male,Positive,Positive,38.00,Chronic renal insufficiency
+645,60,Male,Negative,Negative,36.00,"Chronic renal insufficiency, Hypertension, Diabetes, Renal cyst"
+676,61,Male,Negative,N/A,38.90,"Chronic renal insufficiency, Uremia, Polycystic kidney, Hypertension, Atherosclerosis"
+1450,51,Female,Negative,Negative,36.10,Cirrhosis
+591,82,Male,Negative,Positive,39.00,Cirrhosis of liver
+1504,65,Male,Negative,Negative,37.50,"Cirrhosis, Cholecystitis, Hypertension"
+516,93,Female,Positive,Positive,38.50,Consciousness disorder
+320,69,Male,Negative,N/A,39.60,"Copd, Chronic bronchitis"
+488,76,Male,Positive,Positive,37.80,Coronary atherosclerotic heart disease
+1209,63,Female,Positive,Positive,37.80,Coronary atherosclerotic heart disease
+1306,86,Female,Positive,N/A,38.80,Coronary atherosclerotic heart disease
+1332,56,Male,Positive,Positive,39.00,Coronary atherosclerotic heart disease
+1350,68,Male,Positive,Positive,38.50,Coronary atherosclerotic heart disease
+1392,83,Female,Positive,N/A,36.50,Coronary atherosclerotic heart disease
+1402,84,Male,Positive,Positive,37.20,Coronary atherosclerotic heart disease
+1143,87,Female,Negative,Positive,36.10,"Coronary atherosclerotic heart disease, Angina pectoris, Hypertension, Hypertension heart disease, Hyperlipidemia, Chronic obstructive pulmonary disease, Cerebral infarction, Atrial fibrillation"
+1149,81,Male,Negative,Positive,36.80,"Coronary atherosclerotic heart disease, Angina pectoris, Percutaneous coronary intervention, Diabetes, Intestinal obstruction, Cerebral infarction, Cervical spondylosis, Chronic erosive gastritis, Gastrointestinal bleeding, Arrhythmia"
+783,92,Male,Positive,Positive,38.20,"Coronary atherosclerotic heart disease, Basic lung disease, Diabetes"
+1379,64,Male,Positive,Positive,38.30,"Coronary atherosclerotic heart disease, Diabetes, Chronic obstructive pulmonary disease"
+688,57,Female,Negative,N/A,36.60,"Coronary atherosclerotic heart disease, Diabetes, Hypertension"
+1127,88,Male,Negative,Positive,36.20,"Coronary atherosclerotic heart disease, Diabetes, Inguinal hernia repair, Gastric cancer, Major gastrectomy, Hypertension, Premature ventricular contraction, Gallbladder stones"
+787,84,Male,Positive,N/A,38.70,"Coronary atherosclerotic heart disease, Hypertension"
+826,52,Male,Positive,Positive,38.00,"Coronary atherosclerotic heart disease, Hypertension"
+965,61,Female,Negative,Positive,36.80,"Coronary atherosclerotic heart disease, Hypertension"
+866,60,Male,Positive,Positive,39.50,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+944,73,Female,Negative,Positive,36.20,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+1173,81,Female,Positive,Positive,40.00,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+1278,69,Male,Positive,Positive,39.00,"Coronary atherosclerotic heart disease, Hypertension, Diabetes"
+1507,62,Male,Negative,Negative,36.60,"Coronary atherosclerotic heart disease, Hypertension, Diabetes, Chronic renal insufficiency"
+822,65,Male,Positive,Positive,38.30,"Coronary atherosclerotic heart disease, Hypertension, Diabetes, Stroke"
+753,86,Male,Negative,Negative,36.60,"Coronary atherosclerotic heart disease, Hypertension, Senile degenerative valvular heart disease, Lacunar infarction, Cerebral atherosclerosis, Diabetes"
+818,51,Male,Positive,Positive,36.60,"Coronary atherosclerotic heart disease, Myocardial infarction, Diabetes"
+955,48,Male,Negative,Positive,38.00,"Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+1098,77,Female,Negative,Positive,37.30,"Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+929,91,Female,Negative,Positive,38.40,"Coronary atherosclerotic heart disease, Stroke, Malignant tumor, Basic lung disease"
+966,45,Male,Negative,Positive,36.50,"Coronary atherosclerotic heart disease, Uremia, Hypertension"
+267,79,Female,Positive,Positive,38.00,Coronary disease
+321,71,Male,Positive,N/A,37.00,Coronary disease
+365,63,Female,Positive,N/A,39.40,Coronary disease
+635,73,Male,Negative,Positive,36.20,Coronary disease
+694,66,Male,Negative,Negative,36.50,Coronary disease
+733,65,Female,Negative,Negative,36.50,Coronary disease
+683,58,Male,Negative,N/A,36.80,"Coronary disease, Acute myocardial infarction, Dilated cardiomyopathy, Aortic valve stenosis, Mitral valve insufficiency, Tricuspidincompetence, Sscending aortic valve widening, Pulmonary artery widening with severe pulmonary hypertension, Hypertension, Chronic gastritis, Duodenal bulbar ulcer , Chronic hepatitis B"
+555,69,Male,Negative,Negative,36.30,"Coronary disease, Coronary stent implantation"
+534,69,Female,Negative,Negative,36.60,"Coronary disease, Diabetes"
+674,65,Female,Negative,Positive,36.10,"Coronary disease, Diabetes"
+434,78,Male,Positive,N/A,38.90,"Coronary disease, Diabetes, Hypertension"
+702,60,Female,Negative,Negative,36.60,"Coronary disease, Gastritis"
+407,58,Male,Positive,Positive,38.20,"Coronary disease, Hyperlipidemia, Diabetes, Hyperuricemia"
+307,72,Female,Positive,Positive,38.80,"Coronary disease, Hypertension"
+417,67,Male,Positive,Positive,37.80,"Coronary disease, Hypertension"
+552,65,Male,Negative,Negative,36.30,"Coronary disease, Hypertension, Diabetes"
+362,63,Male,Positive,N/A,39.00,"Coronary disease, Hypothyroidism"
+524,72,Male,Positive,Positive,38.70,"Coronary disease, Percutaneous coronary intervention, Renal insufficiency, Hypertension, Gout, Intracranial aneurysm, Old cerebral infarction"
+548,55,Female,Negative,Negative,36.50,Cured tuberculosis
+326,28,Female,Positive,Negative,38.80,Depression
+19,65,Female,Positive,N/A,37.50,Diabetes
+22,67,Female,Positive,Positive,38.50,Diabetes
+78,35,Female,Positive,Positive,38.70,Diabetes
+87,70,Female,Positive,Positive,38.10,Diabetes
+106,60,Male,Positive,Positive,38.00,Diabetes
+110,65,Female,Positive,Positive,36.80,Diabetes
+142,64,Male,Negative,Positive,38.00,Diabetes
+216,39,Male,Positive,Positive,39.70,Diabetes
+251,41,Male,Positive,Positive,39.00,Diabetes
+292,72,Female,Positive,N/A,40.00,Diabetes
+508,65,Female,Positive,Positive,38.80,Diabetes
+514,66,Male,Positive,N/A,39.00,Diabetes
+535,67,Male,Negative,Negative,36.60,Diabetes
+557,57,Male,Negative,Negative,36.60,Diabetes
+577,64,Male,Positive,Positive,37.50,Diabetes
+597,66,Male,Negative,Positive,39.00,Diabetes
+852,37,Female,Positive,N/A,40.00,Diabetes
+883,65,Female,Positive,Positive,37.70,Diabetes
+902,49,Male,Negative,Positive,37.60,Diabetes
+1043,67,Female,Positive,Positive,37.10,Diabetes
+1120,25,Male,Negative,Negative,36.50,Diabetes
+1125,52,Female,Negative,Positive,39.00,Diabetes
+1128,46,Female,Negative,Positive,38.80,Diabetes
+1169,57,Female,Negative,Positive,38.00,Diabetes
+1179,67,Female,Positive,Positive,38.00,Diabetes
+1191,65,Female,Positive,Positive,38.00,Diabetes
+1193,69,Female,Positive,Positive,38.00,Diabetes
+1239,70,Male,Positive,Positive,36.60,Diabetes
+1245,66,Female,Positive,Positive,38.70,Diabetes
+1253,57,Female,Positive,Positive,37.50,Diabetes
+1260,69,Female,Positive,Positive,38.50,Diabetes
+1262,71,Male,Positive,Positive,38.00,Diabetes
+1269,60,Male,Positive,Positive,36.60,Diabetes
+1273,59,Female,Positive,Positive,37.50,Diabetes
+1277,68,Female,Positive,Positive,37.70,Diabetes
+1290,68,Female,Positive,Positive,37.30,Diabetes
+1301,65,Female,Positive,Positive,36.60,Diabetes
+1309,73,Male,Positive,Positive,38.00,Diabetes
+1316,66,Female,Positive,Positive,38.50,Diabetes
+1320,53,Female,Positive,Positive,37.50,Diabetes
+1322,70,Female,Positive,Positive,39.00,Diabetes
+1324,71,Female,Positive,Positive,36.80,Diabetes
+1336,66,Male,Positive,Positive,39.00,Diabetes
+1363,56,Male,Positive,Positive,37.80,Diabetes
+1373,54,Female,Positive,Positive,38.20,Diabetes
+1375,67,Female,Positive,Positive,36.50,Diabetes
+1462,46,Male,Negative,Negative,36.50,Diabetes
+1123,65,Female,Negative,Positive,39.60,"Diabetes, Coronary atherosclerotic heart disease"
+1274,57,Male,Positive,Positive,36.30,"Diabetes, Coronary atherosclerotic heart disease"
+1368,70,Male,Positive,Positive,36.00,"Diabetes, Coronary atherosclerotic heart disease"
+531,59,Female,Positive,Positive,38.50,"Diabetes, Coronary disease"
+58,86,Male,Positive,Positive,38.50,"Diabetes, Coronary disease, Myocardial infarction, Prostatectomy"
+66,71,Female,Positive,N/A,38.50,"Diabetes, Coronary disease, Thyroid nodule"
+309,33,Male,Negative,N/A,36.60,"Diabetes, Diabetes"
+1513,60,Male,Negative,Negative,36.60,"Diabetes, Diabetic nephropathy, Post-cerebral infarction"
+1360,72,Female,Positive,N/A,36.70,"Diabetes, Fatty liver, hepatic cyst"
+1416,72,Male,Negative,Negative,38.30,"Diabetes, Heart disease"
+1187,67,Male,Positive,Positive,36.50,"Diabetes, Hyperlipidemia"
+357,80,Female,Positive,Positive,38.00,"Diabetes, Hypertension"
+470,69,Male,Positive,Positive,39.00,"Diabetes, Hypertension"
+484,63,Female,Positive,Positive,38.00,"Diabetes, Hypertension"
+582,67,Female,Positive,Positive,37.00,"Diabetes, Hypertension"
+651,74,Female,Negative,Positive,36.00,"Diabetes, Hypertension"
+1399,61,Male,Positive,Positive,37.50,"Diabetes, Hypertension, Chronic renal insufficiency"
+1492,83,Female,Negative,Negative,37.80,"Diabetes, Hypertension, Coronary atherosclerotic heart disease"
+167,70,Male,Negative,Positive,38.70,"Diabetes, Hypertension, Heart disease"
+1330,55,Male,Positive,Positive,39.00,"Diabetes, Hypertension, Heart disease"
+368,78,Female,Positive,Positive,37.40,"Diabetes, Hypertension, Hepatitis B, Thyroidectomy, Hyponatremia"
+31,69,Female,Positive,N/A,38.00,"Diabetes, Hypertension, Hypothyroidism, Cholecystectomy"
+876,71,Female,Positive,Positive,36.50,"Diabetes, Lung metastases, Lung infections, Fungal pneumonia, Organic mental disorders, Hypokalemia, Thrombocytopenia, Leukopenia"
+964,50,Male,Negative,Negative,38.00,"Diabetes, Renal failure, Hypertension, Coronary atherosclerotic heart disease"
+162,30,Male,Negative,Positive,38.80,"Diabetes, Rhinitis"
+387,57,Male,Positive,Positive,37.00,"Dilated cardiomyopathy, Severe heart failure, Diabetes, Chronic obstructive pulmonary disease"
+245,52,Female,Positive,Positive,38.30,Duodenal ulcer
+356,71,Female,Positive,Positive,38.80,Erosive gastritis
+1365,71,Female,Positive,Positive,36.60,Erosive gastritis
+1412,66,Male,Negative,Negative,36.50,"Erosive gastritis, Chronic bronchitis of both lungs"
+678,73,Male,Negative,N/A,36.40,"Erosive gastritis, Diabetes, Hypertension"
+241,30,Female,Positive,N/A,39.50,Fatty liver
+1517,45,Female,Positive,Positive,38.90,"Fatty liver, Hepatitis B"
+440,54,Male,Positive,Positive,38.30,"Fatty liver, Hyperlipoidemia, Renal calculi"
+340,40,Male,Positive,N/A,38.40,"Fatty liver, Renal calculi"
+480,57,Male,Positive,Positive,38.50,Gallstone
+44,78,Male,Positive,Positive,36.60,"Gangrenous cholecystitis, Liver abscess"
+396,39,Male,Positive,Positive,38.70,Gastrectomy
+465,61,Male,Positive,Positive,38.50,"Gastric cancer surgery, Hypertension"
+287,51,Male,Positive,N/A,38.70,"Gastric ulcer, Surgery after pancreatic cancer with metastasis of lung and liver"
+469,52,Female,Positive,Positive,39.40,Gastritis
+57,51,Male,Positive,Positive,38.60,Gout
+79,51,Male,Positive,Positive,38.50,Gout
+1207,68,Female,Positive,Positive,36.60,Gout
+661,82,Male,Negative,Positive,36.60,"Gout, Gastrectomy"
+123,65,Male,Negative,N/A,39.00,"Gout, Hypertension, Renal failure"
+103,23,Female,Positive,Positive,36.90,Gynecologic tumor
+474,78,Female,Positive,Positive,37.40,Heart disease
+630,44,Male,Negative,N/A,36.60,Heart disease
+1228,60,Male,Positive,Positive,36.60,Heart disease
+1473,57,Female,Negative,Negative,37.60,Heart disease
+1478,63,Male,Negative,Negative,36.20,Heart disease
+224,93,Male,Positive,N/A,37.00,"Heart disease, Hypertension"
+1435,81,Male,Negative,Negative,37.50,"Heart disease, Hypertension, Chronic bronchitis"
+285,61,Female,Positive,Positive,36.50,"Heart disease, Hypertension, Lacunar infarction"
+593,69,Female,Negative,Positive,38.00,"Heart disease, Parkinsonism"
+1494,45,Male,Negative,Negative,37.50,"Heart failure, Coronary atherosclerotic heart disease, Diabetes"
+296,17,Female,Positive,Positive,38.60,"Hematopoietic stem cell transplantation, Acute myeloid leukemia, Severe immunodeficiency, Obstructive jaundice"
+133,32,Male,Positive,Positive,38.40,Hepatic hemangioma
+1459,62,Male,Negative,Negative,36.60,"Hepatic hemangioma, Hepatic cyst"
+23,61,Female,Positive,Positive,38.90,"Hepatic insufficiency, Hypopotassaemia"
+541,63,Male,Negative,Negative,36.60,Hepatitis B
+743,35,Female,Negative,Negative,36.60,Hepatitis B
+744,56,Male,Negative,Negative,36.80,Hepatitis B
+756,44,Male,Negative,Negative,36.80,Hepatitis B
+1264,67,Male,Positive,Positive,38.50,Hepatitis B
+1354,44,Female,Positive,Positive,38.00,Hepatitis B
+745,55,Male,Negative,Negative,36.60,"Hepatitis B, Pulmonary tuberculosis"
+1443,56,Female,Negative,Negative,36.50,Hepatitis BPulmonary embolism
+1485,70,Male,Negative,Negative,36.60,"Hepatitis C cirrhosis, Diabetes"
+114,36,Male,Positive,Positive,37.60,"Hyperlipemia, Gout"
+479,65,Female,Positive,Positive,38.40,"Hyperlipemia, Myocardial ischemia, Chronic bronchitis"
+506,76,Male,Positive,Positive,39.00,Hyperplasia of prostate
+1346,73,Male,Positive,Positive,38.50,Hyperplasia of prostate
+14,79,Female,Positive,N/A,38.50,Hypertension
+52,64,Female,Positive,Positive,38.30,Hypertension
+67,63,Female,Positive,Positive,36.80,Hypertension
+68,61,Male,Positive,Positive,38.50,Hypertension
+70,82,Female,Positive,Positive,38.00,Hypertension
+77,64,Female,Positive,Positive,38.30,Hypertension
+93,69,Male,Positive,Positive,37.20,Hypertension
+158,79,Female,Negative,Positive,37.60,Hypertension
+195,57,Female,Negative,N/A,38.80,Hypertension
+202,72,Male,Positive,N/A,38.00,Hypertension
+223,57,Female,Positive,Positive,38.50,Hypertension
+264,70,Male,Positive,N/A,39.50,Hypertension
+268,56,Male,Positive,Positive,38.70,Hypertension
+274,49,Female,Positive,Positive,36.30,Hypertension
+291,70,Female,Positive,Positive,37.50,Hypertension
+305,72,Male,Positive,N/A,37.50,Hypertension
+330,65,Female,Negative,N/A,36.80,Hypertension
+345,69,Female,Positive,Positive,36.00,Hypertension
+373,53,Female,Positive,Positive,37.80,Hypertension
+375,46,Female,Negative,Negative,36.70,Hypertension
+400,65,Male,Positive,Positive,38.00,Hypertension
+401,88,Female,Positive,N/A,38.50,Hypertension
+404,50,Male,Positive,N/A,39.00,Hypertension
+432,75,Female,Positive,Positive,36.50,Hypertension
+462,57,Male,Positive,N/A,39.50,Hypertension
+473,73,Male,Positive,Positive,36.20,Hypertension
+475,57,Female,Positive,Negative,38.60,Hypertension
+490,73,Female,Positive,Negative,36.60,Hypertension
+497,54,Male,Positive,Positive,37.20,Hypertension
+503,69,Male,Positive,Positive,37.80,Hypertension
+518,80,Female,Positive,Positive,38.00,Hypertension
+527,62,Female,Positive,Positive,38.70,Hypertension
+547,53,Male,Negative,Negative,39.20,Hypertension
+579,71,Female,Positive,Positive,37.40,Hypertension
+580,86,Female,Positive,Positive,38.00,Hypertension
+583,62,Female,Positive,Positive,36.50,Hypertension
+603,76,Female,Negative,Positive,36.60,Hypertension
+610,73,Male,Negative,Positive,38.40,Hypertension
+643,47,Male,Positive,Positive,39.20,Hypertension
+649,57,Male,Negative,Positive,36.10,Hypertension
+650,58,Female,Negative,Positive,38.00,Hypertension
+684,26,Male,Negative,N/A,36.60,Hypertension
+686,64,Male,Negative,N/A,36.60,Hypertension
+701,57,Male,Negative,Negative,36.60,Hypertension
+719,53,Male,Negative,Negative,36.80,Hypertension
+725,50,Male,Negative,Negative,36.80,Hypertension
+726,57,Male,Negative,Negative,36.20,Hypertension
+738,61,Female,Negative,Negative,37.50,Hypertension
+761,86,Male,Negative,Negative,36.60,Hypertension
+763,62,Female,Negative,Negative,36.80,Hypertension
+765,60,Male,Negative,Negative,37.80,Hypertension
+780,63,Male,Positive,Positive,38.50,Hypertension
+793,63,Female,Positive,Positive,38.80,Hypertension
+794,70,Male,Positive,Positive,38.50,Hypertension
+798,68,Male,Positive,N/A,39.00,Hypertension
+800,38,Male,Positive,Positive,38.20,Hypertension
+801,56,Male,Positive,Positive,39.00,Hypertension
+804,58,Female,Positive,Positive,39.60,Hypertension
+806,62,Female,Positive,Positive,38.40,Hypertension
+807,72,Female,Positive,N/A,38.10,Hypertension
+811,39,Male,Positive,Positive,37.10,Hypertension
+817,59,Male,Positive,Positive,37.40,Hypertension
+821,84,Female,Positive,N/A,38.00,Hypertension
+840,59,Male,Positive,Positive,36.50,Hypertension
+861,85,Female,Positive,N/A,38.30,Hypertension
+875,71,Female,Positive,N/A,39.60,Hypertension
+920,61,Female,Negative,Positive,36.50,Hypertension
+935,74,Female,Negative,Positive,38.50,Hypertension
+941,66,Female,Negative,Positive,37.20,Hypertension
+945,69,Male,Negative,Positive,36.50,Hypertension
+950,55,Female,Negative,Positive,36.50,Hypertension
+975,60,Male,Negative,Positive,36.80,Hypertension
+1023,64,Female,Positive,Positive,36.50,Hypertension
+1096,57,Female,Negative,Positive,38.00,Hypertension
+1097,60,Male,Negative,Positive,39.00,Hypertension
+1109,43,Male,Negative,Positive,38.50,Hypertension
+1112,48,Female,Negative,Positive,38.50,Hypertension
+1126,82,Female,Negative,Positive,38.00,Hypertension
+1133,56,Male,Negative,Positive,36.50,Hypertension
+1136,67,Female,Negative,Positive,36.50,Hypertension
+1170,66,Female,Negative,Positive,38.50,Hypertension
+1177,72,Female,Positive,Positive,38.00,Hypertension
+1185,73,Male,Positive,Positive,38.10,Hypertension
+1192,68,Female,Positive,Positive,36.60,Hypertension
+1197,62,Female,Positive,Positive,39.00,Hypertension
+1198,43,Female,Positive,Positive,36.60,Hypertension
+1203,91,Male,Positive,Positive,37.60,Hypertension
+1205,67,Female,Positive,Positive,36.60,Hypertension
+1206,67,Female,Positive,Positive,37.50,Hypertension
+1210,55,Male,Positive,Positive,38.00,Hypertension
+1212,65,Female,Positive,Positive,38.90,Hypertension
+1217,91,Female,Positive,Positive,38.00,Hypertension
+1221,73,Female,Positive,Positive,36.20,Hypertension
+1223,56,Female,Positive,Positive,38.00,Hypertension
+1224,56,Female,Positive,Positive,38.50,Hypertension
+1225,73,Male,Positive,Positive,38.20,Hypertension
+1229,65,Male,Positive,Positive,36.60,Hypertension
+1230,67,Male,Positive,Positive,36.20,Hypertension
+1237,62,Female,Positive,Positive,38.50,Hypertension
+1244,67,Female,Positive,Positive,36.50,Hypertension
+1254,61,Male,Positive,Positive,37.80,Hypertension
+1256,52,Female,Positive,Positive,39.20,Hypertension
+1275,78,Female,Positive,Positive,38.00,Hypertension
+1279,70,Male,Positive,Positive,36.60,Hypertension
+1284,72,Female,Positive,Positive,37.50,Hypertension
+1292,78,Female,Positive,Positive,36.40,Hypertension
+1297,67,Female,Positive,Positive,37.00,Hypertension
+1308,72,Male,Positive,Positive,38.80,Hypertension
+1312,66,Female,Positive,Positive,37.50,Hypertension
+1343,57,Female,Positive,Positive,38.00,Hypertension
+1348,56,Male,Positive,Positive,39.00,Hypertension
+1349,67,Female,Positive,Positive,38.00,Hypertension
+1356,46,Female,Positive,Positive,37.00,Hypertension
+1364,64,Female,Positive,Positive,37.50,Hypertension
+1385,64,Female,Positive,Positive,40.00,Hypertension
+1405,64,Male,Positive,Positive,39.20,Hypertension
+1409,69,Male,Positive,Positive,37.50,Hypertension
+1417,71,Male,Negative,Negative,36.60,Hypertension
+1426,66,Female,Negative,Negative,36.90,Hypertension
+1433,39,Male,Negative,Negative,37.80,Hypertension
+1434,49,Female,Negative,Negative,36.50,Hypertension
+1437,68,Female,Negative,Negative,39.30,Hypertension
+1454,62,Female,Negative,Negative,36.80,Hypertension
+1501,58,Male,Negative,Negative,39.50,Hypertension
+1071,44,Male,Positive,Positive,36.50,"Hypertension, Arrhythmia"
+1100,72,Male,Negative,N/A,37.30,"Hypertension, Arrhythmia"
+620,80,Female,Negative,N/A,39.00,"Hypertension, Atherosclerosis, Fatty liver"
+1519,71,Female,Positive,Positive,36.60,"Hypertension, Atrial fibrillation"
+961,74,Male,Negative,N/A,37.80,"Hypertension, Atrial fibrillation, Interstitial pneumonia, Coronary atherosclerotic heart disease, Percutaneous coronary intervention"
+776,66,Female,Positive,Positive,40.70,"Hypertension, Basic lung disease"
+782,46,Male,Positive,Positive,39.00,"Hypertension, Basic lung disease"
+1104,89,Male,Negative,Positive,36.50,"Hypertension, Benign prostatic hyperplasia"
+919,86,Male,Negative,Positive,36.50,"Hypertension, Cerebral hemorrhage"
+970,93,Male,Negative,Positive,37.80,"Hypertension, Cerebral hemorrhage, Cerebral infarction, Gastric ulcer, Gastrointestinal bleeding, Senile degenerative heart valve disease, Chronic bronchitis, Emphysema, Pleural effusion, Gallbladder stones, Kidney stones, Thyroid nodules, Prostate hyperplasia"
+537,70,Male,Negative,Negative,36.20,"Hypertension, Cerebral infarction"
+909,73,Female,Negative,Positive,36.40,"Hypertension, Cerebral infarction"
+1304,89,Female,Positive,N/A,36.30,"Hypertension, Cerebral infarction"
+1487,86,Female,Negative,Negative,36.60,"Hypertension, Cerebral infarction"
+1503,60,Female,Negative,Negative,36.40,"Hypertension, Cerebral infarction"
+871,60,Male,Positive,Positive,36.50,"Hypertension, Cerebral infarction, Diabetes"
+959,70,Female,Negative,N/A,36.70,"Hypertension, Cerebral infarction, Fatty liver, Respiratory infections, Pleural effusion"
+1455,91,Female,Negative,Negative,36.50,"Hypertension, Cerebral infarction, Heart disease, Hyperthyroidism"
+936,76,Male,Negative,Positive,36.60,"Hypertension, Cerebral infarction, Lower limb atherosclerosis, Subdural effusion, Cardiac insufficiency, Pericardial effusion, Pleural effusion"
+907,87,Female,Negative,Positive,36.50,"Hypertension, Cerebral infarction, Osteoporosis, Chronic cholecystitis, Abnormal liver function, Agranulocytosis, Alzheimer's disease"
+279,49,Male,Positive,Positive,39.60,"Hypertension, Cholecystitis"
+280,82,Female,Positive,Positive,37.80,"Hypertension, Chronic pharyngitis"
+140,48,Male,Negative,Positive,38.80,"Hypertension, Chronic renal failure"
+693,63,Female,Negative,Negative,36.60,"Hypertension, Chronic stomach disease"
+722,63,Female,Negative,Negative,38.00,"Hypertension, Colon cancer surgery"
+1317,63,Male,Positive,Positive,38.00,"Hypertension, Coronary atherosclerotic heart disease"
+1499,65,Female,Negative,Negative,36.80,"Hypertension, Coronary atherosclerotic heart disease, Chronic renal failure, Diabetes"
+1521,64,Female,Positive,Positive,36.60,"Hypertension, Coronary atherosclerotic heart disease, Diabetes"
+952,93,Female,Negative,N/A,36.20,"Hypertension, Coronary atherosclerotic heart disease, Heart failure, Cerebral infarction, Hyperlipidemia, Chronic gastritis"
+1338,68,Male,Positive,Positive,36.50,"Hypertension, Coronary atherosclerotic heart disease, Hyperlipidemia"
+1152,87,Female,Negative,Positive,36.50,"Hypertension, Coronary atherosclerotic heart disease, Hyperlipidemia, Atrial fibrillation, Cerebral infarction"
+65,91,Male,Positive,Positive,38.30,"Hypertension, Coronary disease"
+391,71,Female,Positive,Positive,37.20,"Hypertension, Coronary disease"
+455,64,Female,Positive,N/A,38.20,"Hypertension, Coronary disease"
+696,55,Male,Negative,Negative,36.40,"Hypertension, Coronary disease, Gout, Adrenal adenoma, Diabetes"
+149,74,Male,Negative,N/A,36.30,"Hypertension, Diabetes"
+180,54,Female,Negative,Positive,36.60,"Hypertension, Diabetes"
+237,67,Male,Positive,N/A,39.00,"Hypertension, Diabetes"
+284,57,Male,Positive,N/A,38.50,"Hypertension, Diabetes"
+317,68,Female,Positive,N/A,38.50,"Hypertension, Diabetes"
+331,67,Male,Positive,N/A,37.00,"Hypertension, Diabetes"
+372,70,Male,Positive,N/A,39.10,"Hypertension, Diabetes"
+439,73,Male,Positive,Positive,39.40,"Hypertension, Diabetes"
+501,61,Male,Positive,Positive,36.60,"Hypertension, Diabetes"
+542,72,Female,Negative,Negative,36.60,"Hypertension, Diabetes"
+615,70,Female,Negative,Positive,37.80,"Hypertension, Diabetes"
+616,63,Male,Negative,Positive,37.50,"Hypertension, Diabetes"
+637,56,Female,Negative,Positive,38.50,"Hypertension, Diabetes"
+682,58,Male,Negative,N/A,36.50,"Hypertension, Diabetes"
+705,69,Male,Negative,Negative,36.50,"Hypertension, Diabetes"
+757,50,Male,Negative,Negative,36.40,"Hypertension, Diabetes"
+810,51,Male,Positive,Positive,38.60,"Hypertension, Diabetes"
+860,81,Female,Positive,Positive,38.40,"Hypertension, Diabetes"
+865,76,Female,Positive,Positive,37.50,"Hypertension, Diabetes"
+877,78,Female,Positive,Positive,39.00,"Hypertension, Diabetes"
+906,66,Male,Negative,Positive,36.40,"Hypertension, Diabetes"
+951,55,Male,Negative,Positive,36.50,"Hypertension, Diabetes"
+967,64,Male,Negative,Positive,38.30,"Hypertension, Diabetes"
+1111,54,Female,Negative,Positive,39.40,"Hypertension, Diabetes"
+1140,69,Male,Negative,Positive,38.50,"Hypertension, Diabetes"
+1184,71,Male,Positive,Positive,36.60,"Hypertension, Diabetes"
+1186,66,Male,Positive,Positive,36.60,"Hypertension, Diabetes"
+1199,61,Male,Positive,Positive,39.50,"Hypertension, Diabetes"
+1214,70,Male,Positive,Positive,38.70,"Hypertension, Diabetes"
+1241,74,Male,Positive,Positive,37.50,"Hypertension, Diabetes"
+1326,72,Female,Positive,Positive,38.00,"Hypertension, Diabetes"
+1359,46,Male,Positive,Positive,39.00,"Hypertension, Diabetes"
+1371,63,Female,Positive,Positive,37.80,"Hypertension, Diabetes"
+1442,54,Male,Negative,Negative,36.50,"Hypertension, Diabetes"
+1470,65,Male,Negative,Negative,36.50,"Hypertension, Diabetes"
+1477,59,Male,Negative,Negative,39.00,"Hypertension, Diabetes"
+839,77,Female,Positive,Positive,38.90,"Hypertension, Diabetes, Basic lung disease"
+1510,67,Female,Negative,Negative,37.00,"Hypertension, Diabetes, Chronic gastritis"
+846,76,Male,Positive,Positive,37.00,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+1295,73,Female,Positive,Positive,36.60,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+1491,71,Male,Negative,Negative,36.30,"Hypertension, Diabetes, Coronary atherosclerotic heart disease"
+214,69,Female,Positive,Positive,37.40,"Hypertension, Diabetes, Coronary disease"
+458,40,Female,Positive,Positive,39.50,"Hypertension, Diabetes, Coronary disease"
+33,80,Male,Positive,Positive,39.10,"Hypertension, Diabetes, Diabetes, Nephrosis"
+1204,69,Female,Positive,Positive,36.60,"Hypertension, Diabetes, Heartdisease"
+170,54,Female,Negative,Positive,39.00,"Hypertension, Diabetes, Hyperlipemia"
+468,69,Male,Positive,Positive,37.10,"Hypertension, Diabetes, Hyperlipemia, Renal calculus"
+1220,57,Male,Positive,Positive,37.40,"Hypertension, Diabetes, Hyperlipidemia"
+260,85,Male,Positive,Positive,38.90,"Hypertension, Diabetes, Hypertensionheart disease, Interstitial lung disease, Hyperplasia of prostate, Chronic renal insufficiency"
+1474,69,Female,Negative,Negative,36.60,"Hypertension, Diabetes, Hyperthyroidism"
+785,57,Male,Positive,Positive,38.80,"Hypertension, Diabetes, Malignant tumor"
+381,70,Female,Positive,N/A,38.60,"Hypertension, Diabetes, Postoperative breast cancer"
+1400,79,Male,Positive,N/A,37.50,"Hypertension, Diabetes, Renal insufficiency, Lacunar cerebral infarction"
+809,92,Male,Positive,Positive,38.80,"Hypertension, Diabetes, Stroke, Basic lung disease"
+937,76,Male,Negative,Positive,39.10,"Hypertension, Diabetes, Stroke, Basic lung disease"
+956,69,Male,Negative,Positive,37.50,"Hypertension, Diabetes, Uremia"
+188,67,Male,Negative,N/A,39.00,"Hypertension, Emphysema"
+1285,63,Male,Positive,Positive,39.00,"Hypertension, Gastrectomy"
+670,48,Male,Negative,Positive,38.80,"Hypertension, Gout"
+740,84,Male,Negative,Negative,36.50,"Hypertension, Gout"
+679,72,Male,Negative,N/A,36.30,"Hypertension, Gout, Hepatic cyst, Cholecystolithiasis, Renal cyst"
+625,59,Female,Negative,Positive,36.30,"Hypertension, Heart disease"
+1183,83,Female,Positive,N/A,39.00,"Hypertension, Heart disease"
+443,66,Male,Positive,Positive,38.30,"Hypertension, Heart disease, Diabetes"
+595,67,Male,Negative,Negative,36.20,"Hypertension, Hepatic cyst, Renal cyst, Renal calculus"
+29,64,Male,Positive,N/A,38.40,"Hypertension, Hepatitis B, Coronary disease"
+446,71,Male,Positive,Positive,39.70,"Hypertension, Hyperglycemia"
+677,27,Male,Negative,Positive,37.00,"Hypertension, Hyperkalemia, Anaemia"
+485,49,Male,Positive,Positive,37.80,"Hypertension, Hyperlipemia, Hyperuricemia"
+890,75,Female,Positive,Positive,36.80,"Hypertension, Hyperlipidemia"
+1129,70,Male,Negative,Positive,38.30,"Hypertension, Hyperlipidemia, Arrhythmia"
+939,87,Male,Negative,Positive,36.30,"Hypertension, Hyperlipidemia, Cerebral infarction, Diabetes, Chronic obstructive pulmonary disease, Benign prostatic hyperplasia, Atrial flutter, Hypothyroidism"
+977,56,Male,Negative,Positive,36.50,"Hypertension, Hyperlipidemia, Fatty liver, Cerebral infarction"
+393,79,Male,Positive,Positive,38.00,"Hypertension, Hyperplasia of prostate"
+466,65,Male,Positive,Positive,36.60,"Hypertension, Hyperplasia of prostate"
+1110,90,Female,Negative,Positive,38.50,"Hypertension, Hypertensive heart disease, Left femoral head necrosis, Right femoral neck fracture, Cerebral infarction"
+288,30,Male,Positive,Positive,39.00,"Hypertension, Hyperuricemia"
+704,60,Male,Negative,Negative,36.80,"Hypertension, Hypothyroidism, Hyperuricemia"
+1121,49,Female,Negative,Positive,38.40,"Hypertension, Kidney stones, Fatty liver, Hyperlipidemia"
+1216,77,Male,Positive,Positive,38.30,"Hypertension, Lacunar cerebral infarction"
+1337,68,Female,Positive,Positive,39.10,"Hypertension, Lacunar cerebral infarction"
+1161,80,Male,Negative,Positive,36.50,"Hypertension, Lung cancer"
+830,68,Male,Positive,Positive,39.30,"Hypertension, Malignant tumor"
+121,67,Male,Negative,Negative,36.60,"Hypertension, Myocardial infarction, Cholecystolithiasis surgery"
+319,77,Male,Positive,N/A,38.70,"Hypertension, Pacemaker implantation"
+606,62,Male,Negative,N/A,39.00,"Hypertension, Postoperative chemotherapy for rectal cancer"
+1366,64,Female,Positive,Positive,36.50,"Hypertension, Postoperative colon cancer"
+283,77,Female,Positive,N/A,37.40,"Hypertension, Postoperative gastric cancer"
+1406,61,Female,Positive,Positive,38.00,"Hypertension, Postoperative ovarian cancer"
+399,71,Female,Positive,Positive,38.00,"Hypertension, Renal failure"
+1479,37,Male,Negative,Negative,36.60,"Hypertension, Renal insufficiency"
+36,64,Female,Positive,Positive,36.60,"Hypertension, Resection of gastric stromal tumor"
+350,62,Female,Positive,Positive,39.00,"Hypertension, Sick sinus syndrome"
+889,85,Female,Positive,N/A,38.40,"Hypertension, Stroke"
+1300,57,Female,Positive,Positive,39.80,"Hypertension, Systemic lupus erythematosus"
+974,78,Female,Negative,Positive,37.30,"Hypertension, Thyroid nodules, Cerebral infarction, Hyperthyroidism, Lung infections"
+1,81,Male,Positive,Positive,36.60,"Hypertension, Thyroidectomy"
+178,66,Male,Positive,Positive,38.70,"Hypertension, Thyroidectomy"
+424,63,Male,Positive,Positive,39.20,"Hypertension, Uremia"
+1307,74,Female,Positive,Positive,38.50,Hypertension、Diabetes
+1424,57,Male,Negative,Negative,38.00,"Hypertension、Diabetes, Cerebral infarction"
+219,65,Male,Positive,N/A,38.80,Hypertensioncoronary disease
+49,48,Female,Positive,Positive,36.50,"Hypertensiondiabetes, Postoperative ovarian cancer"
+1422,52,Female,Negative,Negative,37.50,"Hyperthyroid heart disease, Hyperthyroidism"
+108,42,Female,Positive,Positive,38.50,Hyperthyroidism
+298,63,Female,Positive,Positive,39.00,Hyperthyroidism
+589,42,Female,Negative,Positive,38.00,Hyperthyroidism
+697,53,Male,Negative,Negative,36.60,Hyperthyroidism
+949,26,Male,Negative,Positive,38.70,"Hypertriglyceridemia, Hyperuricemia"
+1250,73,Male,Positive,Positive,38.00,Hyperuricemia
+152,47,Female,Positive,Positive,39.00,Hypothyroidism
+422,63,Male,Positive,N/A,39.00,Hypothyroidism
+646,30,Female,Negative,N/A,36.50,Hypothyroidism
+690,57,Female,Negative,Negative,36.60,Hypothyroidism
+21,72,Male,Positive,N/A,37.00,"Hypoxemia, Hyperplasia of prostate"
+721,66,Female,Negative,Negative,36.30,Hysterectomy
+13,67,Female,Positive,Positive,38.40,"Hysterectomy, Hypertension"
+1471,53,Female,Negative,Negative,39.60,Hysteria
+1480,52,Male,Negative,Negative,36.70,Idiopathic thrombocytopenic purpura
+1449,79,Male,Negative,Negative,36.20,"Infiltrative cardiomyopathy, Multiple myeloma, Chronic renal insufficiency, Hepatitis B cirrhosis"
+1420,55,Male,Negative,Negative,36.70,"Lacunar cerebral infarction, Renal cyst, Atherosclerosis of aorta"
+1282,79,Male,Positive,Positive,37.30,Left renal cyst
+660,72,Male,Negative,Positive,38.50,Lower left pneumonectomy
+246,64,Female,Positive,Positive,38.00,Lung cancer
+869,89,Male,Positive,Positive,37.50,"Lung cancer, Coronary atherosclerotic heart disease, Myocardial infarction, Apical ventricular aneurysm, Chronic renal insufficiency, Lower limb atherosclerosis, Hypertension, Autoimmune hemolytic anemia, Prostatic hyperplasia, Hyperuricemia, Double kidney stones, Gout"
+384,48,Female,Negative,Positive,36.60,Lung tumor
+836,78,Male,Positive,Positive,39.00,Malignant tumor
+668,82,Male,Negative,Positive,36.80,"Malignant tumor of gastric angle, Emphysema, Hepatic cyst, Cholecystolithiasis, Renal cyst, Hypertension, Postoperative thyroid nodule"
+894,88,Male,Positive,Positive,38.70,"Malignant tumor, Hypertension"
+342,29,Female,Positive,Positive,38.40,Mastectomy for fibroma
+489,49,Female,Positive,Negative,36.60,Mastectomy for fibroma
+100,53,Female,Positive,N/A,36.60,Multiple myeloma
+1431,50,Male,Negative,Negative,36.60,Multiple myeloma
+789,61,Female,Positive,Positive,39.50,Myasthenia gravis
+1267,37,Female,Positive,Positive,37.40,Myocardial bridge
+447,87,Male,Positive,Positive,36.60,"Myocardial infarction, Heart failure, Prostate cancer, Lacunar cerebral infarction, Parkinson disease"
+803,67,Male,Positive,Positive,40.00,Nephrotic syndrome
+2,50,Male,Positive,Positive,38.70,No underlying disease
+5,64,Female,Positive,Positive,38.00,No underlying disease
+7,23,Female,Positive,N/A,38.70,No underlying disease
+8,41,Female,Positive,Positive,36.50,No underlying disease
+9,25,Female,Positive,Positive,39.10,No underlying disease
+11,39,Male,Positive,Positive,38.00,No underlying disease
+12,32,Male,Positive,Positive,38.80,No underlying disease
+15,53,Male,Positive,Positive,38.00,No underlying disease
+20,31,Female,Positive,Positive,38.20,No underlying disease
+24,34,Male,Negative,Positive,38.60,No underlying disease
+25,14,Male,Positive,Positive,38.00,No underlying disease
+26,38,Female,Positive,Positive,39.00,No underlying disease
+27,53,Female,Positive,Positive,37.80,No underlying disease
+32,73,Female,Positive,Positive,36.60,No underlying disease
+34,29,Female,Positive,Positive,38.00,No underlying disease
+37,52,Male,Positive,Positive,39.00,No underlying disease
+38,62,Female,Positive,Positive,39.00,No underlying disease
+41,35,Female,Positive,Positive,39.00,No underlying disease
+43,56,Male,Positive,N/A,38.20,No underlying disease
+47,32,Male,Positive,Positive,39.00,No underlying disease
+48,57,Male,Positive,Positive,40.30,No underlying disease
+50,34,Male,Positive,Positive,36.60,No underlying disease
+51,37,Female,Positive,Positive,37.40,No underlying disease
+53,63,Male,Positive,Positive,36.90,No underlying disease
+54,59,Male,Positive,Positive,38.10,No underlying disease
+55,43,Female,Positive,Positive,38.20,No underlying disease
+56,36,Male,Positive,Positive,38.60,No underlying disease
+61,37,Male,Positive,Positive,38.60,No underlying disease
+62,34,Female,Positive,Positive,39.30,No underlying disease
+63,30,Female,Positive,Positive,39.40,No underlying disease
+64,36,Female,Negative,Positive,37.50,No underlying disease
+69,30,Female,Positive,Positive,38.60,No underlying disease
+72,56,Female,Positive,Positive,38.60,No underlying disease
+73,55,Male,Positive,Positive,38.50,No underlying disease
+74,33,Female,Positive,Positive,38.60,No underlying disease
+75,68,Female,Positive,Positive,38.00,No underlying disease
+76,81,Female,Positive,Positive,38.00,No underlying disease
+80,41,Female,Positive,Positive,38.30,No underlying disease
+81,68,Female,Positive,Positive,38.10,No underlying disease
+82,28,Female,Positive,N/A,38.50,No underlying disease
+83,35,Female,Positive,Positive,38.00,No underlying disease
+84,37,Male,Positive,N/A,40.20,No underlying disease
+86,40,Female,Positive,Positive,38.50,No underlying disease
+88,30,Female,Positive,Positive,39.00,No underlying disease
+90,51,Female,Positive,Positive,38.00,No underlying disease
+91,44,Male,Positive,Positive,38.70,No underlying disease
+92,47,Female,Positive,Positive,37.60,No underlying disease
+94,30,Female,Positive,Positive,37.80,No underlying disease
+95,64,Male,Positive,Positive,36.50,No underlying disease
+96,32,Male,Positive,Positive,38.50,No underlying disease
+97,46,Male,Positive,Positive,38.80,No underlying disease
+99,58,Male,Positive,N/A,37.70,No underlying disease
+102,27,Female,Positive,Positive,36.00,No underlying disease
+104,48,Male,Positive,Positive,38.00,No underlying disease
+105,30,Female,Positive,Positive,38.00,No underlying disease
+109,35,Female,Positive,Positive,36.60,No underlying disease
+111,44,Female,Positive,Positive,38.50,No underlying disease
+112,51,Male,Positive,Positive,38.00,No underlying disease
+113,29,Male,Positive,Negative,36.20,No underlying disease
+116,70,Male,Negative,Positive,39.00,No underlying disease
+117,24,Female,Negative,Positive,37.30,No underlying disease
+119,38,Male,Negative,Positive,38.10,No underlying disease
+120,36,Female,Positive,Positive,38.20,No underlying disease
+122,71,Female,Positive,Positive,36.80,No underlying disease
+124,28,Female,Negative,Positive,36.80,No underlying disease
+125,63,Female,Negative,N/A,39.00,No underlying disease
+126,50,Male,Negative,Positive,39.00,No underlying disease
+127,70,Male,Negative,Positive,37.50,No underlying disease
+128,71,Male,Positive,Positive,38.50,No underlying disease
+129,40,Male,Negative,Positive,39.00,No underlying disease
+130,64,Male,Negative,Positive,39.00,No underlying disease
+131,37,Male,Negative,Positive,39.00,No underlying disease
+132,55,Male,Negative,Positive,38.50,No underlying disease
+134,71,Female,Positive,Positive,38.50,No underlying disease
+135,35,Female,Negative,N/A,36.80,No underlying disease
+136,28,Male,Positive,Positive,37.50,No underlying disease
+137,67,Male,Negative,Positive,37.50,No underlying disease
+139,55,Female,Negative,Positive,38.30,No underlying disease
+143,31,Female,Positive,Positive,36.60,No underlying disease
+144,33,Female,Negative,Negative,39.00,No underlying disease
+145,38,Female,Negative,Negative,37.50,No underlying disease
+147,56,Male,Negative,Positive,37.80,No underlying disease
+148,24,Male,Negative,Negative,38.30,No underlying disease
+150,40,Female,Negative,Positive,36.40,No underlying disease
+151,50,Male,Negative,Positive,36.10,No underlying disease
+153,65,Female,Negative,Positive,37.80,No underlying disease
+154,35,Female,Negative,Positive,38.60,No underlying disease
+155,62,Female,Negative,Positive,39.00,No underlying disease
+156,32,Female,Positive,Positive,36.60,No underlying disease
+157,49,Female,Negative,Positive,38.00,No underlying disease
+159,36,Female,Negative,Positive,39.20,No underlying disease
+160,36,Female,Positive,Positive,36.60,No underlying disease
+161,32,Female,Positive,Positive,38.90,No underlying disease
+163,35,Female,Negative,Positive,37.50,No underlying disease
+164,42,Male,Negative,Positive,38.50,No underlying disease
+165,62,Male,Negative,Positive,38.50,No underlying disease
+166,57,Female,Negative,Positive,39.50,No underlying disease
+168,44,Male,Negative,Negative,36.70,No underlying disease
+169,38,Female,Negative,Positive,38.00,No underlying disease
+171,63,Female,Negative,Positive,36.60,No underlying disease
+173,35,Male,Negative,Positive,38.00,No underlying disease
+174,29,Male,Positive,Positive,38.90,No underlying disease
+175,48,Female,Negative,Positive,36.60,No underlying disease
+176,58,Female,Negative,Positive,37.50,No underlying disease
+177,38,Male,Positive,Positive,37.80,No underlying disease
+179,47,Female,Negative,Positive,37.80,No underlying disease
+181,35,Female,Negative,N/A,37.50,No underlying disease
+182,49,Male,Negative,N/A,37.80,No underlying disease
+183,50,Male,Negative,N/A,38.50,No underlying disease
+184,61,Male,Negative,Positive,36.30,No underlying disease
+185,52,Female,Positive,Positive,36.00,No underlying disease
+186,6,Male,Negative,Positive,39.00,No underlying disease
+187,37,Female,Negative,Positive,38.70,No underlying disease
+189,33,Male,Positive,Positive,36.60,No underlying disease
+190,70,Male,Negative,Positive,38.50,No underlying disease
+191,30,Female,Negative,Positive,38.50,No underlying disease
+193,1,Male,Negative,N/A,38.60,No underlying disease
+194,29,Male,Positive,N/A,39.00,No underlying disease
+196,35,Female,Positive,N/A,37.70,No underlying disease
+197,46,Male,Positive,Positive,39.00,No underlying disease
+198,65,Female,Positive,Positive,38.90,No underlying disease
+199,33,Female,Positive,N/A,38.00,No underlying disease
+200,53,Female,Positive,Positive,38.00,No underlying disease
+203,44,Female,Positive,Positive,38.00,No underlying disease
+204,56,Female,Positive,Positive,38.00,No underlying disease
+205,63,Female,Positive,Positive,36.50,No underlying disease
+206,62,Male,Positive,Positive,36.60,No underlying disease
+207,32,Male,Positive,Positive,36.70,No underlying disease
+208,60,Female,Positive,Positive,37.80,No underlying disease
+209,78,Female,Positive,N/A,36.30,No underlying disease
+210,66,Female,Positive,N/A,38.50,No underlying disease
+211,55,Female,Positive,Positive,38.00,No underlying disease
+212,53,Male,Positive,Positive,39.00,No underlying disease
+213,54,Male,Positive,Positive,37.50,No underlying disease
+215,51,Male,Positive,Positive,38.80,No underlying disease
+217,50,Male,Positive,Positive,39.00,No underlying disease
+218,53,Male,Positive,Positive,36.30,No underlying disease
+221,33,Female,Positive,Positive,38.90,No underlying disease
+222,74,Male,Positive,Positive,37.80,No underlying disease
+225,37,Female,Positive,Positive,37.80,No underlying disease
+226,52,Female,Positive,Positive,37.70,No underlying disease
+227,61,Female,Positive,Positive,40.00,No underlying disease
+228,63,Male,Positive,Positive,37.80,No underlying disease
+229,80,Male,Positive,Positive,38.90,No underlying disease
+230,36,Male,Positive,Positive,38.90,No underlying disease
+231,47,Male,Positive,Positive,38.00,No underlying disease
+232,50,Male,Positive,Positive,39.50,No underlying disease
+233,70,Male,Positive,N/A,36.70,No underlying disease
+234,56,Male,Positive,Positive,39.60,No underlying disease
+235,44,Male,Positive,Positive,37.80,No underlying disease
+236,85,Male,Positive,Positive,36.10,No underlying disease
+238,56,Male,Positive,N/A,39.00,No underlying disease
+239,85,Female,Positive,Positive,39.00,No underlying disease
+242,39,Male,Positive,Positive,39.90,No underlying disease
+243,63,Male,Positive,Positive,37.30,No underlying disease
+244,70,Female,Positive,Positive,36.30,No underlying disease
+247,61,Male,Positive,N/A,39.20,No underlying disease
+248,47,Male,Positive,N/A,39.00,No underlying disease
+249,63,Male,Positive,Positive,38.30,No underlying disease
+250,81,Male,Positive,N/A,37.00,No underlying disease
+252,60,Male,Positive,Positive,38.80,No underlying disease
+253,59,Female,Positive,Positive,39.00,No underlying disease
+254,60,Male,Positive,Positive,38.90,No underlying disease
+255,23,Female,Positive,Positive,36.50,No underlying disease
+256,54,Male,Positive,Positive,39.70,No underlying disease
+259,84,Female,Positive,Positive,37.80,No underlying disease
+262,48,Female,Positive,Positive,37.90,No underlying disease
+263,47,Female,Positive,Positive,38.70,No underlying disease
+265,61,Male,Positive,Positive,37.90,No underlying disease
+266,29,Male,Positive,Positive,37.90,No underlying disease
+271,34,Female,Positive,Positive,37.50,No underlying disease
+272,28,Female,Positive,Positive,38.30,No underlying disease
+275,32,Female,Positive,Positive,37.40,No underlying disease
+278,51,Female,Positive,Positive,39.50,No underlying disease
+281,67,Female,Positive,Positive,40.00,No underlying disease
+282,86,Male,Positive,Positive,38.50,No underlying disease
+286,31,Male,Positive,Positive,38.70,No underlying disease
+289,39,Male,Positive,Positive,38.00,No underlying disease
+290,79,Male,Positive,N/A,38.90,No underlying disease
+293,61,Female,Positive,Positive,36.60,No underlying disease
+294,31,Male,Positive,Positive,39.50,No underlying disease
+295,38,Male,Positive,Positive,37.00,No underlying disease
+297,61,Male,Positive,N/A,39.60,No underlying disease
+300,48,Female,Positive,Positive,38.50,No underlying disease
+302,83,Male,Positive,Positive,38.20,No underlying disease
+303,65,Female,Positive,N/A,38.70,No underlying disease
+304,35,Male,Positive,Positive,39.70,No underlying disease
+306,58,Female,Positive,Positive,38.00,No underlying disease
+308,33,Male,Positive,Positive,37.40,No underlying disease
+310,65,Female,Positive,N/A,39.00,No underlying disease
+311,24,Female,Positive,Positive,37.00,No underlying disease
+312,32,Female,Positive,Positive,38.00,No underlying disease
+314,32,Female,Positive,N/A,36.60,No underlying disease
+316,65,Female,Positive,N/A,36.60,No underlying disease
+318,57,Female,Positive,N/A,38.80,No underlying disease
+322,33,Male,Positive,N/A,39.00,No underlying disease
+323,97,Female,Negative,Positive,39.00,No underlying disease
+324,34,Female,Negative,Positive,38.30,No underlying disease
+327,62,Female,Positive,Negative,36.60,No underlying disease
+328,34,Female,Positive,N/A,38.90,No underlying disease
+329,30,Female,Positive,Positive,36.00,No underlying disease
+332,36,Male,Positive,N/A,37.50,No underlying disease
+333,32,Female,Positive,N/A,38.80,No underlying disease
+334,31,Female,Positive,Positive,37.80,No underlying disease
+335,38,Male,Positive,N/A,38.60,No underlying disease
+336,30,Female,Positive,N/A,37.80,No underlying disease
+337,43,Female,Positive,Positive,38.30,No underlying disease
+338,30,Male,Positive,N/A,37.50,No underlying disease
+339,41,Female,Positive,N/A,37.50,No underlying disease
+341,44,Male,Positive,N/A,38.00,No underlying disease
+344,60,Male,Positive,Positive,38.30,No underlying disease
+347,68,Female,Positive,Positive,38.50,No underlying disease
+348,32,Male,Positive,Positive,37.50,No underlying disease
+351,40,Male,Negative,Positive,39.00,No underlying disease
+352,62,Female,Positive,N/A,37.30,No underlying disease
+353,67,Female,Positive,Positive,38.30,No underlying disease
+354,37,Female,Positive,N/A,38.40,No underlying disease
+355,46,Female,Negative,Positive,37.50,No underlying disease
+358,71,Male,Positive,Positive,38.00,No underlying disease
+359,32,Female,Negative,N/A,36.30,No underlying disease
+360,46,Female,Positive,N/A,36.60,No underlying disease
+361,33,Male,Positive,Positive,39.50,No underlying disease
+363,38,Male,Positive,Positive,39.00,No underlying disease
+364,63,Female,Negative,N/A,38.50,No underlying disease
+366,63,Male,Positive,Positive,38.00,No underlying disease
+367,27,Female,Positive,Negative,36.60,No underlying disease
+369,71,Male,Positive,N/A,39.00,No underlying disease
+370,57,Male,Positive,N/A,39.10,No underlying disease
+371,76,Male,Negative,N/A,38.70,No underlying disease
+377,39,Male,Negative,N/A,38.50,No underlying disease
+378,27,Male,Positive,Positive,38.10,No underlying disease
+379,65,Female,Positive,N/A,38.50,No underlying disease
+380,39,Female,Negative,Positive,37.70,No underlying disease
+383,2,Male,Negative,N/A,40.00,No underlying disease
+386,66,Female,Positive,N/A,38.90,No underlying disease
+388,69,Male,Positive,Positive,39.00,No underlying disease
+389,71,Female,Positive,N/A,38.50,No underlying disease
+390,56,Female,Positive,Positive,38.50,No underlying disease
+394,71,Male,Positive,N/A,37.40,No underlying disease
+395,33,Male,Positive,Positive,36.80,No underlying disease
+397,70,Male,Positive,Positive,36.20,No underlying disease
+398,57,Female,Positive,Positive,38.30,No underlying disease
+402,58,Female,Positive,Positive,39.80,No underlying disease
+403,88,Male,Positive,Positive,36.60,No underlying disease
+405,9,Male,Positive,Positive,38.90,No underlying disease
+408,75,Male,Positive,Positive,38.00,No underlying disease
+410,79,Male,Positive,N/A,38.00,No underlying disease
+411,34,Female,Positive,Positive,37.30,No underlying disease
+412,29,Female,Positive,Positive,38.00,No underlying disease
+413,55,Male,Positive,Positive,39.10,No underlying disease
+414,60,Male,Positive,Positive,38.00,No underlying disease
+415,54,Female,Positive,Positive,36.40,No underlying disease
+416,28,Female,Positive,Positive,39.00,No underlying disease
+418,33,Female,Positive,Positive,38.50,No underlying disease
+419,66,Male,Positive,Positive,38.00,No underlying disease
+420,42,Male,Positive,Positive,39.00,No underlying disease
+421,58,Female,Positive,Positive,38.50,No underlying disease
+423,52,Female,Positive,Positive,39.50,No underlying disease
+425,27,Male,Positive,Positive,39.30,No underlying disease
+427,59,Male,Positive,Positive,39.20,No underlying disease
+428,62,Male,Positive,Positive,38.50,No underlying disease
+429,51,Female,Positive,Positive,38.30,No underlying disease
+430,69,Male,Positive,Positive,37.80,No underlying disease
+431,63,Female,Positive,N/A,36.30,No underlying disease
+433,77,Male,Positive,N/A,41.80,No underlying disease
+435,62,Female,Positive,Positive,38.80,No underlying disease
+436,34,Female,Positive,Positive,39.00,No underlying disease
+437,48,Male,Positive,Positive,37.80,No underlying disease
+438,67,Male,Positive,N/A,37.90,No underlying disease
+442,66,Male,Positive,Positive,37.10,No underlying disease
+444,50,Female,Positive,Positive,38.50,No underlying disease
+445,59,Female,Positive,Positive,38.00,No underlying disease
+448,60,Male,Positive,N/A,38.00,No underlying disease
+449,67,Male,Positive,N/A,38.00,No underlying disease
+450,66,Male,Positive,Positive,38.00,No underlying disease
+451,36,Female,Positive,Positive,36.70,No underlying disease
+452,43,Female,Positive,Positive,38.00,No underlying disease
+453,49,Female,Positive,Positive,38.60,No underlying disease
+456,56,Male,Positive,Positive,36.20,No underlying disease
+457,69,Male,Positive,Positive,38.20,No underlying disease
+460,36,Male,Positive,Positive,38.30,No underlying disease
+463,27,Female,Positive,Positive,36.50,No underlying disease
+464,24,Female,Positive,Positive,37.40,No underlying disease
+467,40,Male,Positive,Positive,38.00,No underlying disease
+471,46,Male,Positive,Positive,40.00,No underlying disease
+472,29,Male,Positive,Positive,38.50,No underlying disease
+478,71,Female,Positive,Negative,36.60,No underlying disease
+481,33,Female,Positive,Positive,37.50,No underlying disease
+486,29,Male,Positive,Negative,36.50,No underlying disease
+487,61,Male,Positive,Positive,37.70,No underlying disease
+491,53,Female,Positive,Positive,37.40,No underlying disease
+492,29,Male,Positive,Positive,38.50,No underlying disease
+493,66,Male,Positive,Positive,38.00,No underlying disease
+494,56,Female,Positive,Positive,36.60,No underlying disease
+495,56,Male,Positive,N/A,38.50,No underlying disease
+496,75,Female,Positive,Positive,38.00,No underlying disease
+498,61,Female,Positive,Positive,36.60,No underlying disease
+499,29,Female,Positive,Negative,36.60,No underlying disease
+500,69,Female,Positive,Positive,38.00,No underlying disease
+502,39,Male,Positive,Positive,38.30,No underlying disease
+504,69,Female,Positive,Positive,38.00,No underlying disease
+505,27,Female,Positive,Negative,37.00,No underlying disease
+507,37,Female,Positive,Positive,36.60,No underlying disease
+509,71,Male,Positive,Positive,38.90,No underlying disease
+510,72,Female,Positive,N/A,38.00,No underlying disease
+511,56,Male,Positive,Positive,38.00,No underlying disease
+512,67,Male,Positive,Positive,36.50,No underlying disease
+513,27,Female,Positive,N/A,38.00,No underlying disease
+515,68,Male,Positive,Positive,36.60,No underlying disease
+517,92,Female,Positive,Positive,36.60,No underlying disease
+519,68,Female,Positive,Positive,39.00,No underlying disease
+520,64,Female,Positive,Positive,36.60,No underlying disease
+521,61,Male,Positive,N/A,38.90,No underlying disease
+522,27,Male,Positive,Positive,37.70,No underlying disease
+523,34,Female,Positive,Positive,36.60,No underlying disease
+525,45,Male,Positive,Positive,39.00,No underlying disease
+526,51,Female,Positive,Positive,39.30,No underlying disease
+528,61,Female,Positive,Positive,38.00,No underlying disease
+529,58,Female,Positive,Positive,38.00,No underlying disease
+533,56,Male,Negative,Negative,36.60,No underlying disease
+536,76,Male,Negative,Negative,36.60,No underlying disease
+538,65,Male,Negative,Negative,36.60,No underlying disease
+540,49,Female,Negative,Negative,36.60,No underlying disease
+543,53,Male,Negative,Negative,36.50,No underlying disease
+544,37,Male,Negative,Negative,36.50,No underlying disease
+545,62,Male,Negative,Negative,37.60,No underlying disease
+546,53,Female,Negative,Negative,36.20,No underlying disease
+549,56,Male,Negative,Negative,36.60,No underlying disease
+550,44,Male,Negative,Negative,36.60,No underlying disease
+554,38,Male,Negative,Negative,36.50,No underlying disease
+556,63,Female,Negative,Negative,36.60,No underlying disease
+558,32,Male,Negative,Negative,37.4,No underlying disease
+559,30,Female,Negative,Negative,37.4,No underlying disease
+560,36,Female,Negative,Negative,37.4,No underlying disease
+561,33,Female,Negative,Negative,37.4,No underlying disease
+562,28,Female,Negative,Negative,37.4,No underlying disease
+563,51,Male,Negative,Negative,37.4,No underlying disease
+564,33,Female,Negative,Negative,37.4,No underlying disease
+565,54,Male,Negative,Negative,37.4,No underlying disease
+566,48,Female,Negative,Negative,37.4,No underlying disease
+567,29,Male,Negative,Negative,37.4,No underlying disease
+568,48,Male,Negative,Negative,37.4,No underlying disease
+569,31,Female,Negative,Negative,37.4,No underlying disease
+570,26,Female,Negative,Negative,37.4,No underlying disease
+571,48,Female,Negative,Negative,37.4,No underlying disease
+574,52,Female,Positive,N/A,38.70,No underlying disease
+575,72,Female,Positive,Positive,38.10,No underlying disease
+576,39,Male,Positive,N/A,38.00,No underlying disease
+578,68,Male,Positive,N/A,36.60,No underlying disease
+581,44,Male,Positive,Positive,36.60,No underlying disease
+584,32,Female,Positive,Positive,36.70,No underlying disease
+586,58,Male,Positive,Positive,36.60,No underlying disease
+588,48,Female,Negative,Positive,37.60,No underlying disease
+590,33,Male,Negative,Positive,38.70,No underlying disease
+592,43,Male,Negative,Positive,39.00,No underlying disease
+594,64,Male,Negative,N/A,36.60,No underlying disease
+598,75,Female,Negative,Positive,38.00,No underlying disease
+599,30,Male,Negative,Positive,39.00,No underlying disease
+601,48,Male,Negative,Positive,37.50,No underlying disease
+602,68,Female,Positive,Positive,38.00,No underlying disease
+604,36,Male,Negative,N/A,41.00,No underlying disease
+605,31,Female,Negative,Positive,38.00,No underlying disease
+609,65,Female,Negative,Positive,39.50,No underlying disease
+611,51,Male,Negative,Positive,38.60,No underlying disease
+613,37,Female,Negative,Positive,38.50,No underlying disease
+614,83,Female,Negative,Positive,38.00,No underlying disease
+617,32,Male,Negative,Positive,39.80,No underlying disease
+618,32,Female,Negative,Positive,36.20,No underlying disease
+619,64,Female,Negative,Positive,37.90,No underlying disease
+621,77,Male,Negative,Positive,36.60,No underlying disease
+622,58,Female,Negative,Positive,36.60,No underlying disease
+624,63,Female,Negative,Positive,37.50,No underlying disease
+627,58,Female,Negative,Positive,38.60,No underlying disease
+628,79,Female,Negative,Positive,38.60,No underlying disease
+629,31,Female,Negative,Positive,37.60,No underlying disease
+631,33,Female,Negative,Positive,38.00,No underlying disease
+632,45,Male,Negative,Positive,38.70,No underlying disease
+633,33,Male,Negative,Positive,38.00,No underlying disease
+638,50,Male,Negative,Positive,39.00,No underlying disease
+639,70,Male,Negative,Positive,39.00,No underlying disease
+640,32,Male,Negative,Positive,36.60,No underlying disease
+642,74,Male,Negative,Positive,38.00,No underlying disease
+644,25,Female,Negative,Positive,39.30,No underlying disease
+647,68,Female,Negative,Positive,39.00,No underlying disease
+648,32,Male,Negative,Positive,39.00,No underlying disease
+652,36,Female,Negative,Positive,36.60,No underlying disease
+654,41,Female,Negative,Positive,39.60,No underlying disease
+655,68,Male,Negative,Positive,37.50,No underlying disease
+656,67,Female,Negative,Positive,36.60,No underlying disease
+658,65,Female,Negative,Positive,38.90,No underlying disease
+662,74,Male,Negative,Positive,38.50,No underlying disease
+663,67,Female,Negative,N/A,36.60,No underlying disease
+664,59,Male,Negative,Positive,39.00,No underlying disease
+665,75,Male,Negative,Positive,38.50,No underlying disease
+666,56,Male,Negative,N/A,39.00,No underlying disease
+667,31,Female,Negative,Negative,37.80,No underlying disease
+669,30,Female,Negative,Positive,39.10,No underlying disease
+672,40,Male,Negative,N/A,38.50,No underlying disease
+673,85,Female,Negative,Positive,37.50,No underlying disease
+675,65,Male,Negative,Positive,39.00,No underlying disease
+680,48,Male,Negative,N/A,36.60,No underlying disease
+685,45,Male,Negative,N/A,36.80,No underlying disease
+687,66,Male,Negative,N/A,36.60,No underlying disease
+689,34,Female,Negative,Negative,36.50,No underlying disease
+691,68,Male,Negative,Negative,37.4,No underlying disease
+695,57,Male,Negative,Negative,36.40,No underlying disease
+699,58,Female,Negative,Negative,36.60,No underlying disease
+700,54,Male,Negative,Negative,36.60,No underlying disease
+703,55,Male,Negative,Negative,36.80,No underlying disease
+706,49,Female,Negative,Negative,36.50,No underlying disease
+708,59,Female,Negative,Negative,36.30,No underlying disease
+709,54,Male,Negative,Negative,36.60,No underlying disease
+711,46,Male,Negative,Negative,38.00,No underlying disease
+712,55,Female,Negative,Negative,36.60,No underlying disease
+713,48,Male,Negative,Negative,36.50,No underlying disease
+715,27,Male,Negative,Negative,36.60,No underlying disease
+716,51,Male,Negative,Negative,36.50,No underlying disease
+718,65,Male,Negative,Negative,36.50,No underlying disease
+720,50,Male,Negative,Negative,36.50,No underlying disease
+723,72,Female,Negative,Negative,36.90,No underlying disease
+724,60,Male,Negative,Negative,36.60,No underlying disease
+728,35,Male,Negative,Negative,36.60,No underlying disease
+729,37,Female,Negative,Negative,36.50,No underlying disease
+730,61,Female,Negative,Negative,36.40,No underlying disease
+731,28,Female,Negative,Negative,36.40,No underlying disease
+732,84,Male,Negative,Negative,36.30,No underlying disease
+735,42,Male,Negative,Negative,36.60,No underlying disease
+737,63,Male,Negative,Negative,36.80,No underlying disease
+741,54,Male,Negative,Negative,36.40,No underlying disease
+742,50,Male,Negative,Negative,36.60,No underlying disease
+746,72,Male,Negative,Negative,37.4,No underlying disease
+747,60,Female,Negative,Negative,36.50,No underlying disease
+748,48,Male,Negative,Negative,36.70,No underlying disease
+749,69,Male,Negative,Negative,36.40,No underlying disease
+750,49,Female,Negative,Negative,36.50,No underlying disease
+751,49,Female,Negative,Negative,36.50,No underlying disease
+752,56,Male,Negative,Negative,36.00,No underlying disease
+758,52,Male,Negative,Negative,36.00,No underlying disease
+760,42,Male,Negative,Negative,37.4,No underlying disease
+764,44,Female,Negative,Negative,37.4,No underlying disease
+766,58,Female,Negative,Negative,36.50,No underlying disease
+767,34,Female,Negative,Negative,36.80,No underlying disease
+768,48,Male,Negative,Negative,36.50,No underlying disease
+769,53,Female,Negative,Negative,36.60,No underlying disease
+770,62,Male,Negative,Negative,36.60,No underlying disease
+772,29,Female,Negative,Negative,37.00,No underlying disease
+774,57,Female,Negative,Negative,36.50,No underlying disease
+775,68,Female,Negative,Negative,36.60,No underlying disease
+778,58,Female,Positive,Positive,37.90,No underlying disease
+781,47,Female,Positive,Positive,38.80,No underlying disease
+784,47,Male,Positive,Positive,39.00,No underlying disease
+786,52,Female,Positive,Positive,37.50,No underlying disease
+790,60,Female,Positive,Positive,39.00,No underlying disease
+791,70,Female,Positive,Positive,39.50,No underlying disease
+792,51,Male,Positive,Positive,38.70,No underlying disease
+795,46,Male,Positive,Positive,39.10,No underlying disease
+796,54,Male,Positive,Positive,42.00,No underlying disease
+799,52,Male,Positive,Positive,38.40,No underlying disease
+802,70,Male,Positive,Positive,38.00,No underlying disease
+805,34,Female,Positive,Positive,38.00,No underlying disease
+808,24,Male,Positive,N/A,38.40,No underlying disease
+812,30,Male,Positive,Positive,38.60,No underlying disease
+813,57,Female,Positive,Positive,39.00,No underlying disease
+814,74,Female,Positive,Positive,39.00,No underlying disease
+815,63,Male,Positive,Positive,38.90,No underlying disease
+816,52,Female,Positive,Positive,38.10,No underlying disease
+819,27,Female,Positive,N/A,36.70,No underlying disease
+823,31,Female,Positive,Negative,36.40,No underlying disease
+824,52,Female,Positive,Positive,36.80,No underlying disease
+825,36,Male,Positive,Positive,38.60,No underlying disease
+827,26,Female,Positive,Negative,38.80,No underlying disease
+828,32,Male,Positive,Positive,38.10,No underlying disease
+829,60,Female,Positive,N/A,36.50,No underlying disease
+831,59,Male,Positive,Positive,36.50,No underlying disease
+832,62,Female,Positive,Positive,36.20,No underlying disease
+834,43,Male,Positive,Positive,38.60,No underlying disease
+835,30,Female,Positive,Positive,36.40,No underlying disease
+837,70,Female,Positive,N/A,37.90,No underlying disease
+841,30,Male,Positive,Positive,39.00,No underlying disease
+842,38,Male,Positive,Positive,38.50,No underlying disease
+843,60,Male,Positive,Positive,38.50,No underlying disease
+844,78,Female,Positive,Positive,37.00,No underlying disease
+845,37,Female,Positive,Positive,38.10,No underlying disease
+847,66,Female,Positive,Positive,38.50,No underlying disease
+848,56,Male,Positive,Positive,38.00,No underlying disease
+849,57,Female,Positive,Positive,36.40,No underlying disease
+850,24,Female,Positive,Positive,37.30,No underlying disease
+851,32,Female,Positive,Positive,38.50,No underlying disease
+853,37,Female,Positive,Negative,37.80,No underlying disease
+854,40,Male,Positive,Positive,40.00,No underlying disease
+855,71,Male,Positive,Positive,37.80,No underlying disease
+856,33,Female,Positive,Negative,37.90,No underlying disease
+857,20,Female,Positive,Positive,39.00,No underlying disease
+858,61,Male,Positive,Positive,36.50,No underlying disease
+859,76,Female,Positive,Positive,36.30,No underlying disease
+862,40,Male,Positive,Positive,37.20,No underlying disease
+863,50,Male,Positive,Positive,39.60,No underlying disease
+867,53,Female,Positive,Positive,39.20,No underlying disease
+868,33,Male,Positive,Negative,38.00,No underlying disease
+872,69,Female,Positive,Positive,36.60,No underlying disease
+873,87,Male,Positive,Positive,39.30,No underlying disease
+878,54,Female,Positive,Positive,37.90,No underlying disease
+879,29,Female,Positive,Positive,37.90,No underlying disease
+880,78,Female,Positive,Positive,38.00,No underlying disease
+881,75,Female,Positive,Positive,37.30,No underlying disease
+882,51,Female,Positive,Positive,37.00,No underlying disease
+884,75,Male,Positive,Positive,36.50,No underlying disease
+885,55,Male,Positive,Positive,38.10,No underlying disease
+886,35,Female,Positive,Positive,37.90,No underlying disease
+887,61,Male,Positive,Positive,40.00,No underlying disease
+888,56,Female,Positive,Positive,37.10,No underlying disease
+891,66,Female,Positive,Positive,38.90,No underlying disease
+892,27,Female,Positive,Negative,36.30,No underlying disease
+893,52,Female,Positive,Positive,38.90,No underlying disease
+895,48,Female,Positive,Positive,38.00,No underlying disease
+896,45,Male,Positive,Positive,38.50,No underlying disease
+897,67,Female,Positive,Positive,37.60,No underlying disease
+898,68,Male,Positive,Positive,39.00,No underlying disease
+899,65,Female,Positive,Positive,38.40,No underlying disease
+901,58,Female,Negative,Positive,36.30,No underlying disease
+903,58,Female,Negative,Positive,36.20,No underlying disease
+904,48,Female,Negative,Negative,38.00,No underlying disease
+905,32,Male,Negative,N/A,37.40,No underlying disease
+910,52,Male,Negative,Positive,38.00,No underlying disease
+911,33,Female,Negative,Positive,36.50,No underlying disease
+912,47,Female,Negative,Positive,37.20,No underlying disease
+913,59,Female,Negative,Positive,36.50,No underlying disease
+914,63,Female,Negative,Positive,36.50,No underlying disease
+917,52,Female,Negative,Positive,36.80,No underlying disease
+918,34,Female,Negative,Positive,38.00,No underlying disease
+922,51,Female,Negative,Positive,36.50,No underlying disease
+923,34,Male,Negative,Positive,37.20,No underlying disease
+924,27,Female,Negative,Positive,36.90,No underlying disease
+925,58,Female,Negative,Positive,38.00,No underlying disease
+926,31,Male,Negative,Positive,38.80,No underlying disease
+928,52,Female,Negative,Positive,39.00,No underlying disease
+931,56,Male,Negative,Negative,36.50,No underlying disease
+932,59,Male,Negative,Positive,37.40,No underlying disease
+933,20,Female,Negative,N/A,39.00,No underlying disease
+934,77,Female,Negative,Positive,38.90,No underlying disease
+943,47,Male,Negative,Positive,38.80,No underlying disease
+946,55,Female,Negative,Positive,37.20,No underlying disease
+953,66,Female,Negative,Positive,39.00,No underlying disease
+954,84,Female,Negative,Positive,36.50,No underlying disease
+957,37,Male,Negative,Positive,36.20,No underlying disease
+958,40,Female,Negative,Positive,38.50,No underlying disease
+960,61,Female,Negative,Positive,36.80,No underlying disease
+962,46,Male,Negative,Positive,37.30,No underlying disease
+968,73,Male,Negative,Negative,37.30,No underlying disease
+969,47,Male,Negative,Positive,36.70,No underlying disease
+971,35,Male,Negative,Positive,39.20,No underlying disease
+972,28,Male,Negative,Positive,37.4,No underlying disease
+973,70,Female,Negative,Positive,38.50,No underlying disease
+976,40,Female,Negative,Positive,37.4,No underlying disease
+978,44,Female,Negative,Negative,37.4,No underlying disease
+979,41,Female,Negative,Negative,37.4,No underlying disease
+980,57,Female,Negative,Negative,37.4,No underlying disease
+981,16,Male,Negative,Negative,37.4,No underlying disease
+982,38,Male,Negative,Negative,37.4,No underlying disease
+983,22,Female,Negative,Negative,37.4,No underlying disease
+984,5,Female,Negative,Negative,37.4,No underlying disease
+985,44,Male,Negative,Negative,37.4,No underlying disease
+986,35,Male,Negative,Negative,37.4,No underlying disease
+987,17,Female,Negative,Negative,37.4,No underlying disease
+988,31,Male,Negative,Negative,37.4,No underlying disease
+989,26,Male,Negative,Negative,37.4,No underlying disease
+990,33,Female,Negative,Negative,37.4,No underlying disease
+991,33,Female,Negative,Negative,37.4,No underlying disease
+992,33,Female,Negative,Negative,37.4,No underlying disease
+993,32,Male,Negative,Negative,37.4,No underlying disease
+994,33,Female,Negative,Negative,37.4,No underlying disease
+995,26,Female,Negative,Negative,37.4,No underlying disease
+996,26,Female,Negative,Negative,37.4,No underlying disease
+997,27,Female,Negative,Negative,37.4,No underlying disease
+998,39,Male,Negative,Negative,37.4,No underlying disease
+999,17,Male,Negative,Negative,37.4,No underlying disease
+1000,27,Male,Negative,Negative,37.4,No underlying disease
+1001,26,Female,Negative,Negative,37.4,No underlying disease
+1002,33,Male,Negative,Negative,37.4,No underlying disease
+1003,46,Male,Negative,Negative,37.4,No underlying disease
+1004,37,Female,Negative,Negative,37.4,No underlying disease
+1005,41,Male,Negative,Negative,37.4,No underlying disease
+1006,63,Female,Negative,Negative,37.4,No underlying disease
+1007,12,Female,Negative,Negative,37.4,No underlying disease
+1008,8,Male,Negative,Negative,37.4,No underlying disease
+1009,25,Female,Negative,Negative,37.4,No underlying disease
+1010,16,Male,Negative,Negative,37.4,No underlying disease
+1011,21,Female,Negative,Negative,37.4,No underlying disease
+1012,51,Female,Negative,Negative,37.4,No underlying disease
+1013,30,Male,Negative,Negative,37.4,No underlying disease
+1014,48,Female,Negative,Negative,37.4,No underlying disease
+1015,25,Male,Negative,Negative,37.4,No underlying disease
+1016,41,Male,Negative,Negative,37.4,No underlying disease
+1017,40,Male,Negative,Negative,37.4,No underlying disease
+1018,35,Male,Negative,Negative,37.4,No underlying disease
+1019,63,Male,Negative,Negative,37.4,No underlying disease
+1020,64,Female,Negative,Negative,37.4,No underlying disease
+1021,29,Female,Negative,Negative,37.4,No underlying disease
+1022,55,Female,Negative,Negative,37.4,No underlying disease
+1024,36,Female,Positive,Positive,37.90,No underlying disease
+1025,36,Female,Positive,Positive,37.90,No underlying disease
+1026,43,Female,Positive,Positive,37.90,No underlying disease
+1027,38,Male,Positive,Positive,37.90,No underlying disease
+1028,45,Female,Positive,Positive,37.90,No underlying disease
+1029,9,Male,Positive,Positive,37.90,No underlying disease
+1030,51,Female,Positive,Positive,37.90,No underlying disease
+1031,45,Male,Positive,Positive,37.90,No underlying disease
+1032,27,Female,Positive,Positive,37.90,No underlying disease
+1033,41,Male,Positive,Positive,37.90,No underlying disease
+1034,56,Female,Positive,Positive,37.90,No underlying disease
+1035,58,Female,Positive,Positive,37.90,No underlying disease
+1036,38,Male,Positive,Positive,37.90,No underlying disease
+1037,32,Female,Positive,Positive,37.90,No underlying disease
+1038,50,Male,Positive,Positive,37.90,No underlying disease
+1039,47,Female,Positive,Positive,37.90,No underlying disease
+1040,50,Female,Positive,Positive,37.90,No underlying disease
+1041,46,Male,Positive,Positive,37.90,No underlying disease
+1042,47,Female,Positive,Positive,37.90,No underlying disease
+1044,32,Male,Positive,Negative,37.40,No underlying disease
+1045,57,Female,Positive,Positive,37.90,No underlying disease
+1046,52,Female,Positive,Positive,37.90,No underlying disease
+1047,51,Male,Positive,Positive,37.90,No underlying disease
+1048,51,Female,Positive,Positive,37.90,No underlying disease
+1049,46,Male,Positive,Negative,37.90,No underlying disease
+1050,63,Male,Positive,Positive,37.90,No underlying disease
+1051,40,Male,Positive,Positive,38.30,No underlying disease
+1052,48,Male,Positive,Positive,37.90,No underlying disease
+1053,34,Male,Positive,Positive,37.90,No underlying disease
+1054,41,Female,Positive,Positive,37.90,No underlying disease
+1055,56,Female,Positive,Positive,37.90,No underlying disease
+1056,27,Female,Positive,Positive,37.90,No underlying disease
+1057,45,Female,Positive,Positive,37.90,No underlying disease
+1058,51,Male,Positive,Positive,36.20,No underlying disease
+1059,55,Male,Positive,Positive,37.90,No underlying disease
+1060,45,Female,Positive,Positive,37.90,No underlying disease
+1061,27,Male,Positive,Positive,37.90,No underlying disease
+1062,55,Female,Positive,Positive,37.90,No underlying disease
+1063,37,Female,Positive,Positive,37.90,No underlying disease
+1064,42,Female,Positive,Positive,37.90,No underlying disease
+1065,56,Female,Positive,Positive,37.90,No underlying disease
+1066,51,Male,Positive,Positive,37.90,No underlying disease
+1067,37,Female,Positive,Positive,37.90,No underlying disease
+1068,35,Male,Positive,Positive,37.90,No underlying disease
+1069,61,Female,Positive,Positive,37.90,No underlying disease
+1070,24,Male,Positive,Positive,36.50,No underlying disease
+1072,59,Female,Positive,Positive,37.90,No underlying disease
+1073,35,Female,Positive,Positive,37.90,No underlying disease
+1074,30,Male,Positive,Positive,37.90,No underlying disease
+1075,48,Female,Positive,Positive,37.90,No underlying disease
+1076,49,Female,Positive,Positive,37.90,No underlying disease
+1077,38,Male,Positive,Positive,37.90,No underlying disease
+1078,58,Female,Positive,Positive,37.90,No underlying disease
+1079,44,Male,Positive,Positive,37.90,No underlying disease
+1080,53,Female,Negative,Positive,37.4,No underlying disease
+1081,65,Male,Negative,Negative,37.4,No underlying disease
+1082,48,Female,Negative,Negative,37.4,No underlying disease
+1083,21,Male,Negative,Negative,37.4,No underlying disease
+1084,24,Male,Negative,Negative,37.4,No underlying disease
+1085,28,Female,Negative,Negative,37.4,No underlying disease
+1086,25,Male,Negative,Negative,37.4,No underlying disease
+1087,60,Female,Negative,Negative,37.4,No underlying disease
+1088,55,Male,Negative,Negative,37.4,No underlying disease
+1089,60,Male,Negative,Negative,37.4,No underlying disease
+1090,62,Female,Negative,Positive,37.4,No underlying disease
+1091,61,Male,Negative,Positive,37.4,No underlying disease
+1092,68,Female,Negative,Positive,37.4,No underlying disease
+1093,54,Male,Negative,Negative,37.4,No underlying disease
+1094,33,Male,Negative,Positive,37.4,No underlying disease
+1095,56,Female,Negative,Positive,37.4,No underlying disease
+1099,29,Female,Negative,Negative,37.4,No underlying disease
+1101,69,Female,Negative,Positive,37.80,No underlying disease
+1102,52,Male,Negative,Positive,38.50,No underlying disease
+1103,63,Male,Negative,Positive,38.40,No underlying disease
+1106,20,Male,Negative,Positive,36.80,No underlying disease
+1107,44,Female,Negative,Positive,36.50,No underlying disease
+1108,38,Female,Negative,Positive,36.70,No underlying disease
+1113,63,Male,Negative,Positive,36.70,No underlying disease
+1115,64,Male,Negative,Negative,36.80,No underlying disease
+1116,67,Male,Negative,Positive,36.50,No underlying disease
+1118,42,Female,Negative,Positive,36.90,No underlying disease
+1119,57,Female,Negative,Positive,39.20,No underlying disease
+1122,40,Female,Negative,Positive,39.00,No underlying disease
+1124,24,Male,Negative,Positive,37.20,No underlying disease
+1130,63,Female,Negative,Positive,36.60,No underlying disease
+1131,47,Female,Negative,Negative,37.50,No underlying disease
+1132,60,Male,Negative,Positive,37.4,No underlying disease
+1134,31,Male,Negative,Positive,37.4,No underlying disease
+1135,40,Female,Negative,Negative,37.4,No underlying disease
+1137,59,Male,Negative,N/A,36.60,No underlying disease
+1138,44,Female,Negative,Positive,37.4,No underlying disease
+1139,51,Female,Negative,Positive,39.00,No underlying disease
+1141,72,Female,Negative,Positive,39.00,No underlying disease
+1142,64,Male,Negative,Positive,37.4,No underlying disease
+1144,50,Male,Negative,Negative,37.4,No underlying disease
+1145,71,Female,Negative,Positive,38.30,No underlying disease
+1146,36,Female,Negative,Negative,37.30,No underlying disease
+1147,23,Female,Negative,Positive,38.00,No underlying disease
+1148,48,Male,Negative,Positive,37.80,No underlying disease
+1150,38,Female,Negative,Positive,37.4,No underlying disease
+1153,52,Male,Negative,Positive,37.4,No underlying disease
+1154,28,Female,Negative,Positive,37.4,No underlying disease
+1155,50,Male,Negative,Negative,37.4,No underlying disease
+1156,64,Female,Negative,Positive,37.70,No underlying disease
+1157,62,Male,Negative,Positive,38.00,No underlying disease
+1158,65,Female,Negative,Positive,37.4,No underlying disease
+1159,47,Male,Negative,Positive,39.20,No underlying disease
+1160,50,Female,Negative,Positive,39.40,No underlying disease
+1162,45,Male,Negative,Positive,36.60,No underlying disease
+1163,68,Male,Negative,Positive,37.4,No underlying disease
+1164,72,Female,Negative,Positive,36.60,No underlying disease
+1165,36,Male,Negative,Positive,37.4,No underlying disease
+1166,32,Male,Negative,Negative,37.70,No underlying disease
+1167,68,Male,Negative,Negative,37.4,No underlying disease
+1168,34,Female,Negative,Negative,37.4,No underlying disease
+1171,66,Female,Positive,Positive,38.00,No underlying disease
+1174,71,Male,Positive,Positive,38.00,No underlying disease
+1176,36,Male,Positive,Positive,38.50,No underlying disease
+1178,81,Female,Positive,Positive,36.10,No underlying disease
+1180,68,Female,Positive,Positive,38.30,No underlying disease
+1182,66,Female,Positive,Positive,38.00,No underlying disease
+1189,54,Female,Positive,Positive,38.50,No underlying disease
+1190,59,Female,Positive,Positive,39.50,No underlying disease
+1194,28,Male,Positive,Positive,38.00,No underlying disease
+1195,66,Female,Positive,Positive,36.60,No underlying disease
+1196,48,Female,Positive,Positive,37.50,No underlying disease
+1200,42,Female,Positive,Positive,39.00,No underlying disease
+1201,65,Female,Positive,Positive,37.70,No underlying disease
+1202,64,Female,Positive,Positive,37.20,No underlying disease
+1211,51,Male,Positive,Positive,38.00,No underlying disease
+1215,49,Female,Positive,Positive,36.60,No underlying disease
+1218,63,Female,Positive,Positive,39.00,No underlying disease
+1219,43,Female,Positive,Positive,38.00,No underlying disease
+1222,68,Male,Positive,Positive,38.20,No underlying disease
+1226,36,Female,Positive,Positive,39.00,No underlying disease
+1227,41,Female,Positive,Positive,36.00,No underlying disease
+1231,68,Female,Positive,Positive,38.00,No underlying disease
+1232,69,Female,Positive,Positive,38.00,No underlying disease
+1233,65,Female,Positive,Positive,38.50,No underlying disease
+1234,52,Female,Positive,Positive,38.00,No underlying disease
+1235,77,Female,Positive,Positive,38.60,No underlying disease
+1236,51,Female,Positive,Positive,39.00,No underlying disease
+1238,32,Female,Positive,Positive,36.60,No underlying disease
+1240,49,Female,Positive,Positive,36.50,No underlying disease
+1242,20,Male,Positive,Positive,38.30,No underlying disease
+1243,63,Female,Positive,Positive,38.00,No underlying disease
+1247,52,Female,Positive,Positive,39.00,No underlying disease
+1248,36,Male,Positive,Positive,36.80,No underlying disease
+1249,56,Female,Positive,Positive,39.00,No underlying disease
+1251,57,Male,Positive,Positive,38.30,No underlying disease
+1252,37,Female,Positive,Positive,36.50,No underlying disease
+1255,73,Male,Positive,Positive,36.60,No underlying disease
+1257,35,Female,Positive,Positive,36.60,No underlying disease
+1258,64,Female,Positive,Positive,38.00,No underlying disease
+1259,66,Male,Positive,Positive,37.80,No underlying disease
+1261,61,Male,Positive,Positive,39.00,No underlying disease
+1263,65,Female,Positive,Positive,37.30,No underlying disease
+1266,53,Male,Positive,Positive,36.60,No underlying disease
+1268,61,Female,Positive,Positive,36.60,No underlying disease
+1270,45,Female,Positive,Positive,37.50,No underlying disease
+1271,46,Female,Positive,Positive,37.50,No underlying disease
+1272,62,Female,Positive,Positive,38.00,No underlying disease
+1276,68,Female,Positive,Positive,37.60,No underlying disease
+1281,50,Female,Positive,Positive,38.50,No underlying disease
+1283,67,Male,Positive,Positive,38.60,No underlying disease
+1286,65,Female,Positive,Positive,36.00,No underlying disease
+1288,50,Female,Positive,Positive,36.60,No underlying disease
+1291,65,Female,Positive,Positive,37.80,No underlying disease
+1293,93,Female,Positive,Positive,36.40,No underlying disease
+1296,62,Female,Positive,Positive,37.50,No underlying disease
+1298,37,Female,Positive,Positive,37.50,No underlying disease
+1299,40,Male,Positive,Positive,37.80,No underlying disease
+1302,12,Male,Positive,N/A,38.00,No underlying disease
+1303,33,Female,Positive,Positive,39.40,No underlying disease
+1305,48,Male,Positive,Positive,39.60,No underlying disease
+1310,46,Female,Positive,Positive,39.00,No underlying disease
+1311,38,Male,Positive,Positive,38.90,No underlying disease
+1313,55,Female,Positive,Positive,37.70,No underlying disease
+1314,55,Male,Positive,Positive,39.00,No underlying disease
+1315,41,Male,Positive,Positive,36.50,No underlying disease
+1318,34,Female,Positive,Positive,38.60,No underlying disease
+1319,76,Female,Positive,N/A,36.90,No underlying disease
+1323,20,Male,Positive,Positive,38.20,No underlying disease
+1328,58,Female,Positive,Positive,38.90,No underlying disease
+1329,53,Male,Positive,Positive,38.50,No underlying disease
+1331,64,Male,Positive,Positive,37.50,No underlying disease
+1334,49,Female,Positive,Positive,37.50,No underlying disease
+1335,27,Male,Positive,Positive,39.00,No underlying disease
+1339,69,Male,Positive,Positive,38.50,No underlying disease
+1340,61,Male,Positive,Positive,39.40,No underlying disease
+1341,66,Female,Positive,Positive,38.00,No underlying disease
+1342,48,Male,Positive,Positive,38.50,No underlying disease
+1344,32,Male,Positive,Positive,38.50,No underlying disease
+1351,61,Male,Positive,Positive,37.00,No underlying disease
+1352,72,Male,Positive,Positive,37.80,No underlying disease
+1353,70,Male,Positive,Negative,37.00,No underlying disease
+1355,70,Female,Positive,Positive,36.30,No underlying disease
+1357,58,Female,Positive,Positive,37.80,No underlying disease
+1361,55,Male,Positive,Positive,38.70,No underlying disease
+1362,59,Female,Positive,Positive,38.00,No underlying disease
+1367,33,Female,Positive,Positive,38.00,No underlying disease
+1369,37,Female,Positive,Positive,37.80,No underlying disease
+1370,55,Female,Positive,Positive,38.00,No underlying disease
+1372,42,Female,Positive,Positive,38.70,No underlying disease
+1374,65,Female,Positive,Positive,36.30,No underlying disease
+1376,44,Female,Positive,Positive,37.50,No underlying disease
+1377,43,Male,Positive,Positive,37.70,No underlying disease
+1378,76,Male,Positive,Positive,36.50,No underlying disease
+1380,56,Female,Positive,Positive,39.00,No underlying disease
+1381,58,Female,Positive,Positive,38.60,No underlying disease
+1382,61,Male,Positive,Positive,40.00,No underlying disease
+1383,51,Female,Positive,Positive,36.20,No underlying disease
+1384,60,Female,Positive,Positive,38.00,No underlying disease
+1386,53,Male,Positive,Positive,39.00,No underlying disease
+1387,57,Male,Positive,Positive,37.50,No underlying disease
+1388,52,Female,Positive,Positive,37.50,No underlying disease
+1389,23,Female,Positive,Positive,36.50,No underlying disease
+1390,50,Female,Positive,Positive,39.10,No underlying disease
+1391,58,Female,Positive,Positive,39.00,No underlying disease
+1393,47,Male,Positive,Positive,39.50,No underlying disease
+1394,51,Male,Positive,Positive,38.00,No underlying disease
+1395,38,Male,Positive,Positive,38.00,No underlying disease
+1396,49,Male,Positive,Positive,39.30,No underlying disease
+1397,52,Male,Positive,Positive,37.50,No underlying disease
+1398,45,Female,Positive,Positive,36.50,No underlying disease
+1403,48,Male,Positive,Positive,38.50,No underlying disease
+1404,57,Female,Positive,Positive,28.80,No underlying disease
+1407,31,Female,Positive,Positive,37.30,No underlying disease
+1408,70,Female,Positive,Positive,39.00,No underlying disease
+1413,43,Male,Negative,Negative,38.60,No underlying disease
+1415,6,Female,Negative,Negative,39.50,No underlying disease
+1428,2,Male,Negative,Negative,39.20,No underlying disease
+1429,68,Male,Negative,Negative,36.50,No underlying disease
+1447,32,Female,Negative,Negative,40.00,No underlying disease
+1451,1,Female,Negative,Negative,37.50,No underlying disease
+1452,29,Male,Negative,Negative,36.60,No underlying disease
+1453,2,Female,Negative,Negative,39.90,No underlying disease
+1456,2,Female,Negative,Negative,41.00,No underlying disease
+1457,2,Female,Negative,Negative,38.60,No underlying disease
+1463,61,Male,Negative,Negative,36.60,No underlying disease
+1465,31,Female,Negative,Negative,39.60,No underlying disease
+1466,59,Male,Negative,Negative,36.50,No underlying disease
+1468,31,Female,Negative,Negative,37.10,No underlying disease
+1469,54,Male,Negative,Negative,36.80,No underlying disease
+1475,69,Male,Negative,Negative,36.70,No underlying disease
+1486,7,Male,Negative,Negative,38.80,No underlying disease
+1496,74,Male,Negative,Negative,36.30,No underlying disease
+1497,91,Female,Negative,Negative,39.00,No underlying disease
+1508,65,Male,Negative,Negative,36.30,No underlying disease
+1512,47,Male,Negative,Negative,38.00,No underlying disease
+1516,52,Male,Positive,Positive,38.90,No underlying disease
+1518,66,Female,Positive,Positive,36.60,No underlying disease
+1520,66,Female,Positive,Positive,36.60,No underlying disease
+1418,57,Male,Negative,Negative,36.60,"Non Hodgkin's lymphoma, Coronary atherosclerotic heart disease, Diabetes"
+30,74,Female,Positive,Positive,37.80,Old pulmonary tuberculosis
+299,75,Male,Positive,Positive,36.50,Old pulmonary tuberculosis
+46,50,Male,Positive,Positive,39.00,Pancreatic cancer with metastasis
+707,55,Male,Negative,Negative,36.60,Pancreatitis
+71,46,Male,Positive,Positive,37.50,Pancreatoduodenectomy
+1432,76,Female,Negative,Negative,38.80,Parkinson disease
+1500,67,Male,Negative,Negative,36.30,Parkinson disease
+963,78,Male,Negative,Positive,36.20,"Parkinson, Urinary tract infection, Bladder stones, Chronic bronchitis, Emphysema, Right femoral neck fracture, Coronary atherosclerotic heart disease, Cerebral infarction, Lower extremity arteriosclerotic occlusive disease, Gallstone"
+220,47,Male,Positive,Positive,39.30,Partial thyroidectomy
+269,74,Male,Positive,Positive,39.20,Percutaneous coronary intervention
+759,70,Female,Negative,Negative,36.70,Percutaneous coronary intervention
+17,41,Female,Positive,Positive,38.80,Pituitary adenoma
+773,52,Female,Negative,Negative,36.60,Polycystic kidney
+325,29,Female,Positive,N/A,38.30,Polycystic ovary syndrome
+1514,60,Male,Negative,Negative,36.50,Postoperative cerebral aneurysm
+3,65,Female,Positive,Positive,38.50,Postoperative cervical cancer
+301,64,Female,Positive,N/A,36.60,Postoperative cervical cancer
+376,36,Female,Positive,N/A,37.30,Postoperative ectopic pregnancy
+1208,76,Male,Positive,Positive,37.90,Postoperative prostate cancer
+1482,57,Female,Negative,Negative,36.60,Postoperative thyroid cancer
+483,83,Male,Positive,Positive,36.70,Prostate cancer with bone metastasis
+1151,71,Female,Negative,Positive,38.40,"Psoriasis, Rheumatoid arthritis, Hypoglycemia, Acute pancreatitis, Cholecystectomy, Caesarean section"
+315,68,Male,Positive,N/A,38.50,"Pulmonary encephalopathy, Hypertension"
+771,48,Male,Negative,Negative,36.60,Pulmonary nodule
+900,30,Male,Positive,Negative,36.00,Pulmonary nodule
+1490,83,Male,Negative,Negative,36.60,Pulmonary nodule
+1502,55,Male,Negative,Negative,37.50,"Pulmonary nodule, Hypertension"
+585,26,Male,Positive,Positive,38.70,"Pulmonary nodule, Postoperative testicular cancer"
+714,60,Female,Negative,Negative,36.50,Radical operation of colon cancer
+1444,73,Male,Negative,Negative,36.50,Radical resection of rectal cancer
+201,47,Female,Positive,Positive,38.50,Radiofrequency ablation
+530,66,Female,Positive,N/A,39.00,"Renal insufficiency, Hypertension"
+192,75,Female,Negative,Positive,39.00,"Repair of atrial defect, Resection of left upper lobe nodule"
+28,62,Male,Positive,Positive,39.40,Resection of bladder cancer
+60,65,Male,Positive,N/A,36.00,"Resection of hepatic carcinoma, Targeted combined immunotherapy"
+240,55,Female,Positive,Positive,39.00,Resection of lung cancer
+258,66,Female,Positive,Positive,38.80,Resection of ovarian cancer
+1410,54,Male,Negative,Negative,36.50,Rheumatic heart disease
+1414,49,Male,Negative,Negative,37.00,"Rheumatic heart disease, Atrial fibrillation"
+1483,59,Male,Negative,Negative,36.40,"Rheumatic heart disease, Hypertension, Bilateral bronchitis, Cholecystitis"
+476,84,Female,Positive,Positive,37.50,"Rheumatic heart disease, Mechanical mitral valve replacement"
+710,58,Female,Negative,Negative,36.60,Rheumatism
+600,82,Female,Negative,Positive,38.80,"Right inguinal incarcerated hernia, Intestinal obstruction, Interstitial lesions of both lungs"
+681,73,Female,Negative,N/A,36.30,"Right lung space occupying lesion, Hypertension, Diabetes"
+277,71,Male,Positive,Positive,38.50,Right nephrectomy
+754,34,Male,Negative,Negative,38.20,Right renal transplant
+1327,82,Female,Positive,Positive,37.10,Schistosome cirrhosis after splenectomy
+551,78,Male,Negative,Negative,36.30,"Senile degenerative valvular disease, Severe aortic regurgitation, Atherosclerosis"
+653,57,Male,Negative,N/A,36.80,"Severe anaemia, Chronic bronchitis, Emphysema, Renal cyst"
+623,26,Male,Negative,N/A,38.00,Severe aplastic anemia
+636,27,Female,Negative,Positive,37.00,Severe pre-eclampsia
+659,40,Female,Negative,Positive,36.10,"Space occupying lesion of pancreas, Hepatitis B"
+1427,69,Male,Negative,Negative,36.60,"Squamous cell carcinoma of the lower lobe of the right lung, Hypertension, Chronic hepatitis B, Emphysema"
+777,61,Female,Positive,Positive,37.50,Stroke
+1188,51,Female,Positive,Positive,36.60,Systemic lupus erythematosus
+1294,53,Female,Positive,Positive,37.50,Systemic lupus erythematosus
+671,54,Male,Negative,Positive,36.60,"Targeted therapy after lung cancer surgery, Coronary disease, Atrial fibrillation"
+313,80,Female,Negative,N/A,36.70,"Targeted therapy after lung cancer surgery, Extensive atherosclerosis of arteries in both lower extremities, Diabetes, Hypertension"
+1461,69,Male,Negative,Negative,39.60,Thrombocytopenia
+461,57,Female,Positive,Positive,38.60,"Thyroid cyst, Fatty liver"
+101,66,Female,Positive,Positive,38.50,Thyroid gland resection
+346,29,Female,Positive,N/A,38.30,Thyroid gland resection
+477,35,Female,Positive,N/A,36.50,Thyroid gland resection
+385,66,Female,Positive,N/A,38.80,"Thyroid gland resection, Hypothyroidism"
+42,31,Female,Positive,Negative,36.60,Thyroid nodule
+1345,37,Female,Positive,Positive,38.70,Thyroid nodule
+118,37,Female,Negative,Positive,38.80,"Thyroid nodule, Hashimoto thyroiditis, Uterine myomectomy"
+89,43,Female,Positive,Positive,38.50,"Thyroid nodule, Uterine fibroid"
+146,34,Male,Positive,Positive,39.20,Tonsillectomy
+18,72,Male,Positive,Positive,39.00,"Tonsillectomy, Diabetes"
+1105,82,Male,Negative,Positive,36.60,"Trial fibrillation, Hypertension, Permanent pacemaker implantation, Type 2 diabetes, Cerebral infarction, Duodenal ulcer, Prostatic hyperplasia, Chronic bronchitis"
+426,20,Male,Positive,Positive,40.50,"Type B lymphocytic leukemia, Hematopoietic stem cell transplantation"
+39,46,Female,Positive,Positive,37.80,Uterine fibroid
+459,67,Male,Positive,Positive,36.60,"Valvular heart disease, Lactic acidosis, Hypertension"
+626,56,Male,Negative,Positive,36.50,"Valvular heart disease, Sinus rhythm"
+482,72,Male,Positive,Positive,37.50,Vascular sclerosis
+948,19,Female,Negative,N/A,36.60,Vasovagal syncope
