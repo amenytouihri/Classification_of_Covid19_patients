@@ -1,4 +1,4 @@
-# Classification-of-Covid-patients-based-on-their-health-situations
+# Classification of Covid patients based on their health situations
 
 Dataset: http://ictcf.biocuckoo.cn/Resource.php
 
